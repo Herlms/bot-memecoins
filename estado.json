@@ -1,19 +1,6 @@
 {
-  "caixa": 925.9690875566885,
-  "posicoes": {
-    "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump": {
-      "simbolo": "WORTHLESS",
-      "url": "https://dexscreener.com/solana/hnjy1mvocfbpnxwtanscceqnr5t2ackyfyuskwjhee3j",
-      "qtd": 209869.53827436798,
-      "custo": 48.73521513456255,
-      "preco_entrada": 0.0002285,
-      "preco_atual": 0.0002658,
-      "preco_max": 0.0002658,
-      "liq_entrada": 41147.93,
-      "entrada_ts": 1792423227.544709,
-      "falhas": 0
-    }
-  },
+  "caixa": 995.3533584849584,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -122,6 +109,18 @@
       "horas": 0.08,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/haewlk7ysun3tsyit87zzwq1jdpgvp2mvffpbde8seit"
+    },
+    {
+      "data_saida": "2026-10-19T15:34:01",
+      "simbolo": "WORTHLESS",
+      "token": "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump",
+      "custo_usd": 48.74,
+      "recebido_usd": 69.38,
+      "pnl_usd": 20.65,
+      "pnl_pct": 42.37,
+      "horas": 0.23,
+      "motivo": "take profit",
+      "url": "https://dexscreener.com/solana/hnjy1mvocfbpnxwtanscceqnr5t2ackyfyuskwjhee3j"
     }
   ],
   "ultimo_trade": {
@@ -138,6 +137,6 @@
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,
-  "pnl_dia": -25.29569730874928,
+  "pnl_dia": -4.646641515041889,
   "inicio": "2026-10-19T03:05:36"
 }

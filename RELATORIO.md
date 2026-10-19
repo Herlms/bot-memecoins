@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 15:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 15:34 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $981.75** (-1.82% vs $1000)
+**Valor da carteira: $995.35** (-0.46% vs $1000)
 
-Caixa: $925.97 · Posições abertas: 1
+Caixa: $995.35 · Posições abertas: 0
 
-Trades fechados: 9 · Ganhadores: 3 (33%)
+Trades fechados: 10 · Ganhadores: 4 (40%)
 
-P&L realizado: $-25.30 · Média por trade: -5.6%
+P&L realizado: $-4.65 · Média por trade: -0.8%
 
 Melhor: XBT +47.7% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 5, take profit: 3, trailing stop: 1
+Saídas: stop loss: 5, take profit: 4, trailing stop: 1
 
 ## Últimos 10 trades
 
+- 2026-10-19T15:34:01 · WORTHLESS · +42.4% · take profit
 - 2026-10-19T10:35:19 · Mimi · -36.8% · stop loss
 - 2026-10-19T08:00:47 · KIBI · -25.0% · stop loss
 - 2026-10-19T08:00:47 · XBT · +47.7% · take profit
@@ -26,6 +27,3 @@ Saídas: stop loss: 5, take profit: 3, trailing stop: 1
 - 2026-10-19T05:45:26 · SXSITBL · -24.0% · stop loss
 - 2026-10-19T05:03:35 · CATONICE · -53.8% · stop loss
 
-## Posições abertas
-
-- WORTHLESS +16.3% (custo $48.74)
