@@ -1,26 +1,26 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 06:35 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 06:40 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $975.01** (-2.50% vs $1000)
+**Valor da carteira: $1003.44** (+0.34% vs $1000)
 
-Caixa: $882.95 · Posições abertas: 2
+Caixa: $951.92 · Posições abertas: 1
 
-Trades fechados: 3 · Ganhadores: 1 (33%)
+Trades fechados: 4 · Ganhadores: 2 (50%)
 
-P&L realizado: $-19.65 · Média por trade: -13.0%
+P&L realizado: $+0.48 · Média por trade: +0.6%
 
-Melhor: startupSI +38.8% · Pior: CATONICE -53.8%
+Melhor: Faucet +41.2% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 2, take profit: 1
+Saídas: stop loss: 2, take profit: 2
 
 ## Últimos 10 trades
 
+- 2026-10-19T06:40:25 · Faucet · +41.2% · take profit
 - 2026-10-19T06:25:19 · startupSI · +38.8% · take profit
 - 2026-10-19T05:45:26 · SXSITBL · -24.0% · stop loss
 - 2026-10-19T05:03:35 · CATONICE · -53.8% · stop loss
 
 ## Posições abertas
 
-- Doomsday +0.1% (custo $48.56)
-- Faucet -8.0% (custo $48.83)
+- Doomsday +7.8% (custo $48.56)
