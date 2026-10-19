@@ -1,25 +1,13 @@
 {
-  "caixa": 887.133280641837,
+  "caixa": 931.299020533904,
   "posicoes": {
-    "GaPbQwLDPjSXGR9JxxG1aJLNthuxG58dM2XukBi8pump": {
-      "simbolo": "Doomsday",
-      "url": "https://dexscreener.com/solana/5u57wosvaf9uyvbtw1pzyueseu2sqnqiqut1bcd5mjdl",
-      "qtd": 78273.61360599697,
-      "custo": 48.56420415044957,
-      "preco_entrada": 0.0006108,
-      "preco_atual": 0.0006578,
-      "preco_max": 0.0007458,
-      "liq_entrada": 68765.04,
-      "entrada_ts": 1792388427.175793,
-      "falhas": 0
-    },
     "8NfX91yvHXyHKn8cnMjg9Q4bCeRLKFDoVtEomXstpump": {
       "simbolo": "XBT",
       "url": "https://dexscreener.com/solana/9cbefgu7crlytn7tfdr52o5yn4ppj8vy1wvdszk9gzsg",
       "qtd": 116634.2146165907,
       "custo": 50.03878283516041,
       "preco_entrada": 0.0004223,
-      "preco_atual": 0.0004261,
+      "preco_atual": 0.000396,
       "preco_max": 0.0004849,
       "liq_entrada": 59512.57,
       "entrada_ts": 1792392921.8525386,
@@ -86,6 +74,18 @@
       "horas": 0.17,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/4ufatgvccpcj9urpokmjscbfi9qwy85gnn98yy68yl1a"
+    },
+    {
+      "data_saida": "2026-10-19T07:10:25",
+      "simbolo": "Doomsday",
+      "token": "GaPbQwLDPjSXGR9JxxG1aJLNthuxG58dM2XukBi8pump",
+      "custo_usd": 48.56,
+      "recebido_usd": 44.17,
+      "pnl_usd": -4.4,
+      "pnl_pct": -9.06,
+      "horas": 1.5,
+      "motivo": "trailing stop",
+      "url": "https://dexscreener.com/solana/5u57wosvaf9uyvbtw1pzyueseu2sqnqiqut1bcd5mjdl"
     }
   ],
   "ultimo_trade": {
@@ -99,6 +99,6 @@
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,
-  "pnl_dia": -14.263732372553044,
+  "pnl_dia": -18.66219663093559,
   "inicio": "2026-10-19T03:05:36"
 }
