@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 22:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 22:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $955.29** (-4.47% vs $1000)
+**Valor da carteira: $954.54** (-4.55% vs $1000)
 
-Caixa: $955.29 · Posições abertas: 0
+Caixa: $907.52 · Posições abertas: 1
 
 Trades fechados: 13 · Ganhadores: 4 (31%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 8, take profit: 4, trailing stop: 1
 - 2026-10-19T07:05:20 · NVYX · -29.5% · stop loss
 - 2026-10-19T06:40:25 · Faucet · +41.2% · take profit
 
+## Posições abertas
+
+- COLLECTOOOR +0.0% (custo $47.76)
