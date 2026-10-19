@@ -1,31 +1,6 @@
 {
-  "caixa": 882.394387162,
-  "posicoes": {
-    "8NfX91yvHXyHKn8cnMjg9Q4bCeRLKFDoVtEomXstpump": {
-      "simbolo": "XBT",
-      "url": "https://dexscreener.com/solana/9cbefgu7crlytn7tfdr52o5yn4ppj8vy1wvdszk9gzsg",
-      "qtd": 116634.2146165907,
-      "custo": 50.03878283516041,
-      "preco_entrada": 0.0004223,
-      "preco_atual": 0.0004919,
-      "preco_max": 0.0004919,
-      "liq_entrada": 59512.57,
-      "entrada_ts": 1792392921.8525386,
-      "falhas": 0
-    },
-    "3WdryhSr7fsFqG2u26eMiLRr8zye3BbFGyqUhBYFpump": {
-      "simbolo": "KIBI",
-      "url": "https://dexscreener.com/solana/fckuvpnd4msr1z3yob9zbockv7xhoj5dabearrgegase",
-      "qtd": 390460.1128825017,
-      "custo": 48.90463337190401,
-      "preco_entrada": 0.0001232,
-      "preco_atual": 0.0001002,
-      "preco_max": 0.00013,
-      "liq_entrada": 31629.78,
-      "entrada_ts": 1792395926.8928492,
-      "falhas": 0
-    }
-  },
+  "caixa": 992.9903825722099,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -98,6 +73,30 @@
       "horas": 1.5,
       "motivo": "trailing stop",
       "url": "https://dexscreener.com/solana/5u57wosvaf9uyvbtw1pzyueseu2sqnqiqut1bcd5mjdl"
+    },
+    {
+      "data_saida": "2026-10-19T08:00:47",
+      "simbolo": "XBT",
+      "token": "8NfX91yvHXyHKn8cnMjg9Q4bCeRLKFDoVtEomXstpump",
+      "custo_usd": 50.04,
+      "recebido_usd": 73.93,
+      "pnl_usd": 23.89,
+      "pnl_pct": 47.74,
+      "horas": 1.09,
+      "motivo": "take profit",
+      "url": "https://dexscreener.com/solana/9cbefgu7crlytn7tfdr52o5yn4ppj8vy1wvdszk9gzsg"
+    },
+    {
+      "data_saida": "2026-10-19T08:00:47",
+      "simbolo": "KIBI",
+      "token": "3WdryhSr7fsFqG2u26eMiLRr8zye3BbFGyqUhBYFpump",
+      "custo_usd": 48.9,
+      "recebido_usd": 36.67,
+      "pnl_usd": -12.23,
+      "pnl_pct": -25.02,
+      "horas": 0.26,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/fckuvpnd4msr1z3yob9zbockv7xhoj5dabearrgegase"
     }
   ],
   "ultimo_trade": {
@@ -112,6 +111,6 @@
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,
-  "pnl_dia": -18.66219663093559,
+  "pnl_dia": -7.009617427790246,
   "inicio": "2026-10-19T03:05:36"
 }

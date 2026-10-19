@@ -5,3 +5,5 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-10-19T06:40:25,Faucet,8PDdpHqRavHphRYw6dauzidnx7M83g2gi4gbLn3wpump,48.83,68.97,20.13,41.23,0.25,take profit,https://dexscreener.com/solana/5lfdeutbw5bbbkjzp4mnbrqphprfgqjyvhfsq1m6ya8x
 2026-10-19T07:05:20,NVYX,63MpZrueHZqxY4RYXhbBXFP6A2UVj1yDxhj9hhRpump,50.0,35.25,-14.75,-29.49,0.17,stop loss,https://dexscreener.com/solana/4ufatgvccpcj9urpokmjscbfi9qwy85gnn98yy68yl1a
 2026-10-19T07:10:25,Doomsday,GaPbQwLDPjSXGR9JxxG1aJLNthuxG58dM2XukBi8pump,48.56,44.17,-4.4,-9.06,1.5,trailing stop,https://dexscreener.com/solana/5u57wosvaf9uyvbtw1pzyueseu2sqnqiqut1bcd5mjdl
+2026-10-19T08:00:47,XBT,8NfX91yvHXyHKn8cnMjg9Q4bCeRLKFDoVtEomXstpump,50.04,73.93,23.89,47.74,1.09,take profit,https://dexscreener.com/solana/9cbefgu7crlytn7tfdr52o5yn4ppj8vy1wvdszk9gzsg
+2026-10-19T08:00:47,KIBI,3WdryhSr7fsFqG2u26eMiLRr8zye3BbFGyqUhBYFpump,48.9,36.67,-12.23,-25.02,0.26,stop loss,https://dexscreener.com/solana/fckuvpnd4msr1z3yob9zbockv7xhoj5dabearrgegase
