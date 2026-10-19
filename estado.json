@@ -1,6 +1,19 @@
 {
-  "caixa": 992.9903825722099,
-  "posicoes": {},
+  "caixa": 943.3408634435995,
+  "posicoes": {
+    "8CYyivwMZPg6Edaofxo3eHiveZkDrU6TtUDwtMjTpump": {
+      "simbolo": "Mimi",
+      "url": "https://dexscreener.com/solana/haewlk7ysun3tsyit87zzwq1jdpgvp2mvffpbde8seit",
+      "qtd": 91837.68647082783,
+      "custo": 49.6495191286105,
+      "preco_entrada": 0.0005322,
+      "preco_atual": 0.0005322,
+      "preco_max": 0.0005322,
+      "liq_entrada": 66493.92,
+      "entrada_ts": 1792405838.5402699,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -107,7 +120,8 @@
     "8PDdpHqRavHphRYw6dauzidnx7M83g2gi4gbLn3wpump": 1792391119.530784,
     "8NfX91yvHXyHKn8cnMjg9Q4bCeRLKFDoVtEomXstpump": 1792392921.85254,
     "63MpZrueHZqxY4RYXhbBXFP6A2UVj1yDxhj9hhRpump": 1792392921.8526723,
-    "3WdryhSr7fsFqG2u26eMiLRr8zye3BbFGyqUhBYFpump": 1792395926.8928502
+    "3WdryhSr7fsFqG2u26eMiLRr8zye3BbFGyqUhBYFpump": 1792395926.8928502,
+    "8CYyivwMZPg6Edaofxo3eHiveZkDrU6TtUDwtMjTpump": 1792405838.540271
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,

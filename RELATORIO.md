@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 10:25 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 10:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $992.99** (-0.70% vs $1000)
+**Valor da carteira: $992.22** (-0.78% vs $1000)
 
-Caixa: $992.99 · Posições abertas: 0
+Caixa: $943.34 · Posições abertas: 1
 
 Trades fechados: 8 · Ganhadores: 3 (38%)
 
@@ -25,3 +25,6 @@ Saídas: stop loss: 4, take profit: 3, trailing stop: 1
 - 2026-10-19T05:45:26 · SXSITBL · -24.0% · stop loss
 - 2026-10-19T05:03:35 · CATONICE · -53.8% · stop loss
 
+## Posições abertas
+
+- Mimi +0.0% (custo $49.65)
