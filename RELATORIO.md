@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 06:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 07:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $999.17** (-0.08% vs $1000)
+**Valor da carteira: $1006.90** (+0.69% vs $1000)
 
 Caixa: $851.88 · Posições abertas: 3
 
@@ -23,6 +23,6 @@ Saídas: stop loss: 2, take profit: 2
 
 ## Posições abertas
 
-- Doomsday +2.2% (custo $48.56)
-- XBT +0.0% (custo $50.04)
-- NVYX +0.0% (custo $50.00)
+- Doomsday +22.1% (custo $48.56)
+- XBT +14.8% (custo $50.04)
+- NVYX -18.5% (custo $50.00)
