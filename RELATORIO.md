@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 06:45 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 06:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $997.72** (-0.23% vs $1000)
+**Valor da carteira: $997.18** (-0.28% vs $1000)
 
 Caixa: $951.92 · Posições abertas: 1
 
@@ -23,4 +23,4 @@ Saídas: stop loss: 2, take profit: 2
 
 ## Posições abertas
 
-- Doomsday -4.2% (custo $48.56)
+- Doomsday -5.3% (custo $48.56)
