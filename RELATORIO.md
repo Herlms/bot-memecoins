@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 20:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 20:35 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $994.54** (-0.55% vs $1000)
+**Valor da carteira: $994.29** (-0.57% vs $1000)
 
 Caixa: $945.59 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 5, take profit: 4, trailing stop: 1
 
 ## Posições abertas
 
-- MOMO +0.0% (custo $49.77)
+- MOMO -0.5% (custo $49.77)
