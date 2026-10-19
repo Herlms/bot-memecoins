@@ -1,5 +1,5 @@
 {
-  "caixa": 951.9172670903449,
+  "caixa": 851.8789091201528,
   "posicoes": {
     "GaPbQwLDPjSXGR9JxxG1aJLNthuxG58dM2XukBi8pump": {
       "simbolo": "Doomsday",
@@ -7,10 +7,34 @@
       "qtd": 78273.61360599697,
       "custo": 48.56420415044957,
       "preco_entrada": 0.0006108,
-      "preco_atual": 0.0005782,
+      "preco_atual": 0.0006242,
       "preco_max": 0.0006762,
       "liq_entrada": 68765.04,
       "entrada_ts": 1792388427.175793,
+      "falhas": 0
+    },
+    "8NfX91yvHXyHKn8cnMjg9Q4bCeRLKFDoVtEomXstpump": {
+      "simbolo": "XBT",
+      "url": "https://dexscreener.com/solana/9cbefgu7crlytn7tfdr52o5yn4ppj8vy1wvdszk9gzsg",
+      "qtd": 116634.2146165907,
+      "custo": 50.03878283516041,
+      "preco_entrada": 0.0004223,
+      "preco_atual": 0.0004223,
+      "preco_max": 0.0004223,
+      "liq_entrada": 59512.57,
+      "entrada_ts": 1792392921.8525386,
+      "falhas": 0
+    },
+    "63MpZrueHZqxY4RYXhbBXFP6A2UVj1yDxhj9hhRpump": {
+      "simbolo": "NVYX",
+      "url": "https://dexscreener.com/solana/4ufatgvccpcj9urpokmjscbfi9qwy85gnn98yy68yl1a",
+      "qtd": 359221.71208229667,
+      "custo": 49.9995751350317,
+      "preco_entrada": 0.0001369,
+      "preco_atual": 0.0001369,
+      "preco_max": 0.0001369,
+      "liq_entrada": 30601.63,
+      "entrada_ts": 1792392921.8526714,
       "falhas": 0
     }
   },
@@ -69,7 +93,9 @@
     "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump": 1792386215.637554,
     "DTv7s3yLWxgNTFAFQzuhy9nwNAXwoa9GjmWPiN3epump": 1792387271.4130204,
     "GaPbQwLDPjSXGR9JxxG1aJLNthuxG58dM2XukBi8pump": 1792388427.1757944,
-    "8PDdpHqRavHphRYw6dauzidnx7M83g2gi4gbLn3wpump": 1792391119.530784
+    "8PDdpHqRavHphRYw6dauzidnx7M83g2gi4gbLn3wpump": 1792391119.530784,
+    "8NfX91yvHXyHKn8cnMjg9Q4bCeRLKFDoVtEomXstpump": 1792392921.85254,
+    "63MpZrueHZqxY4RYXhbBXFP6A2UVj1yDxhj9hhRpump": 1792392921.8526723
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,
