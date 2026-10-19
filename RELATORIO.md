@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 06:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 06:35 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $966.36** (-3.36% vs $1000)
+**Valor da carteira: $975.01** (-2.50% vs $1000)
 
 Caixa: $882.95 · Posições abertas: 2
 
@@ -22,5 +22,5 @@ Saídas: stop loss: 2, take profit: 1
 
 ## Posições abertas
 
-- Doomsday -8.2% (custo $48.56)
-- Faucet -17.7% (custo $48.83)
+- Doomsday +0.1% (custo $48.56)
+- Faucet -8.0% (custo $48.83)
