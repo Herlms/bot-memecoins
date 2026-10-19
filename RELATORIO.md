@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 06:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 06:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $960.30** (-3.97% vs $1000)
+**Valor da carteira: $962.18** (-3.78% vs $1000)
 
 Caixa: $864.24 · Posições abertas: 2
 
@@ -21,5 +21,5 @@ Saídas: stop loss: 2
 
 ## Posições abertas
 
-- startupSI +8.1% (custo $48.66)
-- Doomsday -7.5% (custo $48.56)
+- startupSI +15.2% (custo $48.66)
+- Doomsday -10.6% (custo $48.56)
