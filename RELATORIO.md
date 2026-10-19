@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 07:40 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 07:45 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $981.65** (-1.83% vs $1000)
+**Valor da carteira: $977.29** (-2.27% vs $1000)
 
-Caixa: $931.30 · Posições abertas: 1
+Caixa: $882.39 · Posições abertas: 2
 
 Trades fechados: 6 · Ganhadores: 2 (33%)
 
@@ -25,4 +25,5 @@ Saídas: stop loss: 3, take profit: 2, trailing stop: 1
 
 ## Posições abertas
 
-- XBT +2.2% (custo $50.04)
+- XBT -5.0% (custo $50.04)
+- KIBI +0.0% (custo $48.90)

@@ -1,5 +1,5 @@
 {
-  "caixa": 931.299020533904,
+  "caixa": 882.394387162,
   "posicoes": {
     "8NfX91yvHXyHKn8cnMjg9Q4bCeRLKFDoVtEomXstpump": {
       "simbolo": "XBT",
@@ -7,10 +7,22 @@
       "qtd": 116634.2146165907,
       "custo": 50.03878283516041,
       "preco_entrada": 0.0004223,
-      "preco_atual": 0.0004317,
+      "preco_atual": 0.0004012,
       "preco_max": 0.0004849,
       "liq_entrada": 59512.57,
       "entrada_ts": 1792392921.8525386,
+      "falhas": 0
+    },
+    "3WdryhSr7fsFqG2u26eMiLRr8zye3BbFGyqUhBYFpump": {
+      "simbolo": "KIBI",
+      "url": "https://dexscreener.com/solana/fckuvpnd4msr1z3yob9zbockv7xhoj5dabearrgegase",
+      "qtd": 390460.1128825017,
+      "custo": 48.90463337190401,
+      "preco_entrada": 0.0001232,
+      "preco_atual": 0.0001232,
+      "preco_max": 0.0001232,
+      "liq_entrada": 31629.78,
+      "entrada_ts": 1792395926.8928492,
       "falhas": 0
     }
   },
@@ -95,7 +107,8 @@
     "GaPbQwLDPjSXGR9JxxG1aJLNthuxG58dM2XukBi8pump": 1792388427.1757944,
     "8PDdpHqRavHphRYw6dauzidnx7M83g2gi4gbLn3wpump": 1792391119.530784,
     "8NfX91yvHXyHKn8cnMjg9Q4bCeRLKFDoVtEomXstpump": 1792392921.85254,
-    "63MpZrueHZqxY4RYXhbBXFP6A2UVj1yDxhj9hhRpump": 1792392921.8526723
+    "63MpZrueHZqxY4RYXhbBXFP6A2UVj1yDxhj9hhRpump": 1792392921.8526723,
+    "3WdryhSr7fsFqG2u26eMiLRr8zye3BbFGyqUhBYFpump": 1792395926.8928502
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,
