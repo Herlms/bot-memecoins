@@ -1,5 +1,5 @@
 {
-  "caixa": 851.8789091201528,
+  "caixa": 887.133280641837,
   "posicoes": {
     "GaPbQwLDPjSXGR9JxxG1aJLNthuxG58dM2XukBi8pump": {
       "simbolo": "Doomsday",
@@ -7,7 +7,7 @@
       "qtd": 78273.61360599697,
       "custo": 48.56420415044957,
       "preco_entrada": 0.0006108,
-      "preco_atual": 0.0007458,
+      "preco_atual": 0.0006578,
       "preco_max": 0.0007458,
       "liq_entrada": 68765.04,
       "entrada_ts": 1792388427.175793,
@@ -19,22 +19,10 @@
       "qtd": 116634.2146165907,
       "custo": 50.03878283516041,
       "preco_entrada": 0.0004223,
-      "preco_atual": 0.0004849,
+      "preco_atual": 0.0004261,
       "preco_max": 0.0004849,
       "liq_entrada": 59512.57,
       "entrada_ts": 1792392921.8525386,
-      "falhas": 0
-    },
-    "63MpZrueHZqxY4RYXhbBXFP6A2UVj1yDxhj9hhRpump": {
-      "simbolo": "NVYX",
-      "url": "https://dexscreener.com/solana/4ufatgvccpcj9urpokmjscbfi9qwy85gnn98yy68yl1a",
-      "qtd": 359221.71208229667,
-      "custo": 49.9995751350317,
-      "preco_entrada": 0.0001369,
-      "preco_atual": 0.0001116,
-      "preco_max": 0.0001369,
-      "liq_entrada": 30601.63,
-      "entrada_ts": 1792392921.8526714,
       "falhas": 0
     }
   },
@@ -86,6 +74,18 @@
       "horas": 0.25,
       "motivo": "take profit",
       "url": "https://dexscreener.com/solana/5lfdeutbw5bbbkjzp4mnbrqphprfgqjyvhfsq1m6ya8x"
+    },
+    {
+      "data_saida": "2026-10-19T07:05:20",
+      "simbolo": "NVYX",
+      "token": "63MpZrueHZqxY4RYXhbBXFP6A2UVj1yDxhj9hhRpump",
+      "custo_usd": 50.0,
+      "recebido_usd": 35.25,
+      "pnl_usd": -14.75,
+      "pnl_pct": -29.49,
+      "horas": 0.17,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/4ufatgvccpcj9urpokmjscbfi9qwy85gnn98yy68yl1a"
     }
   ],
   "ultimo_trade": {
@@ -99,6 +99,6 @@
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,
-  "pnl_dia": 0.48147124079445547,
+  "pnl_dia": -14.263732372553044,
   "inicio": "2026-10-19T03:05:36"
 }
