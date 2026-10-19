@@ -1,5 +1,5 @@
 {
-  "caixa": 924.447100728003,
+  "caixa": 875.9680726487717,
   "posicoes": {
     "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump": {
       "simbolo": "startupSI",
@@ -7,10 +7,22 @@
       "qtd": 10027.429650438491,
       "custo": 48.655110564631734,
       "preco_entrada": 0.004779,
-      "preco_atual": 0.004779,
+      "preco_atual": 0.004501,
       "preco_max": 0.004779,
       "liq_entrada": 202083.22,
       "entrada_ts": 1792386215.637553,
+      "falhas": 0
+    },
+    "DTv7s3yLWxgNTFAFQzuhy9nwNAXwoa9GjmWPiN3epump": {
+      "simbolo": "SXSITBL",
+      "url": "https://dexscreener.com/solana/ho4x6qkr8k5df1pgg7f39xwsqbqivluh7ms6zsgrggab",
+      "qtd": 139189.84137355429,
+      "custo": 48.47902807923133,
+      "preco_entrada": 0.0003428,
+      "preco_atual": 0.0003428,
+      "preco_max": 0.0003428,
+      "liq_entrada": 51161.51,
+      "entrada_ts": 1792387271.4130194,
       "falhas": 0
     }
   },
@@ -30,7 +42,8 @@
   ],
   "ultimo_trade": {
     "6yMZv1NgnQWBeocyfCNKmdqGr3Enu3Lrdpz3TJRvpump": 1792379136.5136476,
-    "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump": 1792386215.637554
+    "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump": 1792386215.637554,
+    "DTv7s3yLWxgNTFAFQzuhy9nwNAXwoa9GjmWPiN3epump": 1792387271.4130204
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,
