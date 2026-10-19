@@ -1,25 +1,39 @@
 {
-  "caixa": 950.0,
+  "caixa": 924.447100728003,
   "posicoes": {
-    "6yMZv1NgnQWBeocyfCNKmdqGr3Enu3Lrdpz3TJRvpump": {
-      "simbolo": "CATONICE",
-      "url": "https://dexscreener.com/solana/2aegstad7cztrd536xtxkjky88hvthvwsda5tuctqd6v",
-      "qtd": 42478.67697249365,
-      "custo": 50.0,
-      "preco_entrada": 0.001159,
-      "preco_atual": 0.001159,
-      "preco_max": 0.001159,
-      "liq_entrada": 98918.53,
-      "entrada_ts": 1792379136.5136461,
+    "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump": {
+      "simbolo": "startupSI",
+      "url": "https://dexscreener.com/solana/ascpffyzxmnhhfhqqwawtcrmasguzcjtwyu6os6cqd2r",
+      "qtd": 10027.429650438491,
+      "custo": 48.655110564631734,
+      "preco_entrada": 0.004779,
+      "preco_atual": 0.004779,
+      "preco_max": 0.004779,
+      "liq_entrada": 202083.22,
+      "entrada_ts": 1792386215.637553,
       "falhas": 0
     }
   },
-  "fechados": [],
+  "fechados": [
+    {
+      "data_saida": "2026-10-19T05:03:35",
+      "simbolo": "CATONICE",
+      "token": "6yMZv1NgnQWBeocyfCNKmdqGr3Enu3Lrdpz3TJRvpump",
+      "custo_usd": 50.0,
+      "recebido_usd": 23.1,
+      "pnl_usd": -26.9,
+      "pnl_pct": -53.8,
+      "horas": 1.97,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/2aegstad7cztrd536xtxkjky88hvthvwsda5tuctqd6v"
+    }
+  ],
   "ultimo_trade": {
-    "6yMZv1NgnQWBeocyfCNKmdqGr3Enu3Lrdpz3TJRvpump": 1792379136.5136476
+    "6yMZv1NgnQWBeocyfCNKmdqGr3Enu3Lrdpz3TJRvpump": 1792379136.5136476,
+    "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump": 1792386215.637554
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,
-  "pnl_dia": 0.0,
+  "pnl_dia": -26.897788707365322,
   "inicio": "2026-10-19T03:05:36"
 }
