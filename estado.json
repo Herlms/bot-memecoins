@@ -1,19 +1,6 @@
 {
-  "caixa": 907.5238365636,
-  "posicoes": {
-    "ESnW5ZbLmoEAg2QEMxnMsY9R3aS8Kw58HJacYURmpump": {
-      "simbolo": "COLLECTOOOR",
-      "url": "https://dexscreener.com/solana/9yf6szskpr7yeshde3mqp4acxgynricdrxpxr9gfye27",
-      "qtd": 121907.55335759555,
-      "custo": 47.76441245071579,
-      "preco_entrada": 0.0003857,
-      "preco_atual": 0.0005346,
-      "preco_max": 0.0005346,
-      "liq_entrada": 62998.43,
-      "entrada_ts": 1792450520.371725,
-      "falhas": 0
-    }
-  },
+  "caixa": 991.0204603893758,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -170,6 +157,18 @@
       "horas": 0.42,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/26wtteu7up8dcpzpcaf5f6nu7rgkr471kkgamnjvoibp"
+    },
+    {
+      "data_saida": "2026-10-19T23:10:26",
+      "simbolo": "COLLECTOOOR",
+      "token": "ESnW5ZbLmoEAg2QEMxnMsY9R3aS8Kw58HJacYURmpump",
+      "custo_usd": 47.76,
+      "recebido_usd": 83.5,
+      "pnl_usd": 35.73,
+      "pnl_pct": 74.81,
+      "horas": 0.25,
+      "motivo": "take profit",
+      "url": "https://dexscreener.com/solana/9yf6szskpr7yeshde3mqp4acxgynricdrxpxr9gfye27"
     }
   ],
   "ultimo_trade": {
@@ -190,6 +189,6 @@
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,
-  "pnl_dia": -44.71175098568452,
+  "pnl_dia": -8.979539610624506,
   "inicio": "2026-10-19T03:05:36"
 }

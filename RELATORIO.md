@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 23:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 23:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $972.70** (-2.73% vs $1000)
+**Valor da carteira: $991.02** (-0.90% vs $1000)
 
-Caixa: $907.52 · Posições abertas: 1
+Caixa: $991.02 · Posições abertas: 0
 
-Trades fechados: 13 · Ganhadores: 4 (31%)
+Trades fechados: 14 · Ganhadores: 5 (36%)
 
-P&L realizado: $-44.71 · Média por trade: -6.8%
+P&L realizado: $-8.98 · Média por trade: -1.0%
 
-Melhor: XBT +47.7% · Pior: CATONICE -53.8%
+Melhor: COLLECTOOOR +74.8% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 8, take profit: 4, trailing stop: 1
+Saídas: stop loss: 8, take profit: 5, trailing stop: 1
 
 ## Últimos 10 trades
 
+- 2026-10-19T23:10:26 · COLLECTOOOR · +74.8% · take profit
 - 2026-10-19T22:45:26 · Mii · -30.2% · stop loss
 - 2026-10-19T22:30:37 · Onion · -24.2% · stop loss
 - 2026-10-19T22:25:20 · MOMO · -26.4% · stop loss
@@ -25,8 +26,4 @@ Saídas: stop loss: 8, take profit: 4, trailing stop: 1
 - 2026-10-19T08:00:47 · XBT · +47.7% · take profit
 - 2026-10-19T07:10:25 · Doomsday · -9.1% · trailing stop
 - 2026-10-19T07:05:20 · NVYX · -29.5% · stop loss
-- 2026-10-19T06:40:25 · Faucet · +41.2% · take profit
 
-## Posições abertas
-
-- COLLECTOOOR +38.6% (custo $47.76)
