@@ -1,5 +1,5 @@
 {
-  "caixa": 883.1704005979213,
+  "caixa": 920.901344768527,
   "posicoes": {
     "FyS5rugapWRcBRAmnBMaq9A16wYKKk8mqoF9JnUoi3JD": {
       "simbolo": "Mii",
@@ -7,22 +7,10 @@
       "qtd": 149885.94181948845,
       "custo": 49.29832636644427,
       "preco_entrada": 0.0003237,
-      "preco_atual": 0.0004143,
+      "preco_atual": 0.0004046,
       "preco_max": 0.0004143,
       "liq_entrada": 49240.99,
       "entrada_ts": 1792448425.655439,
-      "falhas": 0
-    },
-    "7gPmhsksQ5vwtgE7vCn121qHyZjep4R5J7NNDygaHTho": {
-      "simbolo": "Onion",
-      "url": "https://dexscreener.com/solana/fuzd6g6viy7hzfmb6nsbd9bfyheaotrdukpdf1zjqg9f",
-      "qtd": 96138.95704680165,
-      "custo": 49.750955068091336,
-      "preco_entrada": 0.0005094,
-      "preco_atual": 0.0005094,
-      "preco_max": 0.0005094,
-      "liq_entrada": 62022.19,
-      "entrada_ts": 1792448720.9883652,
       "falhas": 0
     }
   },
@@ -158,6 +146,18 @@
       "horas": 1.91,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/psevxbyorpslz55vnjsbaw7a1yanpdsymyjijp1cujz"
+    },
+    {
+      "data_saida": "2026-10-19T22:30:37",
+      "simbolo": "Onion",
+      "token": "7gPmhsksQ5vwtgE7vCn121qHyZjep4R5J7NNDygaHTho",
+      "custo_usd": 49.75,
+      "recebido_usd": 37.73,
+      "pnl_usd": -12.02,
+      "pnl_pct": -24.16,
+      "horas": 0.09,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/fuzd6g6viy7hzfmb6nsbd9bfyheaotrdukpdf1zjqg9f"
     }
   ],
   "ultimo_trade": {
@@ -177,6 +177,6 @@
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,
-  "pnl_dia": -17.780317967543372,
+  "pnl_dia": -29.800328865029027,
   "inicio": "2026-10-19T03:05:36"
 }
