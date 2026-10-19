@@ -1,19 +1,6 @@
 {
-  "caixa": 920.901344768527,
-  "posicoes": {
-    "FyS5rugapWRcBRAmnBMaq9A16wYKKk8mqoF9JnUoi3JD": {
-      "simbolo": "Mii",
-      "url": "https://dexscreener.com/solana/26wtteu7up8dcpzpcaf5f6nu7rgkr471kkgamnjvoibp",
-      "qtd": 149885.94181948845,
-      "custo": 49.29832636644427,
-      "preco_entrada": 0.0003237,
-      "preco_atual": 0.000365,
-      "preco_max": 0.0004143,
-      "liq_entrada": 49240.99,
-      "entrada_ts": 1792448425.655439,
-      "falhas": 0
-    }
-  },
+  "caixa": 955.2882490143157,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -158,6 +145,18 @@
       "horas": 0.09,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/fuzd6g6viy7hzfmb6nsbd9bfyheaotrdukpdf1zjqg9f"
+    },
+    {
+      "data_saida": "2026-10-19T22:45:26",
+      "simbolo": "Mii",
+      "token": "FyS5rugapWRcBRAmnBMaq9A16wYKKk8mqoF9JnUoi3JD",
+      "custo_usd": 49.3,
+      "recebido_usd": 34.39,
+      "pnl_usd": -14.91,
+      "pnl_pct": -30.25,
+      "horas": 0.42,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/26wtteu7up8dcpzpcaf5f6nu7rgkr471kkgamnjvoibp"
     }
   ],
   "ultimo_trade": {
@@ -177,6 +176,6 @@
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,
-  "pnl_dia": -29.800328865029027,
+  "pnl_dia": -44.71175098568452,
   "inicio": "2026-10-19T03:05:36"
 }
