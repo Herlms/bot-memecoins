@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 22:35 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 22:40 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $977.63** (-2.24% vs $1000)
+**Valor da carteira: $975.61** (-2.44% vs $1000)
 
 Caixa: $920.90 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 7, take profit: 4, trailing stop: 1
 
 ## Posições abertas
 
-- Mii +16.9% (custo $49.30)
+- Mii +12.8% (custo $49.30)
