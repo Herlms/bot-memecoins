@@ -1,0 +1,25 @@
+{
+  "caixa": 950.0,
+  "posicoes": {
+    "6yMZv1NgnQWBeocyfCNKmdqGr3Enu3Lrdpz3TJRvpump": {
+      "simbolo": "CATONICE",
+      "url": "https://dexscreener.com/solana/2aegstad7cztrd536xtxkjky88hvthvwsda5tuctqd6v",
+      "qtd": 42478.67697249365,
+      "custo": 50.0,
+      "preco_entrada": 0.001159,
+      "preco_atual": 0.001159,
+      "preco_max": 0.001159,
+      "liq_entrada": 98918.53,
+      "entrada_ts": 1792379136.5136461,
+      "falhas": 0
+    }
+  },
+  "fechados": [],
+  "ultimo_trade": {
+    "6yMZv1NgnQWBeocyfCNKmdqGr3Enu3Lrdpz3TJRvpump": 1792379136.5136476
+  },
+  "dia": "2026-10-19",
+  "valor_inicio_dia": 1000.0,
+  "pnl_dia": 0.0,
+  "inicio": "2026-10-19T03:05:36"
+}
