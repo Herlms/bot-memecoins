@@ -1,0 +1,32 @@
+name: Bot memecoins (simulação)
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # a cada ~10 minutos
+  workflow_dispatch:          # botão "Run workflow" para correr à mão
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bot-memecoins
+  cancel-in-progress: false
+
+jobs:
+  ciclo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Correr um ciclo do bot
+        run: python3 bot_memecoins.py ciclo
+
+      - name: Guardar estado no repositório
+        run: |
+          git config user.name "bot-memecoins"
+          git config user.email "bot-memecoins@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "ciclo $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase
+          git push
