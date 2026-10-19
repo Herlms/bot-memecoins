@@ -1,5 +1,5 @@
 {
-  "caixa": 827.4038684983221,
+  "caixa": 864.2415565416303,
   "posicoes": {
     "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump": {
       "simbolo": "startupSI",
@@ -7,22 +7,10 @@
       "qtd": 10027.429650438491,
       "custo": 48.655110564631734,
       "preco_entrada": 0.004779,
-      "preco_atual": 0.004625,
+      "preco_atual": 0.00461,
       "preco_max": 0.004779,
       "liq_entrada": 202083.22,
       "entrada_ts": 1792386215.637553,
-      "falhas": 0
-    },
-    "DTv7s3yLWxgNTFAFQzuhy9nwNAXwoa9GjmWPiN3epump": {
-      "simbolo": "SXSITBL",
-      "url": "https://dexscreener.com/solana/ho4x6qkr8k5df1pgg7f39xwsqbqivluh7ms6zsgrggab",
-      "qtd": 139189.84137355429,
-      "custo": 48.47902807923133,
-      "preco_entrada": 0.0003428,
-      "preco_atual": 0.0003516,
-      "preco_max": 0.0003689,
-      "liq_entrada": 51161.51,
-      "entrada_ts": 1792387271.4130194,
       "falhas": 0
     },
     "GaPbQwLDPjSXGR9JxxG1aJLNthuxG58dM2XukBi8pump": {
@@ -31,8 +19,8 @@
       "qtd": 78273.61360599697,
       "custo": 48.56420415044957,
       "preco_entrada": 0.0006108,
-      "preco_atual": 0.0006108,
-      "preco_max": 0.0006108,
+      "preco_atual": 0.0006144,
+      "preco_max": 0.0006144,
       "liq_entrada": 68765.04,
       "entrada_ts": 1792388427.175793,
       "falhas": 0
@@ -50,6 +38,18 @@
       "horas": 1.97,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/2aegstad7cztrd536xtxkjky88hvthvwsda5tuctqd6v"
+    },
+    {
+      "data_saida": "2026-10-19T05:45:26",
+      "simbolo": "SXSITBL",
+      "token": "DTv7s3yLWxgNTFAFQzuhy9nwNAXwoa9GjmWPiN3epump",
+      "custo_usd": 48.48,
+      "recebido_usd": 36.84,
+      "pnl_usd": -11.64,
+      "pnl_pct": -24.01,
+      "horas": 0.4,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/ho4x6qkr8k5df1pgg7f39xwsqbqivluh7ms6zsgrggab"
     }
   ],
   "ultimo_trade": {
@@ -60,6 +60,6 @@
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,
-  "pnl_dia": -26.897788707365322,
+  "pnl_dia": -38.539128743288465,
   "inicio": "2026-10-19T03:05:36"
 }
