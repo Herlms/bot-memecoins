@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 23:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 23:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $971.16** (-2.88% vs $1000)
+**Valor da carteira: $972.70** (-2.73% vs $1000)
 
 Caixa: $907.52 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 8, take profit: 4, trailing stop: 1
 
 ## Posições abertas
 
-- COLLECTOOOR +35.3% (custo $47.76)
+- COLLECTOOOR +38.6% (custo $47.76)
