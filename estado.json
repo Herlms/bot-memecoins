@@ -1,6 +1,19 @@
 {
-  "caixa": 995.3533584849584,
-  "posicoes": {},
+  "caixa": 945.5856905607105,
+  "posicoes": {
+    "FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump": {
+      "simbolo": "MOMO",
+      "url": "https://dexscreener.com/solana/psevxbyorpslz55vnjsbaw7a1yanpdsymyjijp1cujz",
+      "qtd": 412765.37634851196,
+      "custo": 49.767667924247924,
+      "preco_entrada": 0.0001186,
+      "preco_atual": 0.0001186,
+      "preco_max": 0.0001186,
+      "liq_entrada": 32347.95,
+      "entrada_ts": 1792441840.8563821,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -133,7 +146,8 @@
     "63MpZrueHZqxY4RYXhbBXFP6A2UVj1yDxhj9hhRpump": 1792392921.8526723,
     "3WdryhSr7fsFqG2u26eMiLRr8zye3BbFGyqUhBYFpump": 1792395926.8928502,
     "8CYyivwMZPg6Edaofxo3eHiveZkDrU6TtUDwtMjTpump": 1792405838.540271,
-    "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump": 1792423227.5447104
+    "87sEXKPMBeoryaqFQQnq1Yq6mUvjeNzhiFGxJbRjpump": 1792423227.5447104,
+    "FhTRVAkQeiaLRJHYc13DBNhgw9N8ZPacvonaKfXxpump": 1792441840.8563833
   },
   "dia": "2026-10-19",
   "valor_inicio_dia": 1000.0,

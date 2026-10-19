@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-19 20:25 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-19 20:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $995.35** (-0.46% vs $1000)
+**Valor da carteira: $994.54** (-0.55% vs $1000)
 
-Caixa: $995.35 · Posições abertas: 0
+Caixa: $945.59 · Posições abertas: 1
 
 Trades fechados: 10 · Ganhadores: 4 (40%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 5, take profit: 4, trailing stop: 1
 - 2026-10-19T05:45:26 · SXSITBL · -24.0% · stop loss
 - 2026-10-19T05:03:35 · CATONICE · -53.8% · stop loss
 
+## Posições abertas
+
+- MOMO +0.0% (custo $49.77)
