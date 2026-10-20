@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 08:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 08:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $928.20** (-7.18% vs $1000)
+**Valor da carteira: $930.90** (-6.91% vs $1000)
 
 Caixa: $836.75 · Posições abertas: 2
 
@@ -29,5 +29,5 @@ Saídas: stop loss: 13, take profit: 6, trailing stop: 4
 
 ## Posições abertas
 
-- EVOLVE +0.0% (custo $46.48)
-- Twyne +0.0% (custo $46.45)
+- EVOLVE +17.0% (custo $46.48)
+- Twyne -11.1% (custo $46.45)
