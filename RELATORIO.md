@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 05:40 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 05:45 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $954.86** (-4.51% vs $1000)
+**Valor da carteira: $957.52** (-4.25% vs $1000)
 
 Caixa: $865.99 · Posições abertas: 2
 
@@ -29,5 +29,5 @@ Saídas: stop loss: 11, take profit: 6, trailing stop: 3
 
 ## Posições abertas
 
-- startupSI -14.2% (custo $49.51)
-- LEONIDA +0.0% (custo $47.78)
+- startupSI -12.5% (custo $49.51)
+- LEONIDA +3.9% (custo $47.78)
