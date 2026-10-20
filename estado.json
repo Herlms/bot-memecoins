@@ -7,8 +7,8 @@
       "qtd": 121411.51872989445,
       "custo": 49.55102301946879,
       "preco_entrada": 0.0004017,
-      "preco_atual": 0.0004411,
-      "preco_max": 0.000449,
+      "preco_atual": 0.0005118,
+      "preco_max": 0.0005118,
       "liq_entrada": 54244.94,
       "entrada_ts": 1792455920.6985433,
       "falhas": 0
@@ -19,8 +19,8 @@
       "qtd": 108962.02438219877,
       "custo": 49.751202914083166,
       "preco_entrada": 0.0004495,
-      "preco_atual": 0.0004495,
-      "preco_max": 0.0004495,
+      "preco_atual": 0.0005193,
+      "preco_max": 0.0005193,
       "liq_entrada": 71181.65,
       "entrada_ts": 1792456520.529688,
       "falhas": 0
