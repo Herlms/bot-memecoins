@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 08:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 08:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $921.61** (-7.84% vs $1000)
+**Valor da carteira: $910.77** (-8.92% vs $1000)
 
 Caixa: $871.00 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 14, take profit: 6, trailing stop: 4
 
 ## Posições abertas
 
-- EVOLVE +10.6% (custo $46.48)
+- EVOLVE -13.1% (custo $46.48)
