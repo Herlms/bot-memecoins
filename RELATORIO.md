@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 00:25 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 00:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $990.24** (-0.98% vs $1000)
+**Valor da carteira: $995.98** (-0.40% vs $1000)
 
 Caixa: $941.47 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 8, take profit: 5, trailing stop: 1
 
 ## Posições abertas
 
-- GDC +0.0% (custo $49.55)
+- GDC +11.8% (custo $49.55)
