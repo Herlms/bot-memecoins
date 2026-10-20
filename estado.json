@@ -1,19 +1,6 @@
 {
-  "caixa": 901.2633966942313,
-  "posicoes": {
-    "5YY5qcnh5F3JaAybXqr5wLvb2GXZcE34GgE7DPyzpump": {
-      "simbolo": "LEONIDA",
-      "url": "https://dexscreener.com/solana/8slz3av6zzukevinsk39g15kr1ryfep31xgzt3euovgh",
-      "qtd": 309432.56353070907,
-      "custo": 47.7817247459042,
-      "preco_entrada": 0.0001519,
-      "preco_atual": 0.0001892,
-      "preco_max": 0.0001892,
-      "liq_entrada": 32092.34,
-      "entrada_ts": 1792474825.5149395,
-      "falhas": 0
-    }
-  },
+  "caixa": 947.7996514150867,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -266,6 +253,18 @@
       "horas": 2.25,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/ascpffyzxmnhhfhqqwawtcrmasguzcjtwyu6os6cqd2r"
+    },
+    {
+      "data_saida": "2026-10-20T06:25:24",
+      "simbolo": "LEONIDA",
+      "token": "5YY5qcnh5F3JaAybXqr5wLvb2GXZcE34GgE7DPyzpump",
+      "custo_usd": 47.78,
+      "recebido_usd": 46.54,
+      "pnl_usd": -1.25,
+      "pnl_pct": -2.61,
+      "horas": 0.75,
+      "motivo": "trailing stop",
+      "url": "https://dexscreener.com/solana/8slz3av6zzukevinsk39g15kr1ryfep31xgzt3euovgh"
     }
   ],
   "ultimo_trade": {
@@ -293,6 +292,6 @@
   },
   "dia": "2026-10-20",
   "valor_inicio_dia": 991.0204603893758,
-  "pnl_dia": -41.97533894924047,
+  "pnl_dia": -43.220808974289284,
   "inicio": "2026-10-19T03:05:36"
 }
