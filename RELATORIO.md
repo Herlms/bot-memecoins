@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 01:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 01:20 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $965.38** (-3.46% vs $1000)
+**Valor da carteira: $966.32** (-3.37% vs $1000)
 
 Caixa: $879.70 · Posições abertas: 2
 
@@ -30,4 +30,4 @@ Saídas: stop loss: 9, take profit: 5, trailing stop: 2
 ## Posições abertas
 
 - YOKAI -6.6% (custo $49.89)
-- aDOGymous -18.2% (custo $49.43)
+- aDOGymous -16.3% (custo $49.43)
