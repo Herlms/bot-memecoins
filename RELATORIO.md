@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 04:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 04:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $989.03** (-1.10% vs $1000)
+**Valor da carteira: $988.89** (-1.11% vs $1000)
 
-Caixa: $940.74 · Posições abertas: 1
+Caixa: $891.26 · Posições abertas: 2
 
 Trades fechados: 18 · Ganhadores: 7 (39%)
 
@@ -29,4 +29,5 @@ Saídas: stop loss: 10, take profit: 6, trailing stop: 2
 
 ## Posições abertas
 
-- startupSI -1.0% (custo $49.51)
+- startupSI +0.3% (custo $49.51)
+- BORLY +0.0% (custo $49.48)

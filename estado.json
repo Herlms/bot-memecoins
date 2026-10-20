@@ -1,5 +1,5 @@
 {
-  "caixa": 940.7443351204015,
+  "caixa": 891.2623905441678,
   "posicoes": {
     "EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump": {
       "simbolo": "startupSI",
@@ -7,10 +7,22 @@
       "qtd": 2449.627074362364,
       "custo": 49.51285974317902,
       "preco_entrada": 0.01991,
-      "preco_atual": 0.01971,
+      "preco_atual": 0.01996,
       "preco_max": 0.02043,
       "liq_entrada": 439091.18,
       "entrada_ts": 1792467626.2663941,
+      "falhas": 0
+    },
+    "ECFmFaHyJ8krXErN1QAxqUq97xCFUWYv9Ax5j2Aspump": {
+      "simbolo": "BORLY",
+      "url": "https://dexscreener.com/solana/3puekclpfocgpgyo6mvbfkzsuqtukq3eapz99adhsj8r",
+      "qtd": 25538.81697536056,
+      "custo": 49.48194457623371,
+      "preco_entrada": 0.001908,
+      "preco_atual": 0.001908,
+      "preco_max": 0.001908,
+      "liq_entrada": 125637.25,
+      "entrada_ts": 1792469425.489345,
       "falhas": 0
     }
   },
@@ -250,7 +262,8 @@
     "FFUd9sB1Aehe5aWNX7QkBrJvXPkLvh18RW9iMpqtpump": 1792455920.698545,
     "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1": 1792456520.5296888,
     "B86LTrZDrH8G9zqMvXzFfwH8txDy8Sy7TZabjabTkids": 1792457125.4120493,
-    "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792457720.2882571
+    "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792457720.2882571,
+    "ECFmFaHyJ8krXErN1QAxqUq97xCFUWYv9Ax5j2Aspump": 1792469425.4893467
   },
   "dia": "2026-10-20",
   "valor_inicio_dia": 991.0204603893758,
