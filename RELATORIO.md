@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 01:45 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 01:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $965.39** (-3.46% vs $1000)
+**Valor da carteira: $965.56** (-3.44% vs $1000)
 
 Caixa: $917.47 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 10, take profit: 5, trailing stop: 2
 
 ## Posições abertas
 
-- YOKAI -2.5% (custo $49.89)
+- YOKAI -2.1% (custo $49.89)
