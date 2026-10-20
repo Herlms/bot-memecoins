@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 06:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 06:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $953.40** (-4.66% vs $1000)
+**Valor da carteira: $949.97** (-5.00% vs $1000)
 
 Caixa: $901.26 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 12, take profit: 6, trailing stop: 3
 
 ## Posições abertas
 
-- LEONIDA +10.9% (custo $47.78)
+- LEONIDA +3.6% (custo $47.78)
