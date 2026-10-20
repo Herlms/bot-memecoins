@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 07:45 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 07:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $947.06** (-5.29% vs $1000)
+**Valor da carteira: $929.68** (-7.03% vs $1000)
 
-Caixa: $900.41 · Posições abertas: 1
+Caixa: $929.68 · Posições abertas: 0
 
-Trades fechados: 22 · Ganhadores: 7 (32%)
+Trades fechados: 23 · Ganhadores: 7 (30%)
 
-P&L realizado: $-52.20 · Média por trade: -4.6%
+P&L realizado: $-70.32 · Média por trade: -6.1%
 
 Melhor: COLLECTOOOR +74.8% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 12, take profit: 6, trailing stop: 4
+Saídas: stop loss: 13, take profit: 6, trailing stop: 4
 
 ## Últimos 10 trades
 
+- 2026-10-20T07:50:26 · サトシ · -38.2% · stop loss
 - 2026-10-20T06:25:24 · LEONIDA · -2.6% · trailing stop
 - 2026-10-20T05:55:19 · startupSI · -28.8% · stop loss
 - 2026-10-20T05:40:25 · DACITY · -50.7% · stop loss
@@ -25,8 +26,4 @@ Saídas: stop loss: 12, take profit: 6, trailing stop: 4
 - 2026-10-20T01:15:25 · Pokémon · -26.4% · stop loss
 - 2026-10-20T00:45:25 · GDC · +2.3% · trailing stop
 - 2026-10-19T23:10:26 · COLLECTOOOR · +74.8% · take profit
-- 2026-10-19T22:45:26 · Mii · -30.2% · stop loss
 
-## Posições abertas
-
-- サトシ +0.0% (custo $47.39)

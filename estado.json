@@ -1,19 +1,6 @@
 {
-  "caixa": 900.4096688443324,
-  "posicoes": {
-    "AeNQSoEJJe1fBim6AVpndX1zp9HdotMypBXkJL1qpump": {
-      "simbolo": "サトシ",
-      "url": "https://dexscreener.com/solana/buvkpj4nwbcckh4gnhoxtcg23j9oga7btdbgjqungfla",
-      "qtd": 463244.2709348731,
-      "custo": 47.389982570754334,
-      "preco_entrada": 0.0001007,
-      "preco_atual": 0.0001007,
-      "preco_max": 0.0001007,
-      "liq_entrada": 58410.08,
-      "entrada_ts": 1792482327.1912553,
-      "falhas": 0
-    }
-  },
+  "caixa": 929.6844610539816,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -278,6 +265,18 @@
       "horas": 0.75,
       "motivo": "trailing stop",
       "url": "https://dexscreener.com/solana/8slz3av6zzukevinsk39g15kr1ryfep31xgzt3euovgh"
+    },
+    {
+      "data_saida": "2026-10-20T07:50:26",
+      "simbolo": "サトシ",
+      "token": "AeNQSoEJJe1fBim6AVpndX1zp9HdotMypBXkJL1qpump",
+      "custo_usd": 47.39,
+      "recebido_usd": 29.27,
+      "pnl_usd": -18.12,
+      "pnl_pct": -38.23,
+      "horas": 0.08,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/buvkpj4nwbcckh4gnhoxtcg23j9oga7btdbgjqungfla"
     }
   ],
   "ultimo_trade": {
@@ -306,6 +305,6 @@
   },
   "dia": "2026-10-20",
   "valor_inicio_dia": 991.0204603893758,
-  "pnl_dia": -43.220808974289284,
+  "pnl_dia": -61.33599933539433,
   "inicio": "2026-10-19T03:05:36"
 }
