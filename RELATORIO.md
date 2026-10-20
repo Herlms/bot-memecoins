@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 04:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 04:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $993.07** (-0.69% vs $1000)
+**Valor da carteira: $994.52** (-0.55% vs $1000)
 
 Caixa: $938.64 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 10, take profit: 6, trailing stop: 3
 
 ## Posições abertas
 
-- startupSI +11.6% (custo $49.51)
+- startupSI +14.6% (custo $49.51)
