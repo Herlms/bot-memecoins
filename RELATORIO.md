@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 08:45 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 08:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $912.74** (-8.73% vs $1000)
+**Valor da carteira: $893.31** (-10.67% vs $1000)
 
-Caixa: $871.00 · Posições abertas: 1
+Caixa: $893.31 · Posições abertas: 0
 
-Trades fechados: 24 · Ganhadores: 7 (29%)
+Trades fechados: 25 · Ganhadores: 7 (28%)
 
-P&L realizado: $-82.52 · Média por trade: -6.9%
+P&L realizado: $-106.70 · Média por trade: -8.7%
 
 Melhor: COLLECTOOOR +74.8% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 14, take profit: 6, trailing stop: 4
+Saídas: stop loss: 15, take profit: 6, trailing stop: 4
 
 ## Últimos 10 trades
 
+- 2026-10-20T08:50:26 · EVOLVE · -52.0% · stop loss
 - 2026-10-20T08:10:25 · Twyne · -26.3% · stop loss
 - 2026-10-20T07:50:26 · サトシ · -38.2% · stop loss
 - 2026-10-20T06:25:24 · LEONIDA · -2.6% · trailing stop
@@ -25,8 +26,4 @@ Saídas: stop loss: 14, take profit: 6, trailing stop: 4
 - 2026-10-20T02:10:24 · YOKAI · +45.9% · take profit
 - 2026-10-20T01:25:19 · aDOGymous · -23.6% · stop loss
 - 2026-10-20T01:15:25 · Pokémon · -26.4% · stop loss
-- 2026-10-20T00:45:25 · GDC · +2.3% · trailing stop
 
-## Posições abertas
-
-- EVOLVE -8.8% (custo $46.48)
