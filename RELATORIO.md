@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 00:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 00:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $985.72** (-1.43% vs $1000)
+**Valor da carteira: $987.89** (-1.21% vs $1000)
 
-Caixa: $892.52 · Posições abertas: 2
+Caixa: $843.09 · Posições abertas: 3
 
 Trades fechados: 15 · Ganhadores: 6 (40%)
 
@@ -29,5 +29,6 @@ Saídas: stop loss: 8, take profit: 5, trailing stop: 2
 
 ## Posições abertas
 
-- Pokémon -10.3% (custo $49.75)
-- YOKAI +0.2% (custo $49.89)
+- Pokémon -3.1% (custo $49.75)
+- YOKAI -0.9% (custo $49.89)
+- aDOGymous +0.0% (custo $49.43)
