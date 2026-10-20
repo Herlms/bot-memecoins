@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 01:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 01:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $972.78** (-2.72% vs $1000)
+**Valor da carteira: $965.38** (-3.46% vs $1000)
 
-Caixa: $843.09 · Posições abertas: 3
+Caixa: $879.70 · Posições abertas: 2
 
-Trades fechados: 15 · Ganhadores: 6 (40%)
+Trades fechados: 16 · Ganhadores: 6 (38%)
 
-P&L realizado: $-7.83 · Média por trade: -0.8%
+P&L realizado: $-20.97 · Média por trade: -2.4%
 
 Melhor: COLLECTOOOR +74.8% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 8, take profit: 5, trailing stop: 2
+Saídas: stop loss: 9, take profit: 5, trailing stop: 2
 
 ## Últimos 10 trades
 
+- 2026-10-20T01:15:25 · Pokémon · -26.4% · stop loss
 - 2026-10-20T00:45:25 · GDC · +2.3% · trailing stop
 - 2026-10-19T23:10:26 · COLLECTOOOR · +74.8% · take profit
 - 2026-10-19T22:45:26 · Mii · -30.2% · stop loss
@@ -25,10 +26,8 @@ Saídas: stop loss: 8, take profit: 5, trailing stop: 2
 - 2026-10-19T10:35:19 · Mimi · -36.8% · stop loss
 - 2026-10-19T08:00:47 · KIBI · -25.0% · stop loss
 - 2026-10-19T08:00:47 · XBT · +47.7% · take profit
-- 2026-10-19T07:10:25 · Doomsday · -9.1% · trailing stop
 
 ## Posições abertas
 
-- Pokémon -16.9% (custo $49.75)
-- YOKAI -8.0% (custo $49.89)
-- aDOGymous -10.0% (custo $49.43)
+- YOKAI -6.6% (custo $49.89)
+- aDOGymous -18.2% (custo $49.43)
