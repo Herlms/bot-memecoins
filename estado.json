@@ -1,19 +1,6 @@
 {
-  "caixa": 917.4722508952252,
-  "posicoes": {
-    "B86LTrZDrH8G9zqMvXzFfwH8txDy8Sy7TZabjabTkids": {
-      "simbolo": "YOKAI",
-      "url": "https://dexscreener.com/solana/3oxwfrk3gdrk8seksrmtkdsjgj5frx1nkqycqicyuj76",
-      "qtd": 88584.67099465372,
-      "custo": 49.893336490869416,
-      "preco_entrada": 0.0005546,
-      "preco_atual": 0.0006486,
-      "preco_max": 0.0006486,
-      "liq_entrada": 104215.17,
-      "entrada_ts": 1792457125.4120483,
-      "falhas": 0
-    }
-  },
+  "caixa": 990.2571948635805,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -218,6 +205,18 @@
       "horas": 0.5,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/7zkaftloac8l4khnswuid8qcwcprdqndkpt1yngdukc4"
+    },
+    {
+      "data_saida": "2026-10-20T02:10:24",
+      "simbolo": "YOKAI",
+      "token": "B86LTrZDrH8G9zqMvXzFfwH8txDy8Sy7TZabjabTkids",
+      "custo_usd": 49.89,
+      "recebido_usd": 72.78,
+      "pnl_usd": 22.89,
+      "pnl_pct": 45.88,
+      "horas": 1.42,
+      "motivo": "take profit",
+      "url": "https://dexscreener.com/solana/3oxwfrk3gdrk8seksrmtkdsjgj5frx1nkqycqicyuj76"
     }
   ],
   "ultimo_trade": {
@@ -242,6 +241,6 @@
   },
   "dia": "2026-10-20",
   "valor_inicio_dia": 991.0204603893758,
-  "pnl_dia": -23.65487300328129,
+  "pnl_dia": -0.7632655257953971,
   "inicio": "2026-10-19T03:05:36"
 }
