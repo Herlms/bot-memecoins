@@ -1,28 +1,28 @@
 {
-  "caixa": 891.7182344558239,
+  "caixa": 892.522619118418,
   "posicoes": {
-    "FFUd9sB1Aehe5aWNX7QkBrJvXPkLvh18RW9iMpqtpump": {
-      "simbolo": "GDC",
-      "url": "https://dexscreener.com/solana/jbqorrrwrhk8jbxuxogvigu3gva6hbrw4d6wi1uhn2ya",
-      "qtd": 121411.51872989445,
-      "custo": 49.55102301946879,
-      "preco_entrada": 0.0004017,
-      "preco_atual": 0.0005118,
-      "preco_max": 0.0005118,
-      "liq_entrada": 54244.94,
-      "entrada_ts": 1792455920.6985433,
-      "falhas": 0
-    },
     "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1": {
       "simbolo": "Pokémon",
       "url": "https://dexscreener.com/solana/cxyug8pvwbbkw41mlaq7j87ft3drydjzv2a5pgwb31an",
       "qtd": 108962.02438219877,
       "custo": 49.751202914083166,
       "preco_entrada": 0.0004495,
-      "preco_atual": 0.0005193,
+      "preco_atual": 0.0005089,
       "preco_max": 0.0005193,
       "liq_entrada": 71181.65,
       "entrada_ts": 1792456520.529688,
+      "falhas": 0
+    },
+    "B86LTrZDrH8G9zqMvXzFfwH8txDy8Sy7TZabjabTkids": {
+      "simbolo": "YOKAI",
+      "url": "https://dexscreener.com/solana/3oxwfrk3gdrk8seksrmtkdsjgj5frx1nkqycqicyuj76",
+      "qtd": 88584.67099465372,
+      "custo": 49.893336490869416,
+      "preco_entrada": 0.0005546,
+      "preco_atual": 0.0005546,
+      "preco_max": 0.0005546,
+      "liq_entrada": 104215.17,
+      "entrada_ts": 1792457125.4120483,
       "falhas": 0
     }
   },
@@ -194,6 +194,18 @@
       "horas": 0.25,
       "motivo": "take profit",
       "url": "https://dexscreener.com/solana/9yf6szskpr7yeshde3mqp4acxgynricdrxpxr9gfye27"
+    },
+    {
+      "data_saida": "2026-10-20T00:45:25",
+      "simbolo": "GDC",
+      "token": "FFUd9sB1Aehe5aWNX7QkBrJvXPkLvh18RW9iMpqtpump",
+      "custo_usd": 49.55,
+      "recebido_usd": 50.7,
+      "pnl_usd": 1.15,
+      "pnl_pct": 2.31,
+      "horas": 0.33,
+      "motivo": "trailing stop",
+      "url": "https://dexscreener.com/solana/jbqorrrwrhk8jbxuxogvigu3gva6hbrw4d6wi1uhn2ya"
     }
   ],
   "ultimo_trade": {
@@ -212,10 +224,11 @@
     "7gPmhsksQ5vwtgE7vCn121qHyZjep4R5J7NNDygaHTho": 1792448720.9883664,
     "ESnW5ZbLmoEAg2QEMxnMsY9R3aS8Kw58HJacYURmpump": 1792450520.371726,
     "FFUd9sB1Aehe5aWNX7QkBrJvXPkLvh18RW9iMpqtpump": 1792455920.698545,
-    "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1": 1792456520.5296888
+    "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1": 1792456520.5296888,
+    "B86LTrZDrH8G9zqMvXzFfwH8txDy8Sy7TZabjabTkids": 1792457125.4120493
   },
   "dia": "2026-10-20",
   "valor_inicio_dia": 991.0204603893758,
-  "pnl_dia": 0.0,
+  "pnl_dia": 1.1466981339946756,
   "inicio": "2026-10-19T03:05:36"
 }

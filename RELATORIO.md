@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 00:40 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 00:45 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $1010.44** (+1.04% vs $1000)
+**Valor da carteira: $997.10** (-0.29% vs $1000)
 
-Caixa: $891.72 · Posições abertas: 2
+Caixa: $892.52 · Posições abertas: 2
 
-Trades fechados: 14 · Ganhadores: 5 (36%)
+Trades fechados: 15 · Ganhadores: 6 (40%)
 
-P&L realizado: $-8.98 · Média por trade: -1.0%
+P&L realizado: $-7.83 · Média por trade: -0.8%
 
 Melhor: COLLECTOOOR +74.8% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 8, take profit: 5, trailing stop: 1
+Saídas: stop loss: 8, take profit: 5, trailing stop: 2
 
 ## Últimos 10 trades
 
+- 2026-10-20T00:45:25 · GDC · +2.3% · trailing stop
 - 2026-10-19T23:10:26 · COLLECTOOOR · +74.8% · take profit
 - 2026-10-19T22:45:26 · Mii · -30.2% · stop loss
 - 2026-10-19T22:30:37 · Onion · -24.2% · stop loss
@@ -25,9 +26,8 @@ Saídas: stop loss: 8, take profit: 5, trailing stop: 1
 - 2026-10-19T08:00:47 · KIBI · -25.0% · stop loss
 - 2026-10-19T08:00:47 · XBT · +47.7% · take profit
 - 2026-10-19T07:10:25 · Doomsday · -9.1% · trailing stop
-- 2026-10-19T07:05:20 · NVYX · -29.5% · stop loss
 
 ## Posições abertas
 
-- GDC +27.4% (custo $49.55)
-- Pokémon +15.5% (custo $49.75)
+- Pokémon +13.2% (custo $49.75)
+- YOKAI +0.0% (custo $49.89)
