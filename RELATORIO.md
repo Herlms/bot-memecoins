@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 00:20 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 00:25 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $991.02** (-0.90% vs $1000)
+**Valor da carteira: $990.24** (-0.98% vs $1000)
 
-Caixa: $991.02 · Posições abertas: 0
+Caixa: $941.47 · Posições abertas: 1
 
 Trades fechados: 14 · Ganhadores: 5 (36%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 8, take profit: 5, trailing stop: 1
 - 2026-10-19T07:10:25 · Doomsday · -9.1% · trailing stop
 - 2026-10-19T07:05:20 · NVYX · -29.5% · stop loss
 
+## Posições abertas
+
+- GDC +0.0% (custo $49.55)
