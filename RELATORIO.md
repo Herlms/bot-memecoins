@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 04:36 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 04:40 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $993.73** (-0.63% vs $1000)
+**Valor da carteira: $988.91** (-1.11% vs $1000)
 
-Caixa: $891.26 · Posições abertas: 2
+Caixa: $938.64 · Posições abertas: 1
 
-Trades fechados: 18 · Ganhadores: 7 (39%)
+Trades fechados: 19 · Ganhadores: 7 (37%)
 
-P&L realizado: $-9.74 · Média por trade: -0.9%
+P&L realizado: $-11.84 · Média por trade: -1.1%
 
 Melhor: COLLECTOOOR +74.8% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 10, take profit: 6, trailing stop: 2
+Saídas: stop loss: 10, take profit: 6, trailing stop: 3
 
 ## Últimos 10 trades
 
+- 2026-10-20T04:40:27 · BORLY · -4.2% · trailing stop
 - 2026-10-20T02:10:24 · YOKAI · +45.9% · take profit
 - 2026-10-20T01:25:19 · aDOGymous · -23.6% · stop loss
 - 2026-10-20T01:15:25 · Pokémon · -26.4% · stop loss
@@ -25,9 +26,7 @@ Saídas: stop loss: 10, take profit: 6, trailing stop: 2
 - 2026-10-19T22:30:37 · Onion · -24.2% · stop loss
 - 2026-10-19T22:25:20 · MOMO · -26.4% · stop loss
 - 2026-10-19T15:34:01 · WORTHLESS · +42.4% · take profit
-- 2026-10-19T10:35:19 · Mimi · -36.8% · stop loss
 
 ## Posições abertas
 
-- startupSI +3.2% (custo $49.51)
-- BORLY +7.0% (custo $49.48)
+- startupSI +3.1% (custo $49.51)
