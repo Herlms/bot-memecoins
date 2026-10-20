@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 09:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 09:35 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $893.31** (-10.67% vs $1000)
+**Valor da carteira: $892.60** (-10.74% vs $1000)
 
-Caixa: $893.31 · Posições abertas: 0
+Caixa: $848.65 · Posições abertas: 1
 
 Trades fechados: 25 · Ganhadores: 7 (28%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 15, take profit: 6, trailing stop: 4
 - 2026-10-20T01:25:19 · aDOGymous · -23.6% · stop loss
 - 2026-10-20T01:15:25 · Pokémon · -26.4% · stop loss
 
+## Posições abertas
+
+- earth +0.0% (custo $44.67)

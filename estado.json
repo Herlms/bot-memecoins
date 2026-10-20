@@ -1,6 +1,19 @@
 {
-  "caixa": 893.3112703781181,
-  "posicoes": {},
+  "caixa": 848.6457068592122,
+  "posicoes": {
+    "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": {
+      "simbolo": "earth",
+      "url": "https://dexscreener.com/solana/9sepmpy87xr3sxunvein2xxutclunuetkqvawdmeqslu",
+      "qtd": 197995.65217687917,
+      "custo": 44.66556351890591,
+      "preco_entrada": 0.000222,
+      "preco_atual": 0.000222,
+      "preco_max": 0.000222,
+      "liq_entrada": 41201.53,
+      "entrada_ts": 1792488920.7121732,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -327,7 +340,8 @@
     "5YY5qcnh5F3JaAybXqr5wLvb2GXZcE34GgE7DPyzpump": 1792474825.514941,
     "AeNQSoEJJe1fBim6AVpndX1zp9HdotMypBXkJL1qpump": 1792482327.1912563,
     "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump": 1792483246.7558968,
-    "DZ4DzfLBMthSZ9SkLd8oAo4gmT4sm8BQSUpSJrbzpump": 1792483246.7560546
+    "DZ4DzfLBMthSZ9SkLd8oAo4gmT4sm8BQSUpSJrbzpump": 1792483246.7560546,
+    "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": 1792488920.7121747
   },
   "dia": "2026-10-20",
   "valor_inicio_dia": 991.0204603893758,
