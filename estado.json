@@ -1,5 +1,5 @@
 {
-  "caixa": 941.469437369907,
+  "caixa": 891.7182344558239,
   "posicoes": {
     "FFUd9sB1Aehe5aWNX7QkBrJvXPkLvh18RW9iMpqtpump": {
       "simbolo": "GDC",
@@ -7,10 +7,22 @@
       "qtd": 121411.51872989445,
       "custo": 49.55102301946879,
       "preco_entrada": 0.0004017,
-      "preco_atual": 0.000449,
+      "preco_atual": 0.0004411,
       "preco_max": 0.000449,
       "liq_entrada": 54244.94,
       "entrada_ts": 1792455920.6985433,
+      "falhas": 0
+    },
+    "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1": {
+      "simbolo": "Pokémon",
+      "url": "https://dexscreener.com/solana/cxyug8pvwbbkw41mlaq7j87ft3drydjzv2a5pgwb31an",
+      "qtd": 108962.02438219877,
+      "custo": 49.751202914083166,
+      "preco_entrada": 0.0004495,
+      "preco_atual": 0.0004495,
+      "preco_max": 0.0004495,
+      "liq_entrada": 71181.65,
+      "entrada_ts": 1792456520.529688,
       "falhas": 0
     }
   },
@@ -199,7 +211,8 @@
     "FyS5rugapWRcBRAmnBMaq9A16wYKKk8mqoF9JnUoi3JD": 1792448425.65544,
     "7gPmhsksQ5vwtgE7vCn121qHyZjep4R5J7NNDygaHTho": 1792448720.9883664,
     "ESnW5ZbLmoEAg2QEMxnMsY9R3aS8Kw58HJacYURmpump": 1792450520.371726,
-    "FFUd9sB1Aehe5aWNX7QkBrJvXPkLvh18RW9iMpqtpump": 1792455920.698545
+    "FFUd9sB1Aehe5aWNX7QkBrJvXPkLvh18RW9iMpqtpump": 1792455920.698545,
+    "D42TjMjz5H7toPu5md5KBXreZkCSdZMEfLQwmBhJXvb1": 1792456520.5296888
   },
   "dia": "2026-10-20",
   "valor_inicio_dia": 991.0204603893758,

@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 00:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 00:35 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $995.98** (-0.40% vs $1000)
+**Valor da carteira: $994.25** (-0.57% vs $1000)
 
-Caixa: $941.47 · Posições abertas: 1
+Caixa: $891.72 · Posições abertas: 2
 
 Trades fechados: 14 · Ganhadores: 5 (36%)
 
@@ -29,4 +29,5 @@ Saídas: stop loss: 8, take profit: 5, trailing stop: 1
 
 ## Posições abertas
 
-- GDC +11.8% (custo $49.55)
+- GDC +9.8% (custo $49.55)
+- Pokémon +0.0% (custo $49.75)
