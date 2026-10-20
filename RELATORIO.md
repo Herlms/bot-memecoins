@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 07:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 08:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $929.68** (-7.03% vs $1000)
+**Valor da carteira: $928.20** (-7.18% vs $1000)
 
-Caixa: $929.68 · Posições abertas: 0
+Caixa: $836.75 · Posições abertas: 2
 
 Trades fechados: 23 · Ganhadores: 7 (30%)
 
@@ -27,3 +27,7 @@ Saídas: stop loss: 13, take profit: 6, trailing stop: 4
 - 2026-10-20T00:45:25 · GDC · +2.3% · trailing stop
 - 2026-10-19T23:10:26 · COLLECTOOOR · +74.8% · take profit
 
+## Posições abertas
+
+- EVOLVE +0.0% (custo $46.48)
+- Twyne +0.0% (custo $46.45)
