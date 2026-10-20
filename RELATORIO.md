@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 07:40 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 07:45 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $947.80** (-5.22% vs $1000)
+**Valor da carteira: $947.06** (-5.29% vs $1000)
 
-Caixa: $947.80 · Posições abertas: 0
+Caixa: $900.41 · Posições abertas: 1
 
 Trades fechados: 22 · Ganhadores: 7 (32%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 12, take profit: 6, trailing stop: 4
 - 2026-10-19T23:10:26 · COLLECTOOOR · +74.8% · take profit
 - 2026-10-19T22:45:26 · Mii · -30.2% · stop loss
 
+## Posições abertas
+
+- サトシ +0.0% (custo $47.39)

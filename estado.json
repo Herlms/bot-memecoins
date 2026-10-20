@@ -1,6 +1,19 @@
 {
-  "caixa": 947.7996514150867,
-  "posicoes": {},
+  "caixa": 900.4096688443324,
+  "posicoes": {
+    "AeNQSoEJJe1fBim6AVpndX1zp9HdotMypBXkJL1qpump": {
+      "simbolo": "サトシ",
+      "url": "https://dexscreener.com/solana/buvkpj4nwbcckh4gnhoxtcg23j9oga7btdbgjqungfla",
+      "qtd": 463244.2709348731,
+      "custo": 47.389982570754334,
+      "preco_entrada": 0.0001007,
+      "preco_atual": 0.0001007,
+      "preco_max": 0.0001007,
+      "liq_entrada": 58410.08,
+      "entrada_ts": 1792482327.1912553,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -288,7 +301,8 @@
     "Cv37ZBhXDgza5cgePpjHshEXz9JPsLNcwUAQrBgcpump": 1792457720.2882571,
     "ECFmFaHyJ8krXErN1QAxqUq97xCFUWYv9Ax5j2Aspump": 1792469425.4893467,
     "AKuvHXF6H2ajMQhEPn3GpEq9FbDQixg2X27jHNbtpump": 1792473919.767439,
-    "5YY5qcnh5F3JaAybXqr5wLvb2GXZcE34GgE7DPyzpump": 1792474825.514941
+    "5YY5qcnh5F3JaAybXqr5wLvb2GXZcE34GgE7DPyzpump": 1792474825.514941,
+    "AeNQSoEJJe1fBim6AVpndX1zp9HdotMypBXkJL1qpump": 1792482327.1912563
   },
   "dia": "2026-10-20",
   "valor_inicio_dia": 991.0204603893758,
