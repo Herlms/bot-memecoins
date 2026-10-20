@@ -19,3 +19,4 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-10-20T02:10:24,YOKAI,B86LTrZDrH8G9zqMvXzFfwH8txDy8Sy7TZabjabTkids,49.89,72.78,22.89,45.88,1.42,take profit,https://dexscreener.com/solana/3oxwfrk3gdrk8seksrmtkdsjgj5frx1nkqycqicyuj76
 2026-10-20T04:40:27,BORLY,ECFmFaHyJ8krXErN1QAxqUq97xCFUWYv9Ax5j2Aspump,49.48,47.38,-2.1,-4.25,0.5,trailing stop,https://dexscreener.com/solana/3puekclpfocgpgyo6mvbfkzsuqtukq3eapz99adhsj8r
 2026-10-20T05:40:25,DACITY,AKuvHXF6H2ajMQhEPn3GpEq9FbDQixg2X27jHNbtpump,49.06,24.19,-24.87,-50.69,0.25,stop loss,https://dexscreener.com/solana/hojpm2k1my6vnczr4mtyvp6a3ykpwtxenwd9tuape7ks
+2026-10-20T05:55:19,startupSI,EKosQw4oJFbXmeJ4qRnbH1quGFRTc3Eok6nwnFKDpump,49.51,35.27,-14.24,-28.76,2.25,stop loss,https://dexscreener.com/solana/ascpffyzxmnhhfhqqwawtcrmasguzcjtwyu6os6cqd2r

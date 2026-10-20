@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 05:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-20 05:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $954.09** (-4.59% vs $1000)
+**Valor da carteira: $946.75** (-5.33% vs $1000)
 
-Caixa: $865.99 · Posições abertas: 2
+Caixa: $901.26 · Posições abertas: 1
 
-Trades fechados: 20 · Ganhadores: 7 (35%)
+Trades fechados: 21 · Ganhadores: 7 (33%)
 
-P&L realizado: $-36.71 · Média por trade: -3.5%
+P&L realizado: $-50.95 · Média por trade: -4.7%
 
 Melhor: COLLECTOOOR +74.8% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 11, take profit: 6, trailing stop: 3
+Saídas: stop loss: 12, take profit: 6, trailing stop: 3
 
 ## Últimos 10 trades
 
+- 2026-10-20T05:55:19 · startupSI · -28.8% · stop loss
 - 2026-10-20T05:40:25 · DACITY · -50.7% · stop loss
 - 2026-10-20T04:40:27 · BORLY · -4.2% · trailing stop
 - 2026-10-20T02:10:24 · YOKAI · +45.9% · take profit
@@ -25,9 +26,7 @@ Saídas: stop loss: 11, take profit: 6, trailing stop: 3
 - 2026-10-19T23:10:26 · COLLECTOOOR · +74.8% · take profit
 - 2026-10-19T22:45:26 · Mii · -30.2% · stop loss
 - 2026-10-19T22:30:37 · Onion · -24.2% · stop loss
-- 2026-10-19T22:25:20 · MOMO · -26.4% · stop loss
 
 ## Posições abertas
 
-- startupSI -8.4% (custo $49.51)
-- LEONIDA -7.6% (custo $47.78)
+- LEONIDA -3.2% (custo $47.78)
