@@ -1,6 +1,19 @@
 {
-  "caixa": 854.4859799755192,
-  "posicoes": {},
+  "caixa": 811.7616809767433,
+  "posicoes": {
+    "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY": {
+      "simbolo": "CPU",
+      "url": "https://dexscreener.com/solana/fa3lxebt2jirdlt63dc16fjnnig9fucctzou1ruzid7w",
+      "qtd": 254630.6808925619,
+      "custo": 42.72429899877596,
+      "preco_entrada": 0.0001651,
+      "preco_atual": 0.0001651,
+      "preco_max": 0.0001651,
+      "liq_entrada": 35386.55,
+      "entrada_ts": 1792562121.6299667,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -444,7 +457,8 @@
     "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": 1792544719.2377124,
     "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump": 1792551650.5523398,
     "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump": 1792552824.433623,
-    "8bBQP9ngcjyr7g1ytggodjaaQSHSyNcnxCrm8YN9pump": 1792558848.0906503
+    "8bBQP9ngcjyr7g1ytggodjaaQSHSyNcnxCrm8YN9pump": 1792558848.0906503,
+    "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY": 1792562121.6299682
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
