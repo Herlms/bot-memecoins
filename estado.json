@@ -1,26 +1,14 @@
 {
-  "caixa": 728.3452145692899,
+  "caixa": 784.8079622564787,
   "posicoes": {
-    "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump": {
-      "simbolo": "TRUMP",
-      "url": "https://dexscreener.com/solana/9xnpqaxhfgwbfyshxnbg1tfc19ey6n79bwgklhkhnhsg",
-      "qtd": 233140.92487155064,
-      "custo": 41.25010646405835,
-      "preco_entrada": 0.0001741,
-      "preco_atual": 0.0002328,
-      "preco_max": 0.0002328,
-      "liq_entrada": 34793.14,
-      "entrada_ts": 1792585842.5485961,
-      "falhas": 0
-    },
     "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": {
       "simbolo": "Pokecity",
       "url": "https://dexscreener.com/solana/13ah1xkrftsxeapdvvqn8gigps3hjvxfvwq9qtapsqxf",
       "qtd": 32353.872342799208,
       "custo": 42.28441283073527,
       "preco_entrada": 0.001287,
-      "preco_atual": 0.001611,
-      "preco_max": 0.001611,
+      "preco_atual": 0.001645,
+      "preco_max": 0.001645,
       "liq_entrada": 102588.55,
       "entrada_ts": 1792586727.7022858,
       "falhas": 0
@@ -506,6 +494,18 @@
       "horas": 0.17,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/bm24guw2pn5perohsoalkpybqcmzvajdcvay7cxfxyt7"
+    },
+    {
+      "data_saida": "2026-10-21T12:55:21",
+      "simbolo": "TRUMP",
+      "token": "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump",
+      "custo_usd": 41.25,
+      "recebido_usd": 56.46,
+      "pnl_usd": 15.21,
+      "pnl_pct": 36.88,
+      "horas": 0.41,
+      "motivo": "take profit",
+      "url": "https://dexscreener.com/solana/9xnpqaxhfgwbfyshxnbg1tfc19ey6n79bwgklhkhnhsg"
     }
   ],
   "ultimo_trade": {
@@ -551,6 +551,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": -67.88432258878564,
+  "pnl_dia": -52.67168136565508,
   "inicio": "2026-10-19T03:05:36"
 }
