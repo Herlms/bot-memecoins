@@ -1,19 +1,6 @@
 {
-  "caixa": 825.5098957988703,
-  "posicoes": {
-    "8bBQP9ngcjyr7g1ytggodjaaQSHSyNcnxCrm8YN9pump": {
-      "simbolo": "smol",
-      "url": "https://dexscreener.com/solana/bmkx9q8mc1wdxx6qex39bdudccahtwrcxqdp8eo6hy37",
-      "qtd": 298509.6858442403,
-      "custo": 43.44788925257211,
-      "preco_entrada": 0.0001432,
-      "preco_atual": 0.000122,
-      "preco_max": 0.0001432,
-      "liq_entrada": 32815.37,
-      "entrada_ts": 1792558848.0906484,
-      "falhas": 0
-    }
-  },
+  "caixa": 854.4859799755192,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -410,6 +397,18 @@
       "horas": 1.0,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/8zwffv4eculvsstkjzy1sdsjdgjrozvyrm2vzannf2ko"
+    },
+    {
+      "data_saida": "2026-10-21T05:15:26",
+      "simbolo": "smol",
+      "token": "8bBQP9ngcjyr7g1ytggodjaaQSHSyNcnxCrm8YN9pump",
+      "custo_usd": 43.45,
+      "recebido_usd": 28.98,
+      "pnl_usd": -14.47,
+      "pnl_pct": -33.31,
+      "horas": 0.24,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/bmkx9q8mc1wdxx6qex39bdudccahtwrcxqdp8eo6hy37"
     }
   ],
   "ultimo_trade": {
@@ -449,6 +448,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": -10.806271401426535,
+  "pnl_dia": -25.278076477349792,
   "inicio": "2026-10-19T03:05:36"
 }
