@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 11:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 11:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $834.97** (-16.50% vs $1000)
+**Valor da carteira: $834.33** (-16.57% vs $1000)
 
-Caixa: $834.97 · Posições abertas: 0
+Caixa: $793.22 · Posições abertas: 1
 
 Trades fechados: 37 · Ganhadores: 10 (27%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 23, take profit: 9, trailing stop: 5
 - 2026-10-21T00:50:24 · DTC · -27.9% · stop loss
 - 2026-10-21T00:45:24 · Pokecity · +51.2% · take profit
 
+## Posições abertas
+
+- LASTAGENCY +0.0% (custo $41.75)
