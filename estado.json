@@ -1,19 +1,6 @@
 {
-  "caixa": 835.1920831394068,
-  "posicoes": {
-    "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump": {
-      "simbolo": "DARKCAT",
-      "url": "https://dexscreener.com/solana/8zwffv4eculvsstkjzy1sdsjdgjrozvyrm2vzannf2ko",
-      "qtd": 78396.48347170997,
-      "custo": 44.36248556612696,
-      "preco_entrada": 0.0005571,
-      "preco_atual": 0.0004884,
-      "preco_max": 0.0005704,
-      "liq_entrada": 66250.36,
-      "entrada_ts": 1792552824.4336216,
-      "falhas": 0
-    }
-  },
+  "caixa": 868.9577850514423,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -398,6 +385,18 @@
       "horas": 0.74,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/d2bgcgau5gjpb9skfjq4ususrht1k5izxhujgoke9uu6"
+    },
+    {
+      "data_saida": "2026-10-21T04:20:28",
+      "simbolo": "DARKCAT",
+      "token": "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump",
+      "custo_usd": 44.36,
+      "recebido_usd": 33.77,
+      "pnl_usd": -10.6,
+      "pnl_pct": -23.89,
+      "horas": 1.0,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/8zwffv4eculvsstkjzy1sdsjdgjrozvyrm2vzannf2ko"
     }
   ],
   "ultimo_trade": {
@@ -436,6 +435,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": -0.20948774733507491,
+  "pnl_dia": -10.806271401426535,
   "inicio": "2026-10-19T03:05:36"
 }
