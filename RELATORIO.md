@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 02:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 03:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $895.92** (-10.41% vs $1000)
+**Valor da carteira: $895.21** (-10.48% vs $1000)
 
-Caixa: $895.92 · Posições abertas: 0
+Caixa: $851.13 · Posições abertas: 1
 
 Trades fechados: 31 · Ganhadores: 9 (29%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 18, take profit: 8, trailing stop: 5
 - 2026-10-20T07:50:26 · サトシ · -38.2% · stop loss
 - 2026-10-20T06:25:24 · LEONIDA · -2.6% · trailing stop
 
+## Posições abertas
+
+- Trencher +0.0% (custo $44.80)
