@@ -1,19 +1,6 @@
 {
-  "caixa": 784.8079622564787,
-  "posicoes": {
-    "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": {
-      "simbolo": "Pokecity",
-      "url": "https://dexscreener.com/solana/13ah1xkrftsxeapdvvqn8gigps3hjvxfvwq9qtapsqxf",
-      "qtd": 32353.872342799208,
-      "custo": 42.28441283073527,
-      "preco_entrada": 0.001287,
-      "preco_atual": 0.001529,
-      "preco_max": 0.001645,
-      "liq_entrada": 102588.55,
-      "entrada_ts": 1792586727.7022858,
-      "falhas": 0
-    }
-  },
+  "caixa": 827.7509533831277,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -506,6 +493,18 @@
       "horas": 0.41,
       "motivo": "take profit",
       "url": "https://dexscreener.com/solana/9xnpqaxhfgwbfyshxnbg1tfc19ey6n79bwgklhkhnhsg"
+    },
+    {
+      "data_saida": "2026-10-21T13:05:20",
+      "simbolo": "Pokecity",
+      "token": "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump",
+      "custo_usd": 42.28,
+      "recebido_usd": 42.94,
+      "pnl_usd": 0.66,
+      "pnl_pct": 1.56,
+      "horas": 0.33,
+      "motivo": "trailing stop",
+      "url": "https://dexscreener.com/solana/13ah1xkrftsxeapdvvqn8gigps3hjvxfvwq9qtapsqxf"
     }
   ],
   "ultimo_trade": {
@@ -551,6 +550,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": -52.67168136565508,
+  "pnl_dia": -52.01310306974139,
   "inicio": "2026-10-19T03:05:36"
 }
