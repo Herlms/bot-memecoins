@@ -1,19 +1,6 @@
 {
-  "caixa": 835.7735320011558,
-  "posicoes": {
-    "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": {
-      "simbolo": "KIMCHIBOSS",
-      "url": "https://dexscreener.com/solana/a8hs75tmwqstj2yhzaerjhehkna2qznzndf3ckhsajrj",
-      "qtd": 64595.125930729715,
-      "custo": 44.08912499957536,
-      "preco_entrada": 0.000672,
-      "preco_atual": 0.0008267,
-      "preco_max": 0.0008611,
-      "liq_entrada": 71744.38,
-      "entrada_ts": 1792544719.2377117,
-      "falhas": 0
-    }
-  },
+  "caixa": 895.9237703300147,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -374,6 +361,18 @@
       "horas": 1.0,
       "motivo": "trailing stop",
       "url": "https://dexscreener.com/solana/ayq1hkkkq6oitjcnbdeyuo9ahho6flaxjuybmlbvvpzd"
+    },
+    {
+      "data_saida": "2026-10-21T02:10:25",
+      "simbolo": "KIMCHIBOSS",
+      "token": "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump",
+      "custo_usd": 44.09,
+      "recebido_usd": 60.15,
+      "pnl_usd": 16.06,
+      "pnl_pct": 36.43,
+      "horas": 1.09,
+      "motivo": "take profit",
+      "url": "https://dexscreener.com/solana/a8hs75tmwqstj2yhzaerjhehkna2qznzndf3ckhsajrj"
     }
   ],
   "ultimo_trade": {
@@ -410,6 +409,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": 0.09860054786221539,
+  "pnl_dia": 16.15971387714581,
   "inicio": "2026-10-19T03:05:36"
 }
