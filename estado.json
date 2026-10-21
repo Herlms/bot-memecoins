@@ -1,6 +1,19 @@
 {
-  "caixa": 868.9577850514423,
-  "posicoes": {},
+  "caixa": 825.5098957988703,
+  "posicoes": {
+    "8bBQP9ngcjyr7g1ytggodjaaQSHSyNcnxCrm8YN9pump": {
+      "simbolo": "smol",
+      "url": "https://dexscreener.com/solana/bmkx9q8mc1wdxx6qex39bdudccahtwrcxqdp8eo6hy37",
+      "qtd": 298509.6858442403,
+      "custo": 43.44788925257211,
+      "preco_entrada": 0.0001432,
+      "preco_atual": 0.0001432,
+      "preco_max": 0.0001432,
+      "liq_entrada": 32815.37,
+      "entrada_ts": 1792558848.0906484,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -431,7 +444,8 @@
     "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": 1792544446.5412896,
     "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": 1792544719.2377124,
     "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump": 1792551650.5523398,
-    "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump": 1792552824.433623
+    "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump": 1792552824.433623,
+    "8bBQP9ngcjyr7g1ytggodjaaQSHSyNcnxCrm8YN9pump": 1792558848.0906503
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
