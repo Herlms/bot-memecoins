@@ -1,5 +1,5 @@
 {
-  "caixa": 851.127581813514,
+  "caixa": 806.765096247387,
   "posicoes": {
     "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump": {
       "simbolo": "Trencher",
@@ -7,10 +7,22 @@
       "qtd": 185622.45379766275,
       "custo": 44.796188516500735,
       "preco_entrada": 0.0002375,
-      "preco_atual": 0.0002051,
+      "preco_atual": 0.0001946,
       "preco_max": 0.0002375,
       "liq_entrada": 42911.6,
       "entrada_ts": 1792551650.5523384,
+      "falhas": 0
+    },
+    "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump": {
+      "simbolo": "DARKCAT",
+      "url": "https://dexscreener.com/solana/8zwffv4eculvsstkjzy1sdsjdgjrozvyrm2vzannf2ko",
+      "qtd": 78396.48347170997,
+      "custo": 44.36248556612696,
+      "preco_entrada": 0.0005571,
+      "preco_atual": 0.0005571,
+      "preco_max": 0.0005571,
+      "liq_entrada": 66250.36,
+      "entrada_ts": 1792552824.4336216,
       "falhas": 0
     }
   },
@@ -419,7 +431,8 @@
     "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump": 1792543224.9955034,
     "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": 1792544446.5412896,
     "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": 1792544719.2377124,
-    "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump": 1792551650.5523398
+    "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump": 1792551650.5523398,
+    "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump": 1792552824.433623
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
