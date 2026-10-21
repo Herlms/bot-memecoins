@@ -1,19 +1,6 @@
 {
-  "caixa": 811.7616809767433,
-  "posicoes": {
-    "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY": {
-      "simbolo": "CPU",
-      "url": "https://dexscreener.com/solana/fa3lxebt2jirdlt63dc16fjnnig9fucctzou1ruzid7w",
-      "qtd": 254630.6808925619,
-      "custo": 42.72429899877596,
-      "preco_entrada": 0.0001651,
-      "preco_atual": 0.0001376,
-      "preco_max": 0.0001651,
-      "liq_entrada": 35386.55,
-      "entrada_ts": 1792562121.6299667,
-      "falhas": 0
-    }
-  },
+  "caixa": 835.380204899811,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -422,6 +409,18 @@
       "horas": 0.24,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/bmkx9q8mc1wdxx6qex39bdudccahtwrcxqdp8eo6hy37"
+    },
+    {
+      "data_saida": "2026-10-21T06:20:26",
+      "simbolo": "CPU",
+      "token": "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY",
+      "custo_usd": 42.72,
+      "recebido_usd": 23.62,
+      "pnl_usd": -19.11,
+      "pnl_pct": -44.72,
+      "horas": 0.42,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/fa3lxebt2jirdlt63dc16fjnnig9fucctzou1ruzid7w"
     }
   ],
   "ultimo_trade": {
@@ -462,6 +461,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": -25.278076477349792,
+  "pnl_dia": -44.38385155305802,
   "inicio": "2026-10-19T03:05:36"
 }
