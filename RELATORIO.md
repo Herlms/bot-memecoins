@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 12:25 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 12:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $825.00** (-17.50% vs $1000)
+**Valor da carteira: $824.34** (-17.57% vs $1000)
 
-Caixa: $825.00 · Posições abertas: 0
+Caixa: $783.75 · Posições abertas: 1
 
 Trades fechados: 38 · Ganhadores: 10 (26%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 24, take profit: 9, trailing stop: 5
 - 2026-10-21T02:00:47 · KIMCHI · -0.0% · trailing stop
 - 2026-10-21T00:50:24 · DTC · -27.9% · stop loss
 
+## Posições abertas
+
+- TRUMP +0.0% (custo $41.25)
