@@ -1,5 +1,5 @@
 {
-  "caixa": 742.3367601391054,
+  "caixa": 700.6248675294668,
   "posicoes": {
     "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump": {
       "simbolo": "TRUMP",
@@ -7,8 +7,8 @@
       "qtd": 233140.92487155064,
       "custo": 41.25010646405835,
       "preco_entrada": 0.0001741,
-      "preco_atual": 0.0001911,
-      "preco_max": 0.0001911,
+      "preco_atual": 0.0002119,
+      "preco_max": 0.0002119,
       "liq_entrada": 34793.14,
       "entrada_ts": 1792585842.5485961,
       "falhas": 0
@@ -19,10 +19,22 @@
       "qtd": 39904.72307360225,
       "custo": 41.41526267800309,
       "preco_entrada": 0.001022,
-      "preco_atual": 0.001022,
-      "preco_max": 0.001022,
+      "preco_atual": 0.001065,
+      "preco_max": 0.001065,
       "liq_entrada": 95246.85,
       "entrada_ts": 1792586121.4319305,
+      "falhas": 0
+    },
+    "HuShD8S8AqrFGDWeqtkm3oJAdQyWkRgaHRZ1jZFBFuNd": {
+      "simbolo": "HUSH",
+      "url": "https://dexscreener.com/solana/bm24guw2pn5perohsoalkpybqcmzvajdcvay7cxfxyt7",
+      "qtd": 304661.5724178847,
+      "custo": 41.711892609638674,
+      "preco_entrada": 0.0001347,
+      "preco_atual": 0.0001347,
+      "preco_max": 0.0001347,
+      "liq_entrada": 31100.34,
+      "entrada_ts": 1792586428.8573565,
       "falhas": 0
     }
   },
@@ -522,7 +534,8 @@
     "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump": 1792564827.639181,
     "8FGreSHZeiinbu3zPeBA3vawxvz2phvyomnPn1NEpump": 1792567838.195067,
     "Eb2i5vHczEoXzt3uDkMGcscLZX6qii4yySJqcGCRpump": 1792583722.3445797,
-    "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump": 1792585842.5485973
+    "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump": 1792585842.5485973,
+    "HuShD8S8AqrFGDWeqtkm3oJAdQyWkRgaHRZ1jZFBFuNd": 1792586428.857358
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,

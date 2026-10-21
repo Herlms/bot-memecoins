@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 12:35 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 12:40 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $827.67** (-17.23% vs $1000)
+**Valor da carteira: $833.56** (-16.64% vs $1000)
 
-Caixa: $742.34 · Posições abertas: 2
+Caixa: $700.62 · Posições abertas: 3
 
 Trades fechados: 38 · Ganhadores: 10 (26%)
 
@@ -29,5 +29,6 @@ Saídas: stop loss: 24, take profit: 9, trailing stop: 5
 
 ## Posições abertas
 
-- TRUMP +9.8% (custo $41.25)
-- MONEYBIZ +0.0% (custo $41.42)
+- TRUMP +21.7% (custo $41.25)
+- MONEYBIZ +4.2% (custo $41.42)
+- HUSH +0.0% (custo $41.71)
