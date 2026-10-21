@@ -1,6 +1,19 @@
 {
-  "caixa": 879.8723637978181,
-  "posicoes": {},
+  "caixa": 835.8787456079273,
+  "posicoes": {
+    "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": {
+      "simbolo": "KIMCHI",
+      "url": "https://dexscreener.com/solana/ayq1hkkkq6oitjcnbdeyuo9ahho6flaxjuybmlbvvpzd",
+      "qtd": 3893.4482089550424,
+      "custo": 43.9936181898909,
+      "preco_entrada": 0.01113,
+      "preco_atual": 0.01113,
+      "preco_max": 0.01113,
+      "liq_entrada": 305970.17,
+      "entrada_ts": 1792544446.5412881,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -379,7 +392,8 @@
     "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": 1792488920.7121747,
     "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": 1792540849.6996574,
     "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump": 1792542026.3879156,
-    "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump": 1792543224.9955034
+    "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump": 1792543224.9955034,
+    "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": 1792544446.5412896
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,

@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 00:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 01:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $879.87** (-12.01% vs $1000)
+**Valor da carteira: $879.21** (-12.08% vs $1000)
 
-Caixa: $879.87 · Posições abertas: 0
+Caixa: $835.88 · Posições abertas: 1
 
 Trades fechados: 29 · Ganhadores: 8 (28%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 18, take profit: 7, trailing stop: 4
 - 2026-10-20T05:55:19 · startupSI · -28.8% · stop loss
 - 2026-10-20T05:40:25 · DACITY · -50.7% · stop loss
 
+## Posições abertas
+
+- KIMCHI +0.0% (custo $43.99)
