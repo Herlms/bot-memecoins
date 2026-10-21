@@ -1,6 +1,19 @@
 {
-  "caixa": 859.6322401109404,
-  "posicoes": {},
+  "caixa": 816.6506281053934,
+  "posicoes": {
+    "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea": {
+      "simbolo": "PANGEA",
+      "url": "https://dexscreener.com/solana/6yknbt32e2m9sf9jpbgwetd5qqgpvedndgnn87a9addr",
+      "qtd": 105976.14558748719,
+      "custo": 42.98161200554702,
+      "preco_entrada": 0.0003993,
+      "preco_atual": 0.0003993,
+      "preco_max": 0.0003993,
+      "liq_entrada": 66705.94,
+      "entrada_ts": 1792605321.061621,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -572,7 +585,8 @@
     "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump": 1792585842.5485973,
     "HuShD8S8AqrFGDWeqtkm3oJAdQyWkRgaHRZ1jZFBFuNd": 1792586428.857358,
     "54UN9YwDyazXjRXhxMvzWG7yNstGqjtHnh1WGgpepump": 1792592427.433032,
-    "EBzm1AYQSBiJqpJm77nXWjPedxGiyy5N6f75q7o4pump": 1792601128.2494183
+    "EBzm1AYQSBiJqpJm77nXWjPedxGiyy5N6f75q7o4pump": 1792601128.2494183,
+    "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea": 1792605321.0616224
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,

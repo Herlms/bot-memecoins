@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 17:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 17:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $859.63** (-14.04% vs $1000)
+**Valor da carteira: $858.97** (-14.10% vs $1000)
 
-Caixa: $859.63 · Posições abertas: 0
+Caixa: $816.65 · Posições abertas: 1
 
 Trades fechados: 44 · Ganhadores: 14 (32%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 25, take profit: 12, trailing stop: 7
 - 2026-10-21T07:00:48 · PHP · +43.9% · take profit
 - 2026-10-21T06:20:26 · CPU · -44.7% · stop loss
 
+## Posições abertas
+
+- PANGEA +0.0% (custo $42.98)
