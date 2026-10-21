@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 03:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 03:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $889.25** (-11.07% vs $1000)
+**Valor da carteira: $889.20** (-11.08% vs $1000)
 
 Caixa: $851.13 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 18, take profit: 8, trailing stop: 5
 
 ## Posições abertas
 
-- Trencher -13.5% (custo $44.80)
+- Trencher -13.6% (custo $44.80)
