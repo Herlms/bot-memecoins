@@ -1,25 +1,13 @@
 {
-  "caixa": 763.2141795617117,
+  "caixa": 810.0751805489084,
   "posicoes": {
-    "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea": {
-      "simbolo": "PANGEA",
-      "url": "https://dexscreener.com/solana/6yknbt32e2m9sf9jpbgwetd5qqgpvedndgnn87a9addr",
-      "qtd": 105976.14558748719,
-      "custo": 42.98161200554702,
-      "preco_entrada": 0.0003993,
-      "preco_atual": 0.0005032,
-      "preco_max": 0.0005422,
-      "liq_entrada": 66705.94,
-      "entrada_ts": 1792605321.061621,
-      "falhas": 0
-    },
     "D2LUVT4g1uRZX6mSTyeGgv9ipaXN5k7241yuPntGpump": {
       "simbolo": "PHP2SHELL",
       "url": "https://dexscreener.com/solana/2eam7bgestabxnn2dbcsj7ubx6gscmhineqwdj2u3dmw",
       "qtd": 94942.77737587798,
       "custo": 42.93681805274857,
       "preco_entrada": 0.0004452,
-      "preco_atual": 0.000553,
+      "preco_atual": 0.000556,
       "preco_max": 0.0005561,
       "liq_entrada": 58687.83,
       "entrada_ts": 1792610126.758148,
@@ -566,6 +554,18 @@
       "horas": 0.08,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/9yfzo7bppnewmv4gmsvmbgue2zjdhqtjqvpbytua1rmw"
+    },
+    {
+      "data_saida": "2026-10-21T19:35:19",
+      "simbolo": "PANGEA",
+      "token": "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea",
+      "custo_usd": 42.98,
+      "recebido_usd": 46.86,
+      "pnl_usd": 3.88,
+      "pnl_pct": 9.03,
+      "horas": 1.67,
+      "motivo": "trailing stop",
+      "url": "https://dexscreener.com/solana/6yknbt32e2m9sf9jpbgwetd5qqgpvedndgnn87a9addr"
     }
   ],
   "ultimo_trade": {
@@ -616,6 +616,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": -30.631446832861855,
+  "pnl_dia": -26.75205785121222,
   "inicio": "2026-10-19T03:05:36"
 }

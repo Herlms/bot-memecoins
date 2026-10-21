@@ -44,3 +44,4 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-10-21T14:35:22,HUMANOID,54UN9YwDyazXjRXhxMvzWG7yNstGqjtHnh1WGgpepump,41.39,57.48,16.09,38.89,0.25,take profit,https://dexscreener.com/solana/8drmdnrrbr9damwp5wkczefscbqqh2g6vsf1sfsqss4u
 2026-10-21T16:55:20,KIMCHINU,EBzm1AYQSBiJqpJm77nXWjPedxGiyy5N6f75q7o4pump,42.19,57.98,15.79,37.42,0.16,take profit,https://dexscreener.com/solana/6tdtw55marzgwk3gadudtk5qfqqu2oaznr9fhumhnhue
 2026-10-21T19:15:26,Jeetjak,Dna9AWXP9sEinbqGXExdxweQFeMRQUpMxQX9nZ6ppump,43.71,33.21,-10.5,-24.02,0.08,stop loss,https://dexscreener.com/solana/9yfzo7bppnewmv4gmsvmbgue2zjdhqtjqvpbytua1rmw
+2026-10-21T19:35:19,PANGEA,JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea,42.98,46.86,3.88,9.03,1.67,trailing stop,https://dexscreener.com/solana/6yknbt32e2m9sf9jpbgwetd5qqgpvedndgnn87a9addr
