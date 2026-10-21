@@ -1,19 +1,6 @@
 {
-  "caixa": 811.0302352591675,
-  "posicoes": {
-    "8FGreSHZeiinbu3zPeBA3vawxvz2phvyomnPn1NEpump": {
-      "simbolo": "Clout",
-      "url": "https://dexscreener.com/solana/dui4u4tmjvvaothmcy1ujocssm3lmtjt7x7zbca6itcn",
-      "qtd": 247502.11714204858,
-      "custo": 42.68580185574566,
-      "preco_entrada": 0.0001697,
-      "preco_atual": 0.0001685,
-      "preco_max": 0.0001776,
-      "liq_entrada": 34980.77,
-      "entrada_ts": 1792567838.195066,
-      "falhas": 0
-    }
-  },
+  "caixa": 834.9686700029364,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -446,6 +433,18 @@
       "horas": 0.34,
       "motivo": "take profit",
       "url": "https://dexscreener.com/solana/yq4nneqxhatdcb8ohx21ej9u8etzxnrvgnhkraa4pnw"
+    },
+    {
+      "data_saida": "2026-10-21T07:45:26",
+      "simbolo": "Clout",
+      "token": "8FGreSHZeiinbu3zPeBA3vawxvz2phvyomnPn1NEpump",
+      "custo_usd": 42.69,
+      "recebido_usd": 23.94,
+      "pnl_usd": -18.75,
+      "pnl_pct": -43.92,
+      "horas": 0.25,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/dui4u4tmjvvaothmcy1ujocssm3lmtjt7x7zbca6itcn"
     }
   ],
   "ultimo_trade": {
@@ -488,6 +487,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": -26.048019337955843,
+  "pnl_dia": -44.79538644993268,
   "inicio": "2026-10-19T03:05:36"
 }
