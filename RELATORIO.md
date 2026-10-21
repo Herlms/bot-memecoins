@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 00:25 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 00:28 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $876.08** (-12.39% vs $1000)
+**Valor da carteira: $880.71** (-11.93% vs $1000)
 
 Caixa: $825.69 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 17, take profit: 6, trailing stop: 4
 
 ## Posições abertas
 
-- Pokecity +16.4% (custo $43.99)
+- Pokecity +27.1% (custo $43.99)
