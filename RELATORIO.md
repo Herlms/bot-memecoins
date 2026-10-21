@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 19:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 19:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $873.43** (-12.66% vs $1000)
+**Valor da carteira: $858.07** (-14.19% vs $1000)
 
-Caixa: $772.95 · Posições abertas: 2
+Caixa: $763.21 · Posições abertas: 2
 
-Trades fechados: 44 · Ganhadores: 14 (32%)
+Trades fechados: 45 · Ganhadores: 14 (31%)
 
-P&L realizado: $-140.39 · Média por trade: -6.6%
+P&L realizado: $-150.89 · Média por trade: -7.0%
 
 Melhor: COLLECTOOOR +74.8% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 25, take profit: 12, trailing stop: 7
+Saídas: stop loss: 26, take profit: 12, trailing stop: 7
 
 ## Últimos 10 trades
 
+- 2026-10-21T19:15:26 · Jeetjak · -24.0% · stop loss
 - 2026-10-21T16:55:20 · KIMCHINU · +37.4% · take profit
 - 2026-10-21T14:35:22 · HUMANOID · +38.9% · take profit
 - 2026-10-21T13:05:20 · Pokecity · +1.6% · trailing stop
@@ -25,9 +26,8 @@ Saídas: stop loss: 25, take profit: 12, trailing stop: 7
 - 2026-10-21T12:00:53 · LASTAGENCY · -23.9% · stop loss
 - 2026-10-21T07:45:26 · Clout · -43.9% · stop loss
 - 2026-10-21T07:00:48 · PHP · +43.9% · take profit
-- 2026-10-21T06:20:26 · CPU · -44.7% · stop loss
 
 ## Posições abertas
 
-- PANGEA +35.8% (custo $42.98)
-- Jeetjak +0.0% (custo $43.71)
+- PANGEA +24.3% (custo $42.98)
+- PHP2SHELL +0.0% (custo $42.94)
