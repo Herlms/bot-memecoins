@@ -1,5 +1,5 @@
 {
-  "caixa": 791.159647197301,
+  "caixa": 825.688490956886,
   "posicoes": {
     "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": {
       "simbolo": "Pokecity",
@@ -7,22 +7,10 @@
       "qtd": 98122.9828704912,
       "custo": 43.988202822643444,
       "preco_entrada": 0.0004413,
-      "preco_atual": 0.0005763,
+      "preco_atual": 0.0005136,
       "preco_max": 0.0005763,
       "liq_entrada": 56735.39,
       "entrada_ts": 1792540849.6996565,
-      "falhas": 0
-    },
-    "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump": {
-      "simbolo": "MONEYBIZ",
-      "url": "https://dexscreener.com/solana/gs1bqcy4w3scfjmo5ch9c1xggbuqnpvjowy7yc7pjgdl",
-      "qtd": 47319.71666607506,
-      "custo": 44.616206432924486,
-      "preco_entrada": 0.0009284,
-      "preco_atual": 0.0009284,
-      "preco_max": 0.0009284,
-      "liq_entrada": 88353.99,
-      "entrada_ts": 1792542026.387914,
       "falhas": 0
     }
   },
@@ -338,6 +326,18 @@
       "horas": 0.09,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/9sepmpy87xr3sxunvein2xxutclunuetkqvawdmeqslu"
+    },
+    {
+      "data_saida": "2026-10-21T00:25:19",
+      "simbolo": "MONEYBIZ",
+      "token": "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump",
+      "custo_usd": 44.62,
+      "recebido_usd": 34.53,
+      "pnl_usd": -10.09,
+      "pnl_pct": -22.61,
+      "horas": 0.08,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/gs1bqcy4w3scfjmo5ch9c1xggbuqnpvjowy7yc7pjgdl"
     }
   ],
   "ultimo_trade": {
@@ -371,6 +371,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": 0.0,
+  "pnl_dia": -10.087362673339435,
   "inicio": "2026-10-19T03:05:36"
 }
