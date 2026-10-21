@@ -1,5 +1,5 @@
 {
-  "caixa": 816.6506281053934,
+  "caixa": 772.9450833932469,
   "posicoes": {
     "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea": {
       "simbolo": "PANGEA",
@@ -7,10 +7,22 @@
       "qtd": 105976.14558748719,
       "custo": 42.98161200554702,
       "preco_entrada": 0.0003993,
-      "preco_atual": 0.0005187,
-      "preco_max": 0.0005187,
+      "preco_atual": 0.0005422,
+      "preco_max": 0.0005422,
       "liq_entrada": 66705.94,
       "entrada_ts": 1792605321.061621,
+      "falhas": 0
+    },
+    "Dna9AWXP9sEinbqGXExdxweQFeMRQUpMxQX9nZ6ppump": {
+      "simbolo": "Jeetjak",
+      "url": "https://dexscreener.com/solana/9yfzo7bppnewmv4gmsvmbgue2zjdhqtjqvpbytua1rmw",
+      "qtd": 148808.49386163632,
+      "custo": 43.70554471214645,
+      "preco_entrada": 0.0002891,
+      "preco_atual": 0.0002891,
+      "preco_max": 0.0002891,
+      "liq_entrada": 51831.32,
+      "entrada_ts": 1792609828.7852523,
       "falhas": 0
     }
   },
@@ -586,7 +598,8 @@
     "HuShD8S8AqrFGDWeqtkm3oJAdQyWkRgaHRZ1jZFBFuNd": 1792586428.857358,
     "54UN9YwDyazXjRXhxMvzWG7yNstGqjtHnh1WGgpepump": 1792592427.433032,
     "EBzm1AYQSBiJqpJm77nXWjPedxGiyy5N6f75q7o4pump": 1792601128.2494183,
-    "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea": 1792605321.0616224
+    "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea": 1792605321.0616224,
+    "Dna9AWXP9sEinbqGXExdxweQFeMRQUpMxQX9nZ6ppump": 1792609828.7852535
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
