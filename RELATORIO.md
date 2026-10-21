@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 06:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 07:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $834.11** (-16.59% vs $1000)
+**Valor da carteira: $853.72** (-14.63% vs $1000)
 
-Caixa: $793.61 · Posições abertas: 1
+Caixa: $853.72 · Posições abertas: 0
 
-Trades fechados: 35 · Ganhadores: 9 (26%)
+Trades fechados: 36 · Ganhadores: 10 (28%)
 
-P&L realizado: $-164.64 · Média por trade: -10.0%
+P&L realizado: $-146.30 · Média por trade: -8.5%
 
 Melhor: COLLECTOOOR +74.8% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 22, take profit: 8, trailing stop: 5
+Saídas: stop loss: 22, take profit: 9, trailing stop: 5
 
 ## Últimos 10 trades
 
+- 2026-10-21T07:00:48 · PHP · +43.9% · take profit
 - 2026-10-21T06:20:26 · CPU · -44.7% · stop loss
 - 2026-10-21T05:15:26 · smol · -33.3% · stop loss
 - 2026-10-21T04:20:28 · DARKCAT · -23.9% · stop loss
@@ -25,8 +26,4 @@ Saídas: stop loss: 22, take profit: 8, trailing stop: 5
 - 2026-10-21T00:50:24 · DTC · -27.9% · stop loss
 - 2026-10-21T00:45:24 · Pokecity · +51.2% · take profit
 - 2026-10-21T00:25:19 · MONEYBIZ · -22.6% · stop loss
-- 2026-10-20T09:40:30 · earth · -30.3% · stop loss
 
-## Posições abertas
-
-- PHP -1.5% (custo $41.77)

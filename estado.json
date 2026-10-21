@@ -1,19 +1,6 @@
 {
-  "caixa": 793.6111946548205,
-  "posicoes": {
-    "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump": {
-      "simbolo": "PHP",
-      "url": "https://dexscreener.com/solana/yq4nneqxhatdcb8ohx21ej9u8etzxnrvgnhkraa4pnw",
-      "qtd": 157151.73435249846,
-      "custo": 41.76901024499055,
-      "preco_entrada": 0.0002616,
-      "preco_atual": 0.0002577,
-      "preco_max": 0.0002983,
-      "liq_entrada": 44995.98,
-      "entrada_ts": 1792564827.6391795,
-      "falhas": 0
-    }
-  },
+  "caixa": 853.7160371149132,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -434,6 +421,18 @@
       "horas": 0.42,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/fa3lxebt2jirdlt63dc16fjnnig9fucctzou1ruzid7w"
+    },
+    {
+      "data_saida": "2026-10-21T07:00:48",
+      "simbolo": "PHP",
+      "token": "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump",
+      "custo_usd": 41.77,
+      "recebido_usd": 60.1,
+      "pnl_usd": 18.34,
+      "pnl_pct": 43.9,
+      "horas": 0.34,
+      "motivo": "take profit",
+      "url": "https://dexscreener.com/solana/yq4nneqxhatdcb8ohx21ej9u8etzxnrvgnhkraa4pnw"
     }
   ],
   "ultimo_trade": {
@@ -475,6 +474,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": -44.38385155305802,
+  "pnl_dia": -26.048019337955843,
   "inicio": "2026-10-19T03:05:36"
 }
