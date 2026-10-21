@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 03:40 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 03:45 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $881.76** (-11.82% vs $1000)
+**Valor da carteira: $873.58** (-12.64% vs $1000)
 
-Caixa: $806.77 · Posições abertas: 2
+Caixa: $835.19 · Posições abertas: 1
 
-Trades fechados: 31 · Ganhadores: 9 (29%)
+Trades fechados: 32 · Ganhadores: 9 (28%)
 
-P&L realizado: $-104.09 · Média por trade: -6.8%
+P&L realizado: $-120.46 · Média por trade: -7.8%
 
 Melhor: COLLECTOOOR +74.8% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 18, take profit: 8, trailing stop: 5
+Saídas: stop loss: 19, take profit: 8, trailing stop: 5
 
 ## Últimos 10 trades
 
+- 2026-10-21T03:45:24 · Trencher · -36.5% · stop loss
 - 2026-10-21T02:10:25 · KIMCHIBOSS · +36.4% · take profit
 - 2026-10-21T02:00:47 · KIMCHI · -0.0% · trailing stop
 - 2026-10-21T00:50:24 · DTC · -27.9% · stop loss
@@ -25,9 +26,7 @@ Saídas: stop loss: 18, take profit: 8, trailing stop: 5
 - 2026-10-20T08:50:26 · EVOLVE · -52.0% · stop loss
 - 2026-10-20T08:10:25 · Twyne · -26.3% · stop loss
 - 2026-10-20T07:50:26 · サトシ · -38.2% · stop loss
-- 2026-10-20T06:25:24 · LEONIDA · -2.6% · trailing stop
 
 ## Posições abertas
 
-- Trencher -19.4% (custo $44.80)
-- DARKCAT -9.6% (custo $44.36)
+- DARKCAT -12.1% (custo $44.36)

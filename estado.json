@@ -1,25 +1,13 @@
 {
-  "caixa": 806.765096247387,
+  "caixa": 835.1920831394068,
   "posicoes": {
-    "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump": {
-      "simbolo": "Trencher",
-      "url": "https://dexscreener.com/solana/d2bgcgau5gjpb9skfjq4ususrht1k5izxhujgoke9uu6",
-      "qtd": 185622.45379766275,
-      "custo": 44.796188516500735,
-      "preco_entrada": 0.0002375,
-      "preco_atual": 0.0001914,
-      "preco_max": 0.0002375,
-      "liq_entrada": 42911.6,
-      "entrada_ts": 1792551650.5523384,
-      "falhas": 0
-    },
     "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump": {
       "simbolo": "DARKCAT",
       "url": "https://dexscreener.com/solana/8zwffv4eculvsstkjzy1sdsjdgjrozvyrm2vzannf2ko",
       "qtd": 78396.48347170997,
       "custo": 44.36248556612696,
       "preco_entrada": 0.0005571,
-      "preco_atual": 0.0005034,
+      "preco_atual": 0.0004896,
       "preco_max": 0.0005704,
       "liq_entrada": 66250.36,
       "entrada_ts": 1792552824.4336216,
@@ -398,6 +386,18 @@
       "horas": 1.09,
       "motivo": "take profit",
       "url": "https://dexscreener.com/solana/a8hs75tmwqstj2yhzaerjhehkna2qznzndf3ckhsajrj"
+    },
+    {
+      "data_saida": "2026-10-21T03:45:24",
+      "simbolo": "Trencher",
+      "token": "Ety3BtYenUFm2Hvz6a6VGRTs8p9sgXggJ3M9XtpZpump",
+      "custo_usd": 44.8,
+      "recebido_usd": 28.43,
+      "pnl_usd": -16.37,
+      "pnl_pct": -36.54,
+      "horas": 0.74,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/d2bgcgau5gjpb9skfjq4ususrht1k5izxhujgoke9uu6"
     }
   ],
   "ultimo_trade": {
@@ -436,6 +436,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": 16.15971387714581,
+  "pnl_dia": -0.20948774733507491,
   "inicio": "2026-10-19T03:05:36"
 }
