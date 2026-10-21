@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 04:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 04:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $875.54** (-12.45% vs $1000)
+**Valor da carteira: $873.48** (-12.65% vs $1000)
 
 Caixa: $835.19 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 19, take profit: 8, trailing stop: 5
 
 ## Posições abertas
 
-- DARKCAT -7.6% (custo $44.36)
+- DARKCAT -12.3% (custo $44.36)
