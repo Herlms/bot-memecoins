@@ -1,19 +1,6 @@
 {
-  "caixa": 793.2202365027896,
-  "posicoes": {
-    "Eb2i5vHczEoXzt3uDkMGcscLZX6qii4yySJqcGCRpump": {
-      "simbolo": "LASTAGENCY",
-      "url": "https://dexscreener.com/solana/hu9iazuwpj94k41y34g64rkqjwyo7ds5hynfdcbg4ban",
-      "qtd": 61204.21409002187,
-      "custo": 41.748433500146824,
-      "preco_entrada": 0.0006717,
-      "preco_atual": 0.0006717,
-      "preco_max": 0.0006717,
-      "liq_entrada": 96901.1,
-      "entrada_ts": 1792583722.3445783,
-      "falhas": 0
-    }
-  },
+  "caixa": 825.0021292811668,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -458,6 +445,18 @@
       "horas": 0.25,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/dui4u4tmjvvaothmcy1ujocssm3lmtjt7x7zbca6itcn"
+    },
+    {
+      "data_saida": "2026-10-21T12:00:53",
+      "simbolo": "LASTAGENCY",
+      "token": "Eb2i5vHczEoXzt3uDkMGcscLZX6qii4yySJqcGCRpump",
+      "custo_usd": 41.75,
+      "recebido_usd": 31.78,
+      "pnl_usd": -9.97,
+      "pnl_pct": -23.87,
+      "horas": 0.09,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/hu9iazuwpj94k41y34g64rkqjwyo7ds5hynfdcbg4ban"
     }
   ],
   "ultimo_trade": {
@@ -501,6 +500,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": -44.79538644993268,
+  "pnl_dia": -54.761927171702204,
   "inicio": "2026-10-19T03:05:36"
 }
