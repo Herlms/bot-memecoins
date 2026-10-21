@@ -1,12 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-20 23:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 00:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $879.76** (-12.02% vs $1000)
+**Valor da carteira: $879.08** (-12.09% vs $1000)
 
-Caixa: $879.76 · Posições abertas: 0
-
-⚠️ Perda diária máxima atingida — sem novas compras até amanhã.
+Caixa: $835.78 · Posições abertas: 1
 
 Trades fechados: 26 · Ganhadores: 7 (27%)
 
@@ -29,3 +27,6 @@ Saídas: stop loss: 16, take profit: 6, trailing stop: 4
 - 2026-10-20T02:10:24 · YOKAI · +45.9% · take profit
 - 2026-10-20T01:25:19 · aDOGymous · -23.6% · stop loss
 
+## Posições abertas
+
+- Pokecity +0.0% (custo $43.99)

@@ -1,6 +1,19 @@
 {
-  "caixa": 879.7640564528689,
-  "posicoes": {},
+  "caixa": 835.7758536302255,
+  "posicoes": {
+    "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": {
+      "simbolo": "Pokecity",
+      "url": "https://dexscreener.com/solana/13ah1xkrftsxeapdvvqn8gigps3hjvxfvwq9qtapsqxf",
+      "qtd": 98122.9828704912,
+      "custo": 43.988202822643444,
+      "preco_entrada": 0.0004413,
+      "preco_atual": 0.0004413,
+      "preco_max": 0.0004413,
+      "liq_entrada": 56735.39,
+      "entrada_ts": 1792540849.6996565,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -340,10 +353,11 @@
     "AeNQSoEJJe1fBim6AVpndX1zp9HdotMypBXkJL1qpump": 1792482327.1912563,
     "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump": 1792483246.7558968,
     "DZ4DzfLBMthSZ9SkLd8oAo4gmT4sm8BQSUpSJrbzpump": 1792483246.7560546,
-    "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": 1792488920.7121747
+    "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": 1792488920.7121747,
+    "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": 1792540849.6996574
   },
-  "dia": "2026-10-20",
-  "valor_inicio_dia": 991.0204603893758,
-  "pnl_dia": -111.25640393650694,
+  "dia": "2026-10-21",
+  "valor_inicio_dia": 879.7640564528689,
+  "pnl_dia": 0.0,
   "inicio": "2026-10-19T03:05:36"
 }
