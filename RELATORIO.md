@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 03:25 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 03:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $889.87** (-11.01% vs $1000)
+**Valor da carteira: $886.50** (-11.35% vs $1000)
 
 Caixa: $806.77 · Posições abertas: 2
 
@@ -29,5 +29,5 @@ Saídas: stop loss: 18, take profit: 8, trailing stop: 5
 
 ## Posições abertas
 
-- Trencher -12.9% (custo $44.80)
-- DARKCAT +2.4% (custo $44.36)
+- Trencher -10.1% (custo $44.80)
+- DARKCAT -8.2% (custo $44.36)
