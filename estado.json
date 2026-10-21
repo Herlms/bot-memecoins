@@ -1,5 +1,5 @@
 {
-  "caixa": 658.3404546987315,
+  "caixa": 728.3452145692899,
   "posicoes": {
     "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump": {
       "simbolo": "TRUMP",
@@ -7,34 +7,10 @@
       "qtd": 233140.92487155064,
       "custo": 41.25010646405835,
       "preco_entrada": 0.0001741,
-      "preco_atual": 0.0002223,
-      "preco_max": 0.0002223,
+      "preco_atual": 0.0002328,
+      "preco_max": 0.0002328,
       "liq_entrada": 34793.14,
       "entrada_ts": 1792585842.5485961,
-      "falhas": 0
-    },
-    "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump": {
-      "simbolo": "MONEYBIZ",
-      "url": "https://dexscreener.com/solana/gs1bqcy4w3scfjmo5ch9c1xggbuqnpvjowy7yc7pjgdl",
-      "qtd": 39904.72307360225,
-      "custo": 41.41526267800309,
-      "preco_entrada": 0.001022,
-      "preco_atual": 0.001389,
-      "preco_max": 0.001389,
-      "liq_entrada": 95246.85,
-      "entrada_ts": 1792586121.4319305,
-      "falhas": 0
-    },
-    "HuShD8S8AqrFGDWeqtkm3oJAdQyWkRgaHRZ1jZFBFuNd": {
-      "simbolo": "HUSH",
-      "url": "https://dexscreener.com/solana/bm24guw2pn5perohsoalkpybqcmzvajdcvay7cxfxyt7",
-      "qtd": 304661.5724178847,
-      "custo": 41.711892609638674,
-      "preco_entrada": 0.0001347,
-      "preco_atual": 0.0001241,
-      "preco_max": 0.0001347,
-      "liq_entrada": 31100.34,
-      "entrada_ts": 1792586428.8573565,
       "falhas": 0
     },
     "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": {
@@ -43,8 +19,8 @@
       "qtd": 32353.872342799208,
       "custo": 42.28441283073527,
       "preco_entrada": 0.001287,
-      "preco_atual": 0.001287,
-      "preco_max": 0.001287,
+      "preco_atual": 0.001611,
+      "preco_max": 0.001611,
       "liq_entrada": 102588.55,
       "entrada_ts": 1792586727.7022858,
       "falhas": 0
@@ -506,6 +482,30 @@
       "horas": 0.09,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/hu9iazuwpj94k41y34g64rkqjwyo7ds5hynfdcbg4ban"
+    },
+    {
+      "data_saida": "2026-10-21T12:50:27",
+      "simbolo": "MONEYBIZ",
+      "token": "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump",
+      "custo_usd": 41.42,
+      "recebido_usd": 38.08,
+      "pnl_usd": -3.33,
+      "pnl_pct": -8.05,
+      "horas": 0.25,
+      "motivo": "trailing stop",
+      "url": "https://dexscreener.com/solana/gs1bqcy4w3scfjmo5ch9c1xggbuqnpvjowy7yc7pjgdl"
+    },
+    {
+      "data_saida": "2026-10-21T12:50:27",
+      "simbolo": "HUSH",
+      "token": "HuShD8S8AqrFGDWeqtkm3oJAdQyWkRgaHRZ1jZFBFuNd",
+      "custo_usd": 41.71,
+      "recebido_usd": 31.92,
+      "pnl_usd": -9.79,
+      "pnl_pct": -23.47,
+      "horas": 0.17,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/bm24guw2pn5perohsoalkpybqcmzvajdcvay7cxfxyt7"
     }
   ],
   "ultimo_trade": {
@@ -551,6 +551,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": -54.761927171702204,
+  "pnl_dia": -67.88432258878564,
   "inicio": "2026-10-19T03:05:36"
 }
