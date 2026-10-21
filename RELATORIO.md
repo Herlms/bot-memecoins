@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 19:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 20:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $888.43** (-11.16% vs $1000)
+**Valor da carteira: $976.36** (-2.36% vs $1000)
 
-Caixa: $844.66 · Posições abertas: 1
+Caixa: $976.36 · Posições abertas: 0
 
-Trades fechados: 47 · Ganhadores: 16 (34%)
+Trades fechados: 48 · Ganhadores: 17 (35%)
 
-P&L realizado: $-110.90 · Média por trade: -4.7%
+P&L realizado: $-23.66 · Média por trade: -0.5%
 
-Melhor: PHP2SHELL +84.1% · Pior: CATONICE -53.8%
+Melhor: CHOO +196.2% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 26, take profit: 13, trailing stop: 8
+Saídas: stop loss: 26, take profit: 14, trailing stop: 8
 
 ## Últimos 10 trades
 
+- 2026-10-21T20:00:52 · CHOO · +196.2% · take profit
 - 2026-10-21T19:45:29 · PHP2SHELL · +84.1% · take profit
 - 2026-10-21T19:35:19 · PANGEA · +9.0% · trailing stop
 - 2026-10-21T19:15:26 · Jeetjak · -24.0% · stop loss
@@ -25,8 +26,4 @@ Saídas: stop loss: 26, take profit: 13, trailing stop: 8
 - 2026-10-21T12:55:21 · TRUMP · +36.9% · take profit
 - 2026-10-21T12:50:27 · HUSH · -23.5% · stop loss
 - 2026-10-21T12:50:27 · MONEYBIZ · -8.1% · trailing stop
-- 2026-10-21T12:00:53 · LASTAGENCY · -23.9% · stop loss
 
-## Posições abertas
-
-- CHOO +0.0% (custo $44.46)
