@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 19:40 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 19:45 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $861.36** (-13.86% vs $1000)
+**Valor da carteira: $889.12** (-11.09% vs $1000)
 
-Caixa: $810.08 · Posições abertas: 1
+Caixa: $889.12 · Posições abertas: 0
 
-Trades fechados: 46 · Ganhadores: 15 (33%)
+Trades fechados: 47 · Ganhadores: 16 (34%)
 
-P&L realizado: $-147.01 · Média por trade: -6.7%
+P&L realizado: $-110.90 · Média por trade: -4.7%
 
-Melhor: COLLECTOOOR +74.8% · Pior: CATONICE -53.8%
+Melhor: PHP2SHELL +84.1% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 26, take profit: 12, trailing stop: 8
+Saídas: stop loss: 26, take profit: 13, trailing stop: 8
 
 ## Últimos 10 trades
 
+- 2026-10-21T19:45:29 · PHP2SHELL · +84.1% · take profit
 - 2026-10-21T19:35:19 · PANGEA · +9.0% · trailing stop
 - 2026-10-21T19:15:26 · Jeetjak · -24.0% · stop loss
 - 2026-10-21T16:55:20 · KIMCHINU · +37.4% · take profit
@@ -25,8 +26,4 @@ Saídas: stop loss: 26, take profit: 12, trailing stop: 8
 - 2026-10-21T12:50:27 · HUSH · -23.5% · stop loss
 - 2026-10-21T12:50:27 · MONEYBIZ · -8.1% · trailing stop
 - 2026-10-21T12:00:53 · LASTAGENCY · -23.9% · stop loss
-- 2026-10-21T07:45:26 · Clout · -43.9% · stop loss
 
-## Posições abertas
-
-- PHP2SHELL +21.3% (custo $42.94)

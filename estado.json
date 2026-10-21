@@ -1,19 +1,6 @@
 {
-  "caixa": 810.0751805489084,
-  "posicoes": {
-    "D2LUVT4g1uRZX6mSTyeGgv9ipaXN5k7241yuPntGpump": {
-      "simbolo": "PHP2SHELL",
-      "url": "https://dexscreener.com/solana/2eam7bgestabxnn2dbcsj7ubx6gscmhineqwdj2u3dmw",
-      "qtd": 94942.77737587798,
-      "custo": 42.93681805274857,
-      "preco_entrada": 0.0004452,
-      "preco_atual": 0.0005402,
-      "preco_max": 0.0005561,
-      "liq_entrada": 58687.83,
-      "entrada_ts": 1792610126.758148,
-      "falhas": 0
-    }
-  },
+  "caixa": 889.1184038298824,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -566,6 +553,18 @@
       "horas": 1.67,
       "motivo": "trailing stop",
       "url": "https://dexscreener.com/solana/6yknbt32e2m9sf9jpbgwetd5qqgpvedndgnn87a9addr"
+    },
+    {
+      "data_saida": "2026-10-21T19:45:29",
+      "simbolo": "PHP2SHELL",
+      "token": "D2LUVT4g1uRZX6mSTyeGgv9ipaXN5k7241yuPntGpump",
+      "custo_usd": 42.94,
+      "recebido_usd": 79.04,
+      "pnl_usd": 36.11,
+      "pnl_pct": 84.09,
+      "horas": 0.5,
+      "motivo": "take profit",
+      "url": "https://dexscreener.com/solana/2eam7bgestabxnn2dbcsj7ubx6gscmhineqwdj2u3dmw"
     }
   ],
   "ultimo_trade": {
@@ -616,6 +615,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": -26.75205785121222,
+  "pnl_dia": 9.354347377013141,
   "inicio": "2026-10-19T03:05:36"
 }
