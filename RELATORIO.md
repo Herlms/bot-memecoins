@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 01:25 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 01:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $892.86** (-10.71% vs $1000)
+**Valor da carteira: $882.28** (-11.77% vs $1000)
 
 Caixa: $791.79 · Posições abertas: 2
 
@@ -29,5 +29,5 @@ Saídas: stop loss: 18, take profit: 7, trailing stop: 4
 
 ## Posições abertas
 
-- KIMCHI +11.5% (custo $43.99)
-- KIMCHIBOSS +21.5% (custo $44.09)
+- KIMCHI +1.8% (custo $43.99)
+- KIMCHIBOSS +6.8% (custo $44.09)
