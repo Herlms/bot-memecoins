@@ -1,6 +1,19 @@
 {
-  "caixa": 976.3569332737123,
-  "posicoes": {},
+  "caixa": 927.5390866100267,
+  "posicoes": {
+    "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump": {
+      "simbolo": "KIMCHIBULL",
+      "url": "https://dexscreener.com/solana/ds6caqybql7gjdatf9cvh189s9ef1mz7dktrsov7rwem",
+      "qtd": 13307.371224655415,
+      "custo": 48.817846663685614,
+      "preco_entrada": 0.003613,
+      "preco_atual": 0.003613,
+      "preco_max": 0.003613,
+      "liq_entrada": 174770.02,
+      "entrada_ts": 1792615826.581659,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -624,7 +637,8 @@
     "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea": 1792605321.0616224,
     "Dna9AWXP9sEinbqGXExdxweQFeMRQUpMxQX9nZ6ppump": 1792609828.7852535,
     "D2LUVT4g1uRZX6mSTyeGgv9ipaXN5k7241yuPntGpump": 1792610126.758149,
-    "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1792612520.8768299
+    "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1792612520.8768299,
+    "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump": 1792615826.5816605
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,

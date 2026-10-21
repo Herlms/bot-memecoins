@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 20:45 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 20:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $976.36** (-2.36% vs $1000)
+**Valor da carteira: $975.62** (-2.44% vs $1000)
 
-Caixa: $976.36 · Posições abertas: 0
+Caixa: $927.54 · Posições abertas: 1
 
 Trades fechados: 48 · Ganhadores: 17 (35%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 26, take profit: 14, trailing stop: 8
 - 2026-10-21T12:50:27 · HUSH · -23.5% · stop loss
 - 2026-10-21T12:50:27 · MONEYBIZ · -8.1% · trailing stop
 
+## Posições abertas
+
+- KIMCHIBULL +0.0% (custo $48.82)
