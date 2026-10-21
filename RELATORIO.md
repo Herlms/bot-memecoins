@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 14:20 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 14:25 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $827.08** (-17.29% vs $1000)
+**Valor da carteira: $834.95** (-16.50% vs $1000)
 
 Caixa: $786.36 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 25, take profit: 10, trailing stop: 7
 
 ## Posições abertas
 
-- HUMANOID +0.0% (custo $41.39)
+- HUMANOID +19.3% (custo $41.39)
