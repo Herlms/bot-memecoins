@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 19:25 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 19:29 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $867.11** (-13.29% vs $1000)
+**Valor da carteira: $865.06** (-13.49% vs $1000)
 
 Caixa: $763.21 · Posições abertas: 2
 
@@ -29,5 +29,5 @@ Saídas: stop loss: 26, take profit: 12, trailing stop: 7
 
 ## Posições abertas
 
-- PANGEA +20.8% (custo $42.98)
-- PHP2SHELL +24.9% (custo $42.94)
+- PANGEA +22.5% (custo $42.98)
+- PHP2SHELL +18.3% (custo $42.94)
