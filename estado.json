@@ -1,5 +1,5 @@
 {
-  "caixa": 700.6248675294668,
+  "caixa": 658.3404546987315,
   "posicoes": {
     "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump": {
       "simbolo": "TRUMP",
@@ -7,8 +7,8 @@
       "qtd": 233140.92487155064,
       "custo": 41.25010646405835,
       "preco_entrada": 0.0001741,
-      "preco_atual": 0.0002119,
-      "preco_max": 0.0002119,
+      "preco_atual": 0.0002223,
+      "preco_max": 0.0002223,
       "liq_entrada": 34793.14,
       "entrada_ts": 1792585842.5485961,
       "falhas": 0
@@ -19,8 +19,8 @@
       "qtd": 39904.72307360225,
       "custo": 41.41526267800309,
       "preco_entrada": 0.001022,
-      "preco_atual": 0.001065,
-      "preco_max": 0.001065,
+      "preco_atual": 0.001389,
+      "preco_max": 0.001389,
       "liq_entrada": 95246.85,
       "entrada_ts": 1792586121.4319305,
       "falhas": 0
@@ -31,10 +31,22 @@
       "qtd": 304661.5724178847,
       "custo": 41.711892609638674,
       "preco_entrada": 0.0001347,
-      "preco_atual": 0.0001347,
+      "preco_atual": 0.0001241,
       "preco_max": 0.0001347,
       "liq_entrada": 31100.34,
       "entrada_ts": 1792586428.8573565,
+      "falhas": 0
+    },
+    "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": {
+      "simbolo": "Pokecity",
+      "url": "https://dexscreener.com/solana/13ah1xkrftsxeapdvvqn8gigps3hjvxfvwq9qtapsqxf",
+      "qtd": 32353.872342799208,
+      "custo": 42.28441283073527,
+      "preco_entrada": 0.001287,
+      "preco_atual": 0.001287,
+      "preco_max": 0.001287,
+      "liq_entrada": 102588.55,
+      "entrada_ts": 1792586727.7022858,
       "falhas": 0
     }
   },
@@ -522,7 +534,7 @@
     "687h1VDXkAWCKBZqPmefvs4y4k1VtPogoriikhsqpump": 1792483246.7558968,
     "DZ4DzfLBMthSZ9SkLd8oAo4gmT4sm8BQSUpSJrbzpump": 1792483246.7560546,
     "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": 1792488920.7121747,
-    "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": 1792540849.6996574,
+    "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": 1792586727.7022872,
     "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump": 1792586121.431932,
     "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump": 1792543224.9955034,
     "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": 1792544446.5412896,
