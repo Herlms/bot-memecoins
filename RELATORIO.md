@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 20:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 21:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $969.22** (-3.08% vs $1000)
+**Valor da carteira: $1001.96** (+0.20% vs $1000)
 
-Caixa: $927.54 · Posições abertas: 1
+Caixa: $1001.96 · Posições abertas: 0
 
-Trades fechados: 48 · Ganhadores: 17 (35%)
+Trades fechados: 49 · Ganhadores: 18 (37%)
 
-P&L realizado: $-23.66 · Média por trade: -0.5%
+P&L realizado: $+1.94 · Média por trade: +0.5%
 
 Melhor: CHOO +196.2% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 26, take profit: 14, trailing stop: 8
+Saídas: stop loss: 26, take profit: 15, trailing stop: 8
 
 ## Últimos 10 trades
 
+- 2026-10-21T21:00:54 · KIMCHIBULL · +52.4% · take profit
 - 2026-10-21T20:00:52 · CHOO · +196.2% · take profit
 - 2026-10-21T19:45:29 · PHP2SHELL · +84.1% · take profit
 - 2026-10-21T19:35:19 · PANGEA · +9.0% · trailing stop
@@ -25,8 +26,4 @@ Saídas: stop loss: 26, take profit: 14, trailing stop: 8
 - 2026-10-21T13:05:20 · Pokecity · +1.6% · trailing stop
 - 2026-10-21T12:55:21 · TRUMP · +36.9% · take profit
 - 2026-10-21T12:50:27 · HUSH · -23.5% · stop loss
-- 2026-10-21T12:50:27 · MONEYBIZ · -8.1% · trailing stop
 
-## Posições abertas
-
-- KIMCHIBULL -13.3% (custo $48.82)
