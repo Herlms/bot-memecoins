@@ -1,6 +1,19 @@
 {
-  "caixa": 827.7509533831277,
-  "posicoes": {},
+  "caixa": 786.3634057139714,
+  "posicoes": {
+    "54UN9YwDyazXjRXhxMvzWG7yNstGqjtHnh1WGgpepump": {
+      "simbolo": "HUMANOID",
+      "url": "https://dexscreener.com/solana/8drmdnrrbr9damwp5wkczefscbqqh2g6vsf1sfsqss4u",
+      "qtd": 342188.5996637496,
+      "custo": 41.38754766915638,
+      "preco_entrada": 0.000119,
+      "preco_atual": 0.000119,
+      "preco_max": 0.000119,
+      "liq_entrada": 31821.21,
+      "entrada_ts": 1792592427.4330306,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -546,7 +559,8 @@
     "8FGreSHZeiinbu3zPeBA3vawxvz2phvyomnPn1NEpump": 1792567838.195067,
     "Eb2i5vHczEoXzt3uDkMGcscLZX6qii4yySJqcGCRpump": 1792583722.3445797,
     "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump": 1792585842.5485973,
-    "HuShD8S8AqrFGDWeqtkm3oJAdQyWkRgaHRZ1jZFBFuNd": 1792586428.857358
+    "HuShD8S8AqrFGDWeqtkm3oJAdQyWkRgaHRZ1jZFBFuNd": 1792586428.857358,
+    "54UN9YwDyazXjRXhxMvzWG7yNstGqjtHnh1WGgpepump": 1792592427.433032
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,

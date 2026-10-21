@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 14:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 14:20 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $827.75** (-17.22% vs $1000)
+**Valor da carteira: $827.08** (-17.29% vs $1000)
 
-Caixa: $827.75 · Posições abertas: 0
+Caixa: $786.36 · Posições abertas: 1
 
 Trades fechados: 42 · Ganhadores: 12 (29%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 25, take profit: 10, trailing stop: 7
 - 2026-10-21T05:15:26 · smol · -33.3% · stop loss
 - 2026-10-21T04:20:28 · DARKCAT · -23.9% · stop loss
 
+## Posições abertas
+
+- HUMANOID +0.0% (custo $41.39)
