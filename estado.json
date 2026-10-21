@@ -1,5 +1,5 @@
 {
-  "caixa": 835.8787456079273,
+  "caixa": 791.7896206083519,
   "posicoes": {
     "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": {
       "simbolo": "KIMCHI",
@@ -7,10 +7,22 @@
       "qtd": 3893.4482089550424,
       "custo": 43.9936181898909,
       "preco_entrada": 0.01113,
-      "preco_atual": 0.01113,
-      "preco_max": 0.01113,
+      "preco_atual": 0.01179,
+      "preco_max": 0.01179,
       "liq_entrada": 305970.17,
       "entrada_ts": 1792544446.5412881,
+      "falhas": 0
+    },
+    "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": {
+      "simbolo": "KIMCHIBOSS",
+      "url": "https://dexscreener.com/solana/a8hs75tmwqstj2yhzaerjhehkna2qznzndf3ckhsajrj",
+      "qtd": 64595.125930729715,
+      "custo": 44.08912499957536,
+      "preco_entrada": 0.000672,
+      "preco_atual": 0.000672,
+      "preco_max": 0.000672,
+      "liq_entrada": 71744.38,
+      "entrada_ts": 1792544719.2377117,
       "falhas": 0
     }
   },
@@ -393,7 +405,8 @@
     "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": 1792540849.6996574,
     "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump": 1792542026.3879156,
     "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump": 1792543224.9955034,
-    "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": 1792544446.5412896
+    "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": 1792544446.5412896,
+    "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": 1792544719.2377124
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
