@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 19:35 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 19:40 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $862.86** (-13.71% vs $1000)
+**Valor da carteira: $861.36** (-13.86% vs $1000)
 
 Caixa: $810.08 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 26, take profit: 12, trailing stop: 8
 
 ## Posições abertas
 
-- PHP2SHELL +24.9% (custo $42.94)
+- PHP2SHELL +21.3% (custo $42.94)
