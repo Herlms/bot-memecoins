@@ -28,3 +28,4 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-10-21T00:25:19,MONEYBIZ,EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump,44.62,34.53,-10.09,-22.61,0.08,stop loss,https://dexscreener.com/solana/gs1bqcy4w3scfjmo5ch9c1xggbuqnpvjowy7yc7pjgdl
 2026-10-21T00:45:24,Pokecity,4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump,43.99,66.5,22.52,51.19,0.74,take profit,https://dexscreener.com/solana/13ah1xkrftsxeapdvvqn8gigps3hjvxfvwq9qtapsqxf
 2026-10-21T00:50:24,DTC,FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump,44.12,31.8,-12.32,-27.92,0.17,stop loss,https://dexscreener.com/solana/6wwtb1qkyubqwsgck7dj35ntu8od2s5v1nuy8y6clkie
+2026-10-21T02:00:47,KIMCHI,7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump,43.99,43.98,-0.01,-0.02,1.0,trailing stop,https://dexscreener.com/solana/ayq1hkkkq6oitjcnbdeyuo9ahho6flaxjuybmlbvvpzd
