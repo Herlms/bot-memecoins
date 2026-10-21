@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 19:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 19:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $889.12** (-11.09% vs $1000)
+**Valor da carteira: $888.43** (-11.16% vs $1000)
 
-Caixa: $889.12 · Posições abertas: 0
+Caixa: $844.66 · Posições abertas: 1
 
 Trades fechados: 47 · Ganhadores: 16 (34%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 26, take profit: 13, trailing stop: 8
 - 2026-10-21T12:50:27 · MONEYBIZ · -8.1% · trailing stop
 - 2026-10-21T12:00:53 · LASTAGENCY · -23.9% · stop loss
 
+## Posições abertas
+
+- CHOO +0.0% (custo $44.46)
