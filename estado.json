@@ -1,19 +1,6 @@
 {
-  "caixa": 848.0733954684887,
-  "posicoes": {
-    "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump": {
-      "simbolo": "DTC",
-      "url": "https://dexscreener.com/solana/6wwtb1qkyubqwsgck7dj35ntu8od2s5v1nuy8y6clkie",
-      "qtd": 37581.643794335316,
-      "custo": 44.11870690805844,
-      "preco_entrada": 0.001156,
-      "preco_atual": 0.001013,
-      "preco_max": 0.001156,
-      "liq_entrada": 99366.25,
-      "entrada_ts": 1792543224.9955022,
-      "falhas": 0
-    }
-  },
+  "caixa": 879.8723637978181,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -350,6 +337,18 @@
       "horas": 0.74,
       "motivo": "take profit",
       "url": "https://dexscreener.com/solana/13ah1xkrftsxeapdvvqn8gigps3hjvxfvwq9qtapsqxf"
+    },
+    {
+      "data_saida": "2026-10-21T00:50:24",
+      "simbolo": "DTC",
+      "token": "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump",
+      "custo_usd": 44.12,
+      "recebido_usd": 31.8,
+      "pnl_usd": -12.32,
+      "pnl_pct": -27.92,
+      "horas": 0.17,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/6wwtb1qkyubqwsgck7dj35ntu8od2s5v1nuy8y6clkie"
     }
   ],
   "ultimo_trade": {
@@ -384,6 +383,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": 12.428045923678276,
+  "pnl_dia": 0.10830734494930638,
   "inicio": "2026-10-19T03:05:36"
 }
