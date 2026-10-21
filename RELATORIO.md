@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 07:25 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 07:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $853.72** (-14.63% vs $1000)
+**Valor da carteira: $853.03** (-14.70% vs $1000)
 
-Caixa: $853.72 · Posições abertas: 0
+Caixa: $811.03 · Posições abertas: 1
 
 Trades fechados: 36 · Ganhadores: 10 (28%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 22, take profit: 9, trailing stop: 5
 - 2026-10-21T00:45:24 · Pokecity · +51.2% · take profit
 - 2026-10-21T00:25:19 · MONEYBIZ · -22.6% · stop loss
 
+## Posições abertas
+
+- Clout +0.0% (custo $42.69)
