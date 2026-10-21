@@ -1,5 +1,5 @@
 {
-  "caixa": 783.7520228171085,
+  "caixa": 742.3367601391054,
   "posicoes": {
     "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump": {
       "simbolo": "TRUMP",
@@ -7,10 +7,22 @@
       "qtd": 233140.92487155064,
       "custo": 41.25010646405835,
       "preco_entrada": 0.0001741,
-      "preco_atual": 0.0001741,
-      "preco_max": 0.0001741,
+      "preco_atual": 0.0001911,
+      "preco_max": 0.0001911,
       "liq_entrada": 34793.14,
       "entrada_ts": 1792585842.5485961,
+      "falhas": 0
+    },
+    "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump": {
+      "simbolo": "MONEYBIZ",
+      "url": "https://dexscreener.com/solana/gs1bqcy4w3scfjmo5ch9c1xggbuqnpvjowy7yc7pjgdl",
+      "qtd": 39904.72307360225,
+      "custo": 41.41526267800309,
+      "preco_entrada": 0.001022,
+      "preco_atual": 0.001022,
+      "preco_max": 0.001022,
+      "liq_entrada": 95246.85,
+      "entrada_ts": 1792586121.4319305,
       "falhas": 0
     }
   },
@@ -499,7 +511,7 @@
     "DZ4DzfLBMthSZ9SkLd8oAo4gmT4sm8BQSUpSJrbzpump": 1792483246.7560546,
     "2qgnTgJbZU6Tu6CMrm5Z5ePDGuUAyGTACbBoBCw6pump": 1792488920.7121747,
     "4wopERxtKHjzaANSywo9BVVycGJ7q7uXJ38Q6EoCpump": 1792540849.6996574,
-    "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump": 1792542026.3879156,
+    "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump": 1792586121.431932,
     "FP9HKxKKzBfQrRJHY5DNoMvNgEqCaMJoKejvtvtopump": 1792543224.9955034,
     "7thgKgtK1rp1UtLpWUZEuu9vakedTMoZzuyps6RGpump": 1792544446.5412896,
     "AMuS3KCHeipZwTZmEFRuzW6Dr9YMYksWU8Rgboaupump": 1792544719.2377124,
