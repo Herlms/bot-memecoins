@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 18:20 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-21 18:25 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $860.67** (-13.93% vs $1000)
+**Valor da carteira: $859.35** (-14.07% vs $1000)
 
 Caixa: $816.65 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 25, take profit: 12, trailing stop: 7
 
 ## Posições abertas
 
-- PANGEA +4.0% (custo $42.98)
+- PANGEA +0.9% (custo $42.98)
