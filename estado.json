@@ -1,19 +1,6 @@
 {
-  "caixa": 786.3634057139714,
-  "posicoes": {
-    "54UN9YwDyazXjRXhxMvzWG7yNstGqjtHnh1WGgpepump": {
-      "simbolo": "HUMANOID",
-      "url": "https://dexscreener.com/solana/8drmdnrrbr9damwp5wkczefscbqqh2g6vsf1sfsqss4u",
-      "qtd": 342188.5996637496,
-      "custo": 41.38754766915638,
-      "preco_entrada": 0.000119,
-      "preco_atual": 0.0001642,
-      "preco_max": 0.0001642,
-      "liq_entrada": 31821.21,
-      "entrada_ts": 1792592427.4330306,
-      "falhas": 0
-    }
-  },
+  "caixa": 843.8452663185942,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -518,6 +505,18 @@
       "horas": 0.33,
       "motivo": "trailing stop",
       "url": "https://dexscreener.com/solana/13ah1xkrftsxeapdvvqn8gigps3hjvxfvwq9qtapsqxf"
+    },
+    {
+      "data_saida": "2026-10-21T14:35:22",
+      "simbolo": "HUMANOID",
+      "token": "54UN9YwDyazXjRXhxMvzWG7yNstGqjtHnh1WGgpepump",
+      "custo_usd": 41.39,
+      "recebido_usd": 57.48,
+      "pnl_usd": 16.09,
+      "pnl_pct": 38.89,
+      "horas": 0.25,
+      "motivo": "take profit",
+      "url": "https://dexscreener.com/solana/8drmdnrrbr9damwp5wkczefscbqqh2g6vsf1sfsqss4u"
     }
   ],
   "ultimo_trade": {
@@ -564,6 +563,6 @@
   },
   "dia": "2026-10-21",
   "valor_inicio_dia": 879.7640564528689,
-  "pnl_dia": -52.01310306974139,
+  "pnl_dia": -35.918790134274886,
   "inicio": "2026-10-19T03:05:36"
 }
