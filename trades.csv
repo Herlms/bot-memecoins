@@ -48,3 +48,4 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-10-21T19:45:29,PHP2SHELL,D2LUVT4g1uRZX6mSTyeGgv9ipaXN5k7241yuPntGpump,42.94,79.04,36.11,84.09,0.5,take profit,https://dexscreener.com/solana/2eam7bgestabxnn2dbcsj7ubx6gscmhineqwdj2u3dmw
 2026-10-21T20:00:52,CHOO,EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump,44.46,131.69,87.24,196.24,0.09,take profit,https://dexscreener.com/solana/3ung5b7czbspnmjfrzzznyqvpk8q3lerr6baynfohdfz
 2026-10-21T21:00:54,KIMCHIBULL,GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump,48.82,74.42,25.6,52.44,0.17,take profit,https://dexscreener.com/solana/ds6caqybql7gjdatf9cvh189s9ef1mz7dktrsov7rwem
+2026-10-21T22:40:03,KIMCHI,54PyFJGjCWxe96vc5f4yzN7KppHhTvuPMSq6gDJ3pump,50.1,29.31,-20.79,-41.5,0.49,stop loss,https://dexscreener.com/solana/2jpj39d4b5qcog4vgpsdganbmp752lny447f2exmlvap
