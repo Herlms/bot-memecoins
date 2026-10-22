@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-22 03:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-22 04:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $918.43** (-8.16% vs $1000)
+**Valor da carteira: $927.31** (-7.27% vs $1000)
 
-Caixa: $858.06 · Posições abertas: 1
+Caixa: $881.60 · Posições abertas: 1
 
-Trades fechados: 54 · Ganhadores: 18 (33%)
+Trades fechados: 55 · Ganhadores: 19 (35%)
 
-P&L realizado: $-95.28 · Média por trade: -3.2%
+P&L realizado: $-72.00 · Média por trade: -2.3%
 
 Melhor: CHOO +196.2% · Pior: MONEYBIZ -75.7%
 
-Saídas: stop loss: 31, take profit: 15, trailing stop: 8
+Saídas: stop loss: 31, take profit: 16, trailing stop: 8
 
 ## Últimos 10 trades
 
+- 2026-10-22T04:00:46 · FRENS · +49.9% · take profit
 - 2026-10-22T03:15:25 · Au · -38.4% · stop loss
 - 2026-10-22T03:10:25 · RETAIL · -23.3% · stop loss
 - 2026-10-22T01:15:25 · MONEYBIZ · -75.7% · stop loss
@@ -25,8 +26,7 @@ Saídas: stop loss: 31, take profit: 15, trailing stop: 8
 - 2026-10-21T20:00:52 · CHOO · +196.2% · take profit
 - 2026-10-21T19:45:29 · PHP2SHELL · +84.1% · take profit
 - 2026-10-21T19:35:19 · PANGEA · +9.0% · trailing stop
-- 2026-10-21T19:15:26 · Jeetjak · -24.0% · stop loss
 
 ## Posições abertas
 
-- FRENS +31.5% (custo $46.66)
+- OA +0.0% (custo $46.40)

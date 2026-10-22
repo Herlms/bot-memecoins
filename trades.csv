@@ -53,3 +53,4 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-10-22T01:15:25,MONEYBIZ,EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump,48.5,11.8,-36.69,-75.66,0.42,stop loss,https://dexscreener.com/solana/gs1bqcy4w3scfjmo5ch9c1xggbuqnpvjowy7yc7pjgdl
 2026-10-22T03:10:25,RETAIL,86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be,46.42,35.62,-10.8,-23.28,0.16,stop loss,https://dexscreener.com/solana/8bdu7abgn9nhxdelpn3g2z65pfk3qqkwmrl466zjbzwt
 2026-10-22T03:15:25,Au,6mYfg1EmMVjbQv38QGY5XdRUQ4SyNpFauL1aiRiWpump,46.21,28.47,-17.74,-38.39,0.17,stop loss,https://dexscreener.com/solana/fnyuadkhuyanvbr25vxrht2s3n9s3tkcj3nbvy7sqjwj
+2026-10-22T04:00:46,FRENS,8NAtYWBvPEJvSEqHxjfB8tb2gkBZ2NUketXkJktKpump,46.66,69.94,23.28,49.88,1.84,take profit,https://dexscreener.com/solana/f6imancvxaj539fff3r6w1j5mpff1xlcrksewtp5nvap

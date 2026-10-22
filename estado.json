@@ -1,16 +1,16 @@
 {
-  "caixa": 858.0632031356658,
+  "caixa": 881.6040278421134,
   "posicoes": {
-    "8NAtYWBvPEJvSEqHxjfB8tb2gkBZ2NUketXkJktKpump": {
-      "simbolo": "FRENS",
-      "url": "https://dexscreener.com/solana/f6imancvxaj539fff3r6w1j5mpff1xlcrksewtp5nvap",
-      "qtd": 313765.19218314165,
-      "custo": 46.6634871381249,
-      "preco_entrada": 0.0001463,
-      "preco_atual": 0.0001924,
-      "preco_max": 0.0001924,
-      "liq_entrada": 31835.89,
-      "entrada_ts": 1792635026.2836852,
+    "EhuiZVks9ExNTQUg2ZLeW4SQUMAGiwwhK73rASzBpump": {
+      "simbolo": "OA",
+      "url": "https://dexscreener.com/solana/2ouubdtw81shryhw6yyn1zuqzx28exxi8s6f7bxvcbnq",
+      "qtd": 6697.265004082564,
+      "custo": 46.40021199169018,
+      "preco_entrada": 0.006824,
+      "preco_atual": 0.006824,
+      "preco_max": 0.006824,
+      "liq_entrada": 234236.9,
+      "entrada_ts": 1792641646.8958457,
       "falhas": 0
     }
   },
@@ -662,6 +662,18 @@
       "horas": 0.17,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/fnyuadkhuyanvbr25vxrht2s3n9s3tkcj3nbvy7sqjwj"
+    },
+    {
+      "data_saida": "2026-10-22T04:00:46",
+      "simbolo": "FRENS",
+      "token": "8NAtYWBvPEJvSEqHxjfB8tb2gkBZ2NUketXkJktKpump",
+      "custo_usd": 46.66,
+      "recebido_usd": 69.94,
+      "pnl_usd": 23.28,
+      "pnl_pct": 49.88,
+      "horas": 1.84,
+      "motivo": "take profit",
+      "url": "https://dexscreener.com/solana/f6imancvxaj539fff3r6w1j5mpff1xlcrksewtp5nvap"
     }
   ],
   "ultimo_trade": {
@@ -715,10 +727,11 @@
     "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump": 1792627251.965202,
     "8NAtYWBvPEJvSEqHxjfB8tb2gkBZ2NUketXkJktKpump": 1792635026.2836864,
     "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": 1792638049.5650997,
-    "6mYfg1EmMVjbQv38QGY5XdRUQ4SyNpFauL1aiRiWpump": 1792638320.7948456
+    "6mYfg1EmMVjbQv38QGY5XdRUQ4SyNpFauL1aiRiWpump": 1792638320.7948456,
+    "EhuiZVks9ExNTQUg2ZLeW4SQUMAGiwwhK73rASzBpump": 1792641646.8958468
   },
   "dia": "2026-10-22",
   "valor_inicio_dia": 981.164617577117,
-  "pnl_dia": -76.43792730332623,
+  "pnl_dia": -53.16037774331341,
   "inicio": "2026-10-19T03:05:36"
 }
