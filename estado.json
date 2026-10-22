@@ -1,5 +1,5 @@
 {
-  "caixa": 829.5926285157661,
+  "caixa": 858.0632031356658,
   "posicoes": {
     "8NAtYWBvPEJvSEqHxjfB8tb2gkBZ2NUketXkJktKpump": {
       "simbolo": "FRENS",
@@ -7,22 +7,10 @@
       "qtd": 313765.19218314165,
       "custo": 46.6634871381249,
       "preco_entrada": 0.0001463,
-      "preco_atual": 0.0001307,
+      "preco_atual": 0.0001352,
       "preco_max": 0.0001463,
       "liq_entrada": 31835.89,
       "entrada_ts": 1792635026.2836852,
-      "falhas": 0
-    },
-    "6mYfg1EmMVjbQv38QGY5XdRUQ4SyNpFauL1aiRiWpump": {
-      "simbolo": "Au",
-      "url": "https://dexscreener.com/solana/fnyuadkhuyanvbr25vxrht2s3n9s3tkcj3nbvy7sqjwj",
-      "qtd": 113460.94515649234,
-      "custo": 46.20886722070518,
-      "preco_entrada": 0.0004009,
-      "preco_atual": 0.0003393,
-      "preco_max": 0.0004009,
-      "liq_entrada": 57640.94,
-      "entrada_ts": 1792638320.7948444,
       "falhas": 0
     }
   },
@@ -662,6 +650,18 @@
       "horas": 0.16,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/8bdu7abgn9nhxdelpn3g2z65pfk3qqkwmrl466zjbzwt"
+    },
+    {
+      "data_saida": "2026-10-22T03:15:25",
+      "simbolo": "Au",
+      "token": "6mYfg1EmMVjbQv38QGY5XdRUQ4SyNpFauL1aiRiWpump",
+      "custo_usd": 46.21,
+      "recebido_usd": 28.47,
+      "pnl_usd": -17.74,
+      "pnl_pct": -38.39,
+      "horas": 0.17,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/fnyuadkhuyanvbr25vxrht2s3n9s3tkcj3nbvy7sqjwj"
     }
   ],
   "ultimo_trade": {
@@ -719,6 +719,6 @@
   },
   "dia": "2026-10-22",
   "valor_inicio_dia": 981.164617577117,
-  "pnl_dia": -58.69963470252076,
+  "pnl_dia": -76.43792730332623,
   "inicio": "2026-10-19T03:05:36"
 }
