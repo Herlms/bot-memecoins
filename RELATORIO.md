@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-22 04:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-22 04:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $927.31** (-7.27% vs $1000)
+**Valor da carteira: $928.95** (-7.11% vs $1000)
 
 Caixa: $881.60 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 31, take profit: 16, trailing stop: 8
 
 ## Posições abertas
 
-- OA +0.0% (custo $46.40)
+- OA +3.6% (custo $46.40)
