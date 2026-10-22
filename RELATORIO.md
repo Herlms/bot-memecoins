@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-22 00:45 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-22 00:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $969.96** (-3.00% vs $1000)
+**Valor da carteira: $969.22** (-3.08% vs $1000)
 
-Caixa: $969.96 · Posições abertas: 0
+Caixa: $921.47 · Posições abertas: 1
 
 Trades fechados: 51 · Ganhadores: 18 (35%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 28, take profit: 15, trailing stop: 8
 - 2026-10-21T14:35:22 · HUMANOID · +38.9% · take profit
 - 2026-10-21T13:05:20 · Pokecity · +1.6% · trailing stop
 
+## Posições abertas
+
+- MONEYBIZ +0.0% (custo $48.50)
