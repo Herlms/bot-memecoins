@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-22 02:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-22 02:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $933.27** (-6.67% vs $1000)
+**Valor da carteira: $932.51** (-6.75% vs $1000)
 
-Caixa: $933.27 · Posições abertas: 0
+Caixa: $886.61 · Posições abertas: 1
 
 Trades fechados: 52 · Ganhadores: 18 (35%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 29, take profit: 15, trailing stop: 8
 - 2026-10-21T16:55:20 · KIMCHINU · +37.4% · take profit
 - 2026-10-21T14:35:22 · HUMANOID · +38.9% · take profit
 
+## Posições abertas
+
+- FRENS +0.0% (custo $46.66)
