@@ -1,19 +1,6 @@
 {
-  "caixa": 921.4661759445464,
-  "posicoes": {
-    "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump": {
-      "simbolo": "MONEYBIZ",
-      "url": "https://dexscreener.com/solana/gs1bqcy4w3scfjmo5ch9c1xggbuqnpvjowy7yc7pjgdl",
-      "qtd": 36764.82169936588,
-      "custo": 48.498219786555076,
-      "preco_entrada": 0.001299,
-      "preco_atual": 0.001421,
-      "preco_max": 0.001459,
-      "liq_entrada": 112160.97,
-      "entrada_ts": 1792630226.9877326,
-      "falhas": 0
-    }
-  },
+  "caixa": 933.269742762498,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -626,6 +613,18 @@
       "horas": 0.24,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/3cttpfeuknksx6xoxehyzr5vzdnbwgwcpvehcdfzpk7h"
+    },
+    {
+      "data_saida": "2026-10-22T01:15:25",
+      "simbolo": "MONEYBIZ",
+      "token": "EHPugw1ghE46BeySAa7cHvoZHwYometbp1aK1Q7jpump",
+      "custo_usd": 48.5,
+      "recebido_usd": 11.8,
+      "pnl_usd": -36.69,
+      "pnl_pct": -75.66,
+      "horas": 0.42,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/gs1bqcy4w3scfjmo5ch9c1xggbuqnpvjowy7yc7pjgdl"
     }
   ],
   "ultimo_trade": {
@@ -680,6 +679,6 @@
   },
   "dia": "2026-10-22",
   "valor_inicio_dia": 981.164617577117,
-  "pnl_dia": -11.20022184601558,
+  "pnl_dia": -47.89487481461904,
   "inicio": "2026-10-19T03:05:36"
 }
