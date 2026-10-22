@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-22 05:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-22 05:20 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $942.85** (-5.72% vs $1000)
+**Valor da carteira: $920.46** (-7.95% vs $1000)
 
-Caixa: $834.42 · Posições abertas: 2
+Caixa: $857.76 · Posições abertas: 1
 
-Trades fechados: 55 · Ganhadores: 19 (35%)
+Trades fechados: 56 · Ganhadores: 19 (34%)
 
-P&L realizado: $-72.00 · Média por trade: -2.3%
+P&L realizado: $-95.85 · Média por trade: -3.1%
 
 Melhor: CHOO +196.2% · Pior: MONEYBIZ -75.7%
 
-Saídas: stop loss: 31, take profit: 16, trailing stop: 8
+Saídas: stop loss: 32, take profit: 16, trailing stop: 8
 
 ## Últimos 10 trades
 
+- 2026-10-22T05:20:26 · NOOX · -50.5% · stop loss
 - 2026-10-22T04:00:46 · FRENS · +49.9% · take profit
 - 2026-10-22T03:15:25 · Au · -38.4% · stop loss
 - 2026-10-22T03:10:25 · RETAIL · -23.3% · stop loss
@@ -25,9 +26,7 @@ Saídas: stop loss: 31, take profit: 16, trailing stop: 8
 - 2026-10-21T21:00:54 · KIMCHIBULL · +52.4% · take profit
 - 2026-10-21T20:00:52 · CHOO · +196.2% · take profit
 - 2026-10-21T19:45:29 · PHP2SHELL · +84.1% · take profit
-- 2026-10-21T19:35:19 · PANGEA · +9.0% · trailing stop
 
 ## Posições abertas
 
-- OA +35.6% (custo $46.40)
-- NOOX +0.0% (custo $47.18)
+- OA +37.2% (custo $46.40)

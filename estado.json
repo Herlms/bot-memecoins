@@ -1,5 +1,5 @@
 {
-  "caixa": 834.4246670693685,
+  "caixa": 857.7589980752668,
   "posicoes": {
     "EhuiZVks9ExNTQUg2ZLeW4SQUMAGiwwhK73rASzBpump": {
       "simbolo": "OA",
@@ -7,22 +7,10 @@
       "qtd": 6697.265004082564,
       "custo": 46.40021199169018,
       "preco_entrada": 0.006824,
-      "preco_atual": 0.009255,
-      "preco_max": 0.009255,
+      "preco_atual": 0.009362,
+      "preco_max": 0.009362,
       "liq_entrada": 234236.9,
       "entrada_ts": 1792641646.8958457,
-      "falhas": 0
-    },
-    "Hx4cDZzRjfCNeqZCLS8sR4uwPRH5NVVrE4PF9Fugpump": {
-      "simbolo": "NOOX",
-      "url": "https://dexscreener.com/solana/6wfszfs6uojt4gjyxjnojc78qujyngrexj834zyvluja",
-      "qtd": 127576.19700545404,
-      "custo": 47.17936077274488,
-      "preco_entrada": 0.000364,
-      "preco_atual": 0.000364,
-      "preco_max": 0.000364,
-      "liq_entrada": 52983.19,
-      "entrada_ts": 1792646126.8322122,
       "falhas": 0
     }
   },
@@ -686,6 +674,18 @@
       "horas": 1.84,
       "motivo": "take profit",
       "url": "https://dexscreener.com/solana/f6imancvxaj539fff3r6w1j5mpff1xlcrksewtp5nvap"
+    },
+    {
+      "data_saida": "2026-10-22T05:20:26",
+      "simbolo": "NOOX",
+      "token": "Hx4cDZzRjfCNeqZCLS8sR4uwPRH5NVVrE4PF9Fugpump",
+      "custo_usd": 47.18,
+      "recebido_usd": 23.33,
+      "pnl_usd": -23.85,
+      "pnl_pct": -50.54,
+      "horas": 0.08,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/6wfszfs6uojt4gjyxjnojc78qujyngrexj834zyvluja"
     }
   ],
   "ultimo_trade": {
@@ -745,6 +745,6 @@
   },
   "dia": "2026-10-22",
   "valor_inicio_dia": 981.164617577117,
-  "pnl_dia": -53.16037774331341,
+  "pnl_dia": -77.00540751015996,
   "inicio": "2026-10-19T03:05:36"
 }
