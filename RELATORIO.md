@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-22 00:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-22 00:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $980.55** (-1.94% vs $1000)
+**Valor da carteira: $989.20** (-1.08% vs $1000)
 
 Caixa: $932.11 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 27, take profit: 15, trailing stop: 8
 
 ## Posições abertas
 
-- DYCPAD +0.3% (custo $49.06)
+- DYCPAD +18.2% (custo $49.06)
