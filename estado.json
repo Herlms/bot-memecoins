@@ -1,5 +1,5 @@
 {
-  "caixa": 793.9773994425095,
+  "caixa": 829.5926285157661,
   "posicoes": {
     "8NAtYWBvPEJvSEqHxjfB8tb2gkBZ2NUketXkJktKpump": {
       "simbolo": "FRENS",
@@ -7,22 +7,10 @@
       "qtd": 313765.19218314165,
       "custo": 46.6634871381249,
       "preco_entrada": 0.0001463,
-      "preco_atual": 0.000137,
+      "preco_atual": 0.0001307,
       "preco_max": 0.0001463,
       "liq_entrada": 31835.89,
       "entrada_ts": 1792635026.2836852,
-      "falhas": 0
-    },
-    "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": {
-      "simbolo": "RETAIL",
-      "url": "https://dexscreener.com/solana/8bdu7abgn9nhxdelpn3g2z65pfk3qqkwmrl466zjbzwt",
-      "qtd": 78239.35588971282,
-      "custo": 46.41998896115838,
-      "preco_entrada": 0.0005841,
-      "preco_atual": 0.0005241,
-      "preco_max": 0.0005841,
-      "liq_entrada": 67807.71,
-      "entrada_ts": 1792638049.5650988,
       "falhas": 0
     },
     "6mYfg1EmMVjbQv38QGY5XdRUQ4SyNpFauL1aiRiWpump": {
@@ -31,7 +19,7 @@
       "qtd": 113460.94515649234,
       "custo": 46.20886722070518,
       "preco_entrada": 0.0004009,
-      "preco_atual": 0.0004009,
+      "preco_atual": 0.0003393,
       "preco_max": 0.0004009,
       "liq_entrada": 57640.94,
       "entrada_ts": 1792638320.7948444,
@@ -662,6 +650,18 @@
       "horas": 0.42,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/gs1bqcy4w3scfjmo5ch9c1xggbuqnpvjowy7yc7pjgdl"
+    },
+    {
+      "data_saida": "2026-10-22T03:10:25",
+      "simbolo": "RETAIL",
+      "token": "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be",
+      "custo_usd": 46.42,
+      "recebido_usd": 35.62,
+      "pnl_usd": -10.8,
+      "pnl_pct": -23.28,
+      "horas": 0.16,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/8bdu7abgn9nhxdelpn3g2z65pfk3qqkwmrl466zjbzwt"
     }
   ],
   "ultimo_trade": {
@@ -719,6 +719,6 @@
   },
   "dia": "2026-10-22",
   "valor_inicio_dia": 981.164617577117,
-  "pnl_dia": -47.89487481461904,
+  "pnl_dia": -58.69963470252076,
   "inicio": "2026-10-19T03:05:36"
 }
