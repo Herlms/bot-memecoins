@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-22 06:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-22 06:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $921.55** (-7.84% vs $1000)
+**Valor da carteira: $920.81** (-7.92% vs $1000)
 
-Caixa: $921.55 · Posições abertas: 0
+Caixa: $875.47 · Posições abertas: 1
 
 Trades fechados: 57 · Ganhadores: 20 (35%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 32, take profit: 17, trailing stop: 8
 - 2026-10-21T21:00:54 · KIMCHIBULL · +52.4% · take profit
 - 2026-10-21T20:00:52 · CHOO · +196.2% · take profit
 
+## Posições abertas
+
+- CYBERTRUMP +0.0% (custo $46.08)

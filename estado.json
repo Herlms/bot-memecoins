@@ -1,6 +1,19 @@
 {
-  "caixa": 921.5516364715808,
-  "posicoes": {},
+  "caixa": 875.4740546480017,
+  "posicoes": {
+    "342YxqtVTRgKW8rMw9LyKJpc1MAScrQ8xh5mndJApump": {
+      "simbolo": "CYBERTRUMP",
+      "url": "https://dexscreener.com/solana/hjwyeds69rsfx2jefzrzrtjvqnsnz9eq2ypw3enav8xw",
+      "qtd": 270166.6935555998,
+      "custo": 46.07758182357904,
+      "preco_entrada": 0.0001678,
+      "preco_atual": 0.0001678,
+      "preco_max": 0.0001678,
+      "liq_entrada": 34882.67,
+      "entrada_ts": 1792649120.5465407,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -740,7 +753,8 @@
     "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": 1792638049.5650997,
     "6mYfg1EmMVjbQv38QGY5XdRUQ4SyNpFauL1aiRiWpump": 1792638320.7948456,
     "EhuiZVks9ExNTQUg2ZLeW4SQUMAGiwwhK73rASzBpump": 1792641646.8958468,
-    "Hx4cDZzRjfCNeqZCLS8sR4uwPRH5NVVrE4PF9Fugpump": 1792646126.8322134
+    "Hx4cDZzRjfCNeqZCLS8sR4uwPRH5NVVrE4PF9Fugpump": 1792646126.8322134,
+    "342YxqtVTRgKW8rMw9LyKJpc1MAScrQ8xh5mndJApump": 1792649120.5465422
   },
   "dia": "2026-10-22",
   "valor_inicio_dia": 981.164617577117,
