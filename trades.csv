@@ -56,3 +56,4 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-10-22T04:00:46,FRENS,8NAtYWBvPEJvSEqHxjfB8tb2gkBZ2NUketXkJktKpump,46.66,69.94,23.28,49.88,1.84,take profit,https://dexscreener.com/solana/f6imancvxaj539fff3r6w1j5mpff1xlcrksewtp5nvap
 2026-10-22T05:20:26,NOOX,Hx4cDZzRjfCNeqZCLS8sR4uwPRH5NVVrE4PF9Fugpump,47.18,23.33,-23.85,-50.54,0.08,stop loss,https://dexscreener.com/solana/6wfszfs6uojt4gjyxjnojc78qujyngrexj834zyvluja
 2026-10-22T05:40:25,OA,EhuiZVks9ExNTQUg2ZLeW4SQUMAGiwwhK73rASzBpump,46.4,63.79,17.39,37.48,1.66,take profit,https://dexscreener.com/solana/2ouubdtw81shryhw6yyn1zuqzx28exxi8s6f7bxvcbnq
+2026-10-22T06:15:26,CYBERTRUMP,342YxqtVTRgKW8rMw9LyKJpc1MAScrQ8xh5mndJApump,46.08,0.17,-45.91,-99.64,0.17,liquidez colapsou (rug?),https://dexscreener.com/solana/hjwyeds69rsfx2jefzrzrtjvqnsnz9eq2ypw3enav8xw

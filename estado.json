@@ -1,19 +1,6 @@
 {
-  "caixa": 875.4740546480017,
-  "posicoes": {
-    "342YxqtVTRgKW8rMw9LyKJpc1MAScrQ8xh5mndJApump": {
-      "simbolo": "CYBERTRUMP",
-      "url": "https://dexscreener.com/solana/hjwyeds69rsfx2jefzrzrtjvqnsnz9eq2ypw3enav8xw",
-      "qtd": 270166.6935555998,
-      "custo": 46.07758182357904,
-      "preco_entrada": 0.0001678,
-      "preco_atual": 0.000174,
-      "preco_max": 0.000174,
-      "liq_entrada": 34882.67,
-      "entrada_ts": 1792649120.5465407,
-      "falhas": 0
-    }
-  },
+  "caixa": 875.6421183237286,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -698,6 +685,18 @@
       "horas": 1.66,
       "motivo": "take profit",
       "url": "https://dexscreener.com/solana/2ouubdtw81shryhw6yyn1zuqzx28exxi8s6f7bxvcbnq"
+    },
+    {
+      "data_saida": "2026-10-22T06:15:26",
+      "simbolo": "CYBERTRUMP",
+      "token": "342YxqtVTRgKW8rMw9LyKJpc1MAScrQ8xh5mndJApump",
+      "custo_usd": 46.08,
+      "recebido_usd": 0.17,
+      "pnl_usd": -45.91,
+      "pnl_pct": -99.64,
+      "horas": 0.17,
+      "motivo": "liquidez colapsou (rug?)",
+      "url": "https://dexscreener.com/solana/hjwyeds69rsfx2jefzrzrtjvqnsnz9eq2ypw3enav8xw"
     }
   ],
   "ultimo_trade": {
@@ -758,6 +757,6 @@
   },
   "dia": "2026-10-22",
   "valor_inicio_dia": 981.164617577117,
-  "pnl_dia": -59.61298110553619,
+  "pnl_dia": -105.52249925338833,
   "inicio": "2026-10-19T03:05:36"
 }
