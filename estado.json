@@ -1,5 +1,5 @@
 {
-  "caixa": 886.6062556243731,
+  "caixa": 840.1862666632147,
   "posicoes": {
     "8NAtYWBvPEJvSEqHxjfB8tb2gkBZ2NUketXkJktKpump": {
       "simbolo": "FRENS",
@@ -7,10 +7,22 @@
       "qtd": 313765.19218314165,
       "custo": 46.6634871381249,
       "preco_entrada": 0.0001463,
-      "preco_atual": 0.0001314,
+      "preco_atual": 0.0001332,
       "preco_max": 0.0001463,
       "liq_entrada": 31835.89,
       "entrada_ts": 1792635026.2836852,
+      "falhas": 0
+    },
+    "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": {
+      "simbolo": "RETAIL",
+      "url": "https://dexscreener.com/solana/8bdu7abgn9nhxdelpn3g2z65pfk3qqkwmrl466zjbzwt",
+      "qtd": 78239.35588971282,
+      "custo": 46.41998896115838,
+      "preco_entrada": 0.0005841,
+      "preco_atual": 0.0005841,
+      "preco_max": 0.0005841,
+      "liq_entrada": 67807.71,
+      "entrada_ts": 1792638049.5650988,
       "falhas": 0
     }
   },
@@ -689,7 +701,8 @@
     "GNE7e774tkGyxMMzP36ofhNuRrUZ15H4e1LE1xekpump": 1792615826.5816605,
     "54PyFJGjCWxe96vc5f4yzN7KppHhTvuPMSq6gDJ3pump": 1792620628.657557,
     "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump": 1792627251.965202,
-    "8NAtYWBvPEJvSEqHxjfB8tb2gkBZ2NUketXkJktKpump": 1792635026.2836864
+    "8NAtYWBvPEJvSEqHxjfB8tb2gkBZ2NUketXkJktKpump": 1792635026.2836864,
+    "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": 1792638049.5650997
   },
   "dia": "2026-10-22",
   "valor_inicio_dia": 981.164617577117,
