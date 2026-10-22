@@ -1,19 +1,6 @@
 {
-  "caixa": 932.1063866982612,
-  "posicoes": {
-    "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump": {
-      "simbolo": "DYCPAD",
-      "url": "https://dexscreener.com/solana/3cttpfeuknksx6xoxehyzr5vzdnbwgwcpvehcdfzpk7h",
-      "qtd": 63434.74603625247,
-      "custo": 49.058230878855845,
-      "preco_entrada": 0.0007614,
-      "preco_atual": 0.0009,
-      "preco_max": 0.0009,
-      "liq_entrada": 77101.36,
-      "entrada_ts": 1792627251.965201,
-      "falhas": 0
-    }
-  },
+  "caixa": 969.9643957311015,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -614,6 +601,18 @@
       "horas": 0.49,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/2jpj39d4b5qcog4vgpsdganbmp752lny447f2exmlvap"
+    },
+    {
+      "data_saida": "2026-10-22T00:15:28",
+      "simbolo": "DYCPAD",
+      "token": "4fzEnAxUUbNz321LBAkJo6tVdDkVG2S9behy3tUHpump",
+      "custo_usd": 49.06,
+      "recebido_usd": 37.86,
+      "pnl_usd": -11.2,
+      "pnl_pct": -22.83,
+      "horas": 0.24,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/3cttpfeuknksx6xoxehyzr5vzdnbwgwcpvehcdfzpk7h"
     }
   ],
   "ultimo_trade": {
@@ -668,6 +667,6 @@
   },
   "dia": "2026-10-22",
   "valor_inicio_dia": 981.164617577117,
-  "pnl_dia": 0.0,
+  "pnl_dia": -11.20022184601558,
   "inicio": "2026-10-19T03:05:36"
 }

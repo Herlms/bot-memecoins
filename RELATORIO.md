@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-22 00:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-22 00:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $989.20** (-1.08% vs $1000)
+**Valor da carteira: $969.96** (-3.00% vs $1000)
 
-Caixa: $932.11 · Posições abertas: 1
+Caixa: $969.96 · Posições abertas: 0
 
-Trades fechados: 50 · Ganhadores: 18 (36%)
+Trades fechados: 51 · Ganhadores: 18 (35%)
 
-P&L realizado: $-18.85 · Média por trade: -0.3%
+P&L realizado: $-30.05 · Média por trade: -0.7%
 
 Melhor: CHOO +196.2% · Pior: CATONICE -53.8%
 
-Saídas: stop loss: 27, take profit: 15, trailing stop: 8
+Saídas: stop loss: 28, take profit: 15, trailing stop: 8
 
 ## Últimos 10 trades
 
+- 2026-10-22T00:15:28 · DYCPAD · -22.8% · stop loss
 - 2026-10-21T22:40:03 · KIMCHI · -41.5% · stop loss
 - 2026-10-21T21:00:54 · KIMCHIBULL · +52.4% · take profit
 - 2026-10-21T20:00:52 · CHOO · +196.2% · take profit
@@ -25,8 +26,4 @@ Saídas: stop loss: 27, take profit: 15, trailing stop: 8
 - 2026-10-21T16:55:20 · KIMCHINU · +37.4% · take profit
 - 2026-10-21T14:35:22 · HUMANOID · +38.9% · take profit
 - 2026-10-21T13:05:20 · Pokecity · +1.6% · trailing stop
-- 2026-10-21T12:55:21 · TRUMP · +36.9% · take profit
 
-## Posições abertas
-
-- DYCPAD +18.2% (custo $49.06)
