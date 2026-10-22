@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-21 23:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-22 00:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $981.16** (-1.88% vs $1000)
+**Valor da carteira: $980.41** (-1.96% vs $1000)
 
-Caixa: $981.16 · Posições abertas: 0
+Caixa: $932.11 · Posições abertas: 1
 
 Trades fechados: 50 · Ganhadores: 18 (36%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 27, take profit: 15, trailing stop: 8
 - 2026-10-21T13:05:20 · Pokecity · +1.6% · trailing stop
 - 2026-10-21T12:55:21 · TRUMP · +36.9% · take profit
 
+## Posições abertas
+
+- DYCPAD +0.0% (custo $49.06)
