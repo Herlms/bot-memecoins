@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-22 01:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-22 01:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $975.11** (-2.49% vs $1000)
+**Valor da carteira: $973.71** (-2.63% vs $1000)
 
 Caixa: $921.47 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 28, take profit: 15, trailing stop: 8
 
 ## Posições abertas
 
-- MONEYBIZ +12.3% (custo $48.50)
+- MONEYBIZ +9.4% (custo $48.50)
