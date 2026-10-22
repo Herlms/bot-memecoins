@@ -1,5 +1,5 @@
 {
-  "caixa": 881.6040278421134,
+  "caixa": 834.4246670693685,
   "posicoes": {
     "EhuiZVks9ExNTQUg2ZLeW4SQUMAGiwwhK73rASzBpump": {
       "simbolo": "OA",
@@ -7,10 +7,22 @@
       "qtd": 6697.265004082564,
       "custo": 46.40021199169018,
       "preco_entrada": 0.006824,
-      "preco_atual": 0.008782,
-      "preco_max": 0.008782,
+      "preco_atual": 0.009255,
+      "preco_max": 0.009255,
       "liq_entrada": 234236.9,
       "entrada_ts": 1792641646.8958457,
+      "falhas": 0
+    },
+    "Hx4cDZzRjfCNeqZCLS8sR4uwPRH5NVVrE4PF9Fugpump": {
+      "simbolo": "NOOX",
+      "url": "https://dexscreener.com/solana/6wfszfs6uojt4gjyxjnojc78qujyngrexj834zyvluja",
+      "qtd": 127576.19700545404,
+      "custo": 47.17936077274488,
+      "preco_entrada": 0.000364,
+      "preco_atual": 0.000364,
+      "preco_max": 0.000364,
+      "liq_entrada": 52983.19,
+      "entrada_ts": 1792646126.8322122,
       "falhas": 0
     }
   },
@@ -728,7 +740,8 @@
     "8NAtYWBvPEJvSEqHxjfB8tb2gkBZ2NUketXkJktKpump": 1792635026.2836864,
     "86j9yoVzuuCjLAq4hFyaX1cphRc9SJhWhSN4h9Hh79Be": 1792638049.5650997,
     "6mYfg1EmMVjbQv38QGY5XdRUQ4SyNpFauL1aiRiWpump": 1792638320.7948456,
-    "EhuiZVks9ExNTQUg2ZLeW4SQUMAGiwwhK73rASzBpump": 1792641646.8958468
+    "EhuiZVks9ExNTQUg2ZLeW4SQUMAGiwwhK73rASzBpump": 1792641646.8958468,
+    "Hx4cDZzRjfCNeqZCLS8sR4uwPRH5NVVrE4PF9Fugpump": 1792646126.8322134
   },
   "dia": "2026-10-22",
   "valor_inicio_dia": 981.164617577117,

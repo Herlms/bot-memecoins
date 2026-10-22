@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-22 05:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-22 05:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $940.42** (-5.96% vs $1000)
+**Valor da carteira: $942.85** (-5.72% vs $1000)
 
-Caixa: $881.60 · Posições abertas: 1
+Caixa: $834.42 · Posições abertas: 2
 
 Trades fechados: 55 · Ganhadores: 19 (35%)
 
@@ -29,4 +29,5 @@ Saídas: stop loss: 31, take profit: 16, trailing stop: 8
 
 ## Posições abertas
 
-- OA +28.7% (custo $46.40)
+- OA +35.6% (custo $46.40)
+- NOOX +0.0% (custo $47.18)
