@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-22 02:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-22 02:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $932.51** (-6.75% vs $1000)
+**Valor da carteira: $930.63** (-6.94% vs $1000)
 
 Caixa: $886.61 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 29, take profit: 15, trailing stop: 8
 
 ## Posições abertas
 
-- FRENS +0.0% (custo $46.66)
+- FRENS -4.1% (custo $46.66)
