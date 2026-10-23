@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 13:25 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 13:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $838.42** (-16.16% vs $1000)
+**Valor da carteira: $824.90** (-17.51% vs $1000)
 
-Caixa: $714.08 · Posições abertas: 3
+Caixa: $741.48 · Posições abertas: 2
 
-Trades fechados: 66 · Ganhadores: 24 (36%)
+Trades fechados: 67 · Ganhadores: 24 (36%)
 
-P&L realizado: $-159.04 · Média por trade: -4.8%
+P&L realizado: $-173.59 · Média por trade: -5.2%
 
 Melhor: CHOO +196.2% · Pior: ogkimchi -99.7%
 
-Saídas: stop loss: 34, take profit: 19, trailing stop: 10, liquidez colapsou (rug?): 2, tempo máximo: 1
+Saídas: stop loss: 35, take profit: 19, trailing stop: 10, liquidez colapsou (rug?): 2, tempo máximo: 1
 
 ## Últimos 10 trades
 
+- 2026-10-23T13:30:41 · McNugget · -34.7% · stop loss
 - 2026-10-23T13:20:26 · ARCTIS · -30.4% · stop loss
 - 2026-10-23T08:55:19 · GUST · -16.3% · trailing stop
 - 2026-10-23T08:20:26 · ogkimchi · -99.7% · liquidez colapsou (rug?)
@@ -25,10 +26,8 @@ Saídas: stop loss: 34, take profit: 19, trailing stop: 10, liquidez colapsou (r
 - 2026-10-23T00:40:24 · BTC · +37.9% · take profit
 - 2026-10-23T00:35:18 · KIMCHINU · +56.8% · take profit
 - 2026-10-22T06:15:26 · CYBERTRUMP · -99.6% · liquidez colapsou (rug?)
-- 2026-10-22T05:40:25 · OA · +37.5% · take profit
 
 ## Posições abertas
 
-- SHADOW -14.8% (custo $42.70)
-- VIRTUAL +13.6% (custo $42.24)
-- McNugget +0.0% (custo $41.95)
+- SHADOW -13.5% (custo $42.70)
+- VIRTUAL +13.2% (custo $42.24)
