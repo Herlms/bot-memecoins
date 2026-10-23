@@ -1,5 +1,5 @@
 {
-  "caixa": 831.8600124075422,
+  "caixa": 787.9503089237652,
   "posicoes": {
     "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": {
       "simbolo": "BTC",
@@ -7,10 +7,22 @@
       "qtd": 51186.54139195534,
       "custo": 43.78210591618643,
       "preco_entrada": 0.0008422,
-      "preco_atual": 0.0008283,
-      "preco_max": 0.0008422,
+      "preco_atual": 0.0009052,
+      "preco_max": 0.0009052,
       "liq_entrada": 82791.67,
       "entrada_ts": 1792713921.591119,
+      "falhas": 0
+    },
+    "BbaZXnPRUWYfvuhNWwK25vzhWd5PRwDJ5N47nJtgpump": {
+      "simbolo": "KIMCHINU",
+      "url": "https://dexscreener.com/solana/haf1b6zobwmuram9bdzklmhapaptgyd27g4ruvqirqif",
+      "qtd": 58939.777855841625,
+      "custo": 43.90970348377701,
+      "preco_entrada": 0.0007335,
+      "preco_atual": 0.0007335,
+      "preco_max": 0.0007335,
+      "liq_entrada": 74430.33,
+      "entrada_ts": 1792714826.4020798,
       "falhas": 0
     }
   },
@@ -767,7 +779,8 @@
     "EhuiZVks9ExNTQUg2ZLeW4SQUMAGiwwhK73rASzBpump": 1792641646.8958468,
     "Hx4cDZzRjfCNeqZCLS8sR4uwPRH5NVVrE4PF9Fugpump": 1792646126.8322134,
     "342YxqtVTRgKW8rMw9LyKJpc1MAScrQ8xh5mndJApump": 1792649120.5465422,
-    "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": 1792713921.5911202
+    "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": 1792713921.5911202,
+    "BbaZXnPRUWYfvuhNWwK25vzhWd5PRwDJ5N47nJtgpump": 1792714826.402081
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,

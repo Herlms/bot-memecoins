@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 00:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 00:20 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $874.26** (-12.57% vs $1000)
+**Valor da carteira: $877.52** (-12.25% vs $1000)
 
-Caixa: $831.86 · Posições abertas: 1
+Caixa: $787.95 · Posições abertas: 2
 
 Trades fechados: 58 · Ganhadores: 20 (34%)
 
@@ -29,4 +29,5 @@ Saídas: stop loss: 32, take profit: 17, trailing stop: 8, liquidez colapsou (ru
 
 ## Posições abertas
 
-- BTC -1.7% (custo $43.78)
+- BTC +7.5% (custo $43.78)
+- KIMCHINU +0.0% (custo $43.91)
