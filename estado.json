@@ -1,25 +1,13 @@
 {
-  "caixa": 691.4696667512729,
+  "caixa": 722.4385036262262,
   "posicoes": {
-    "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": {
-      "simbolo": "SHADOW",
-      "url": "https://dexscreener.com/solana/6isacdsslwmvhspmgyffriwv5reyakdqxxxpsridtkhu",
-      "qtd": 119533.52087486185,
-      "custo": 42.696395334563164,
-      "preco_entrada": 0.0003516,
-      "preco_atual": 0.0003199,
-      "preco_max": 0.0003938,
-      "liq_entrada": 51791.34,
-      "entrada_ts": 1792756518.8778417,
-      "falhas": 0
-    },
     "9RhEr8CvHZ92bKsnrwodi2qkcNxYyghjAzCSJgQPpump": {
       "simbolo": "TRENCHERS",
       "url": "https://dexscreener.com/solana/rtmslppy6vjckdzgjffqmfhzsdn1r7e2ahhkbzhmqjr",
       "qtd": 280227.77871971426,
       "custo": 40.614262789674605,
       "preco_entrada": 0.0001426,
-      "preco_atual": 0.0001454,
+      "preco_atual": 0.0001457,
       "preco_max": 0.0001488,
       "liq_entrada": 31757.21,
       "entrada_ts": 1792765841.8625946,
@@ -31,7 +19,7 @@
       "qtd": 109843.45492181195,
       "custo": 40.58861424757859,
       "preco_entrada": 0.0003638,
-      "preco_atual": 0.0003617,
+      "preco_atual": 0.0003822,
       "preco_max": 0.0004215,
       "liq_entrada": 64847.97,
       "entrada_ts": 1792766728.1688142,
@@ -902,6 +890,18 @@
       "horas": 0.5,
       "motivo": "take profit",
       "url": "https://dexscreener.com/solana/dnm2wasf4pp9xivpucrwm3cv9anasuugeganqudtlgs"
+    },
+    {
+      "data_saida": "2026-10-23T15:25:19",
+      "simbolo": "SHADOW",
+      "token": "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump",
+      "custo_usd": 42.7,
+      "recebido_usd": 30.97,
+      "pnl_usd": -11.73,
+      "pnl_pct": -27.47,
+      "horas": 3.5,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/6isacdsslwmvhspmgyffriwv5reyakdqxxxpsridtkhu"
     }
   ],
   "ultimo_trade": {
@@ -977,6 +977,6 @@
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
-  "pnl_dia": -60.27317920063925,
+  "pnl_dia": -72.00073766024914,
   "inicio": "2026-10-19T03:05:36"
 }
