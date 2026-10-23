@@ -1,19 +1,6 @@
 {
-  "caixa": 743.4921993569144,
-  "posicoes": {
-    "HYLhzvLHmC4gqckEyACvy2jDMoCizE2hS1qcJ1Q7pump": {
-      "simbolo": "McSauce",
-      "url": "https://dexscreener.com/solana/frupwrlrnrdcftbrtlbq6kg3g5vrpgdkkenwm6yuv1fy",
-      "qtd": 80874.51329400054,
-      "custo": 40.80243163416899,
-      "preco_entrada": 0.0004967,
-      "preco_atual": 0.0006783,
-      "preco_max": 0.0006783,
-      "liq_entrada": 62214.76,
-      "entrada_ts": 1792771521.830836,
-      "falhas": 0
-    }
-  },
+  "caixa": 751.2222427610552,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -914,6 +901,18 @@
       "horas": 1.75,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/rtmslppy6vjckdzgjffqmfhzsdn1r7e2ahhkbzhmqjr"
+    },
+    {
+      "data_saida": "2026-10-23T16:25:19",
+      "simbolo": "McSauce",
+      "token": "HYLhzvLHmC4gqckEyACvy2jDMoCizE2hS1qcJ1Q7pump",
+      "custo_usd": 40.8,
+      "recebido_usd": 7.73,
+      "pnl_usd": -33.07,
+      "pnl_pct": -81.05,
+      "horas": 0.33,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/frupwrlrnrdcftbrtlbq6kg3g5vrpgdkkenwm6yuv1fy"
     }
   ],
   "ultimo_trade": {
@@ -990,6 +989,6 @@
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
-  "pnl_dia": -91.34748733264512,
+  "pnl_dia": -124.41987556267324,
   "inicio": "2026-10-19T03:05:36"
 }
