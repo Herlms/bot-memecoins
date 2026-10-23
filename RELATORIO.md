@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 00:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 00:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $904.37** (-9.56% vs $1000)
+**Valor da carteira: $903.65** (-9.63% vs $1000)
 
-Caixa: $904.37 · Posições abertas: 0
+Caixa: $859.15 · Posições abertas: 1
 
 Trades fechados: 61 · Ganhadores: 22 (36%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 33, take profit: 19, trailing stop: 8, liquidez colapsou (ru
 - 2026-10-22T03:10:25 · RETAIL · -23.3% · stop loss
 - 2026-10-22T01:15:25 · MONEYBIZ · -75.7% · stop loss
 
+## Posições abertas
+
+- VIRTUAL +0.0% (custo $45.22)

@@ -1,6 +1,19 @@
 {
-  "caixa": 904.3660222072841,
-  "posicoes": {},
+  "caixa": 859.1477210969199,
+  "posicoes": {
+    "HqaUT1abZq6WkeRpCYD7yHNdcxgu6biXejNkeJUNpump": {
+      "simbolo": "VIRTUAL",
+      "url": "https://dexscreener.com/solana/mfsvptxcy6eit1qmpmgkjf6a8k8fdj7ykufpkdeexex",
+      "qtd": 155767.81911035808,
+      "custo": 45.21830111036421,
+      "preco_entrada": 0.0002857,
+      "preco_atual": 0.0002857,
+      "preco_max": 0.0002857,
+      "liq_entrada": 45409.97,
+      "entrada_ts": 1792716920.6874425,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -792,7 +805,8 @@
     "342YxqtVTRgKW8rMw9LyKJpc1MAScrQ8xh5mndJApump": 1792649120.5465422,
     "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": 1792713921.5911202,
     "BbaZXnPRUWYfvuhNWwK25vzhWd5PRwDJ5N47nJtgpump": 1792714826.402081,
-    "DcHRotuS9ueBpbxanzBwTrnHpHJkhvhniafDQNKKpump": 1792715718.688057
+    "DcHRotuS9ueBpbxanzBwTrnHpHJkhvhniafDQNKKpump": 1792715718.688057,
+    "HqaUT1abZq6WkeRpCYD7yHNdcxgu6biXejNkeJUNpump": 1792716920.6874435
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
