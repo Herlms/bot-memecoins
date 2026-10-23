@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 15:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 15:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $810.82** (-18.92% vs $1000)
+**Valor da carteira: $808.66** (-19.13% vs $1000)
 
 Caixa: $691.47 · Posições abertas: 3
 
@@ -29,6 +29,6 @@ Saídas: stop loss: 38, take profit: 21, trailing stop: 10, liquidez colapsou (r
 
 ## Posições abertas
 
-- SHADOW -14.4% (custo $42.70)
-- TRENCHERS +1.3% (custo $40.61)
-- PHP +7.3% (custo $40.59)
+- SHADOW -15.6% (custo $42.70)
+- TRENCHERS +4.3% (custo $40.61)
+- PHP +0.1% (custo $40.59)
