@@ -1,5 +1,5 @@
 {
-  "caixa": 699.9313586544192,
+  "caixa": 722.427678982301,
   "posicoes": {
     "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": {
       "simbolo": "SHADOW",
@@ -7,7 +7,7 @@
       "qtd": 119533.52087486185,
       "custo": 42.696395334563164,
       "preco_entrada": 0.0003516,
-      "preco_atual": 0.0003008,
+      "preco_atual": 0.0002925,
       "preco_max": 0.0003938,
       "liq_entrada": 51791.34,
       "entrada_ts": 1792756518.8778417,
@@ -19,22 +19,10 @@
       "qtd": 129606.2903905935,
       "custo": 42.24020485611128,
       "preco_entrada": 0.0003208,
-      "preco_atual": 0.0004138,
-      "preco_max": 0.0004138,
+      "preco_atual": 0.0004173,
+      "preco_max": 0.0004173,
       "liq_entrada": 49431.61,
       "entrada_ts": 1792760720.4470494,
-      "falhas": 0
-    },
-    "TinDLfBx9vVCmRmg42rycthJWFD6JB34W9Zuetjpump": {
-      "simbolo": "eCat",
-      "url": "https://dexscreener.com/solana/7ukqr6b6nvkqeytrzvwbdbhtfymcn1yhdyec8zcvewfb",
-      "qtd": 258294.0724101992,
-      "custo": 41.55358551037923,
-      "preco_entrada": 0.0001583,
-      "preco_atual": 0.0001583,
-      "preco_max": 0.0001583,
-      "liq_entrada": 34683.93,
-      "entrada_ts": 1792762520.9744835,
       "falhas": 0
     }
   },
@@ -842,6 +830,18 @@
       "horas": 0.09,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/d2krlxfaryqid8owt2kutynnxauwypc3gtzfcghqlfjg"
+    },
+    {
+      "data_saida": "2026-10-23T13:40:26",
+      "simbolo": "eCat",
+      "token": "TinDLfBx9vVCmRmg42rycthJWFD6JB34W9Zuetjpump",
+      "custo_usd": 41.55,
+      "recebido_usd": 22.5,
+      "pnl_usd": -19.06,
+      "pnl_pct": -45.86,
+      "horas": 0.08,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/7ukqr6b6nvkqeytrzvwbdbhtfymcn1yhdyec8zcvewfb"
     }
   ],
   "ultimo_trade": {
@@ -913,6 +913,6 @@
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
-  "pnl_dia": -49.220573968255735,
+  "pnl_dia": -68.2778391507532,
   "inicio": "2026-10-19T03:05:36"
 }

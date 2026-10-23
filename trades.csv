@@ -66,3 +66,4 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-10-23T08:55:19,GUST,z1gC6KiMdhnp5RjRtH63JjXhrWKpqK1qaDVBLfCpump,43.05,36.04,-7.0,-16.27,0.25,trailing stop,https://dexscreener.com/solana/hchm41tyxtjmfwmdak4ifmvkasr7uq13uppxj5g6v3hc
 2026-10-23T13:20:26,ARCTIS,2JSj9dzLQwAi3q1dHYjCPF5Gveg81hBTRy8EeM3Fpump,42.61,29.65,-12.95,-30.41,0.5,stop loss,https://dexscreener.com/solana/5spztg8hdxcg3ywx7hwjhghf8cygnrswz1smmfqqkamx
 2026-10-23T13:30:41,McNugget,Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump,41.95,27.4,-14.55,-34.69,0.09,stop loss,https://dexscreener.com/solana/d2krlxfaryqid8owt2kutynnxauwypc3gtzfcghqlfjg
+2026-10-23T13:40:26,eCat,TinDLfBx9vVCmRmg42rycthJWFD6JB34W9Zuetjpump,41.55,22.5,-19.06,-45.86,0.08,stop loss,https://dexscreener.com/solana/7ukqr6b6nvkqeytrzvwbdbhtfymcn1yhdyec8zcvewfb
