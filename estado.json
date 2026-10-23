@@ -1,5 +1,5 @@
 {
-  "caixa": 649.4598920786536,
+  "caixa": 668.5940546292221,
   "posicoes": {
     "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": {
       "simbolo": "SHADOW",
@@ -7,7 +7,7 @@
       "qtd": 119533.52087486185,
       "custo": 42.696395334563164,
       "preco_entrada": 0.0003516,
-      "preco_atual": 0.0003253,
+      "preco_atual": 0.0003146,
       "preco_max": 0.0003938,
       "liq_entrada": 51791.34,
       "entrada_ts": 1792756518.8778417,
@@ -19,22 +19,10 @@
       "qtd": 22133.861594632566,
       "custo": 40.97173036963087,
       "preco_entrada": 0.001823,
-      "preco_atual": 0.001957,
-      "preco_max": 0.002017,
+      "preco_atual": 0.002291,
+      "preco_max": 0.002291,
       "liq_entrada": 123912.72,
       "entrada_ts": 1792764627.4050343,
-      "falhas": 0
-    },
-    "FWz2EY9qhMpLeKYUgunVbfj6pNSbX3Nq3KnGE9whpump": {
-      "simbolo": "TC67",
-      "url": "https://dexscreener.com/solana/3vjdeiwaxhbqnkvxhvf2wpvpyvvkctbydnlx9gktjvyw",
-      "qtd": 120044.64279590553,
-      "custo": 40.646019807874566,
-      "preco_entrada": 0.0003333,
-      "preco_atual": 0.0003333,
-      "preco_max": 0.0003333,
-      "liq_entrada": 51138.61,
-      "entrada_ts": 1792765841.862461,
       "falhas": 0
     },
     "9RhEr8CvHZ92bKsnrwodi2qkcNxYyghjAzCSJgQPpump": {
@@ -43,8 +31,8 @@
       "qtd": 280227.77871971426,
       "custo": 40.614262789674605,
       "preco_entrada": 0.0001426,
-      "preco_atual": 0.0001426,
-      "preco_max": 0.0001426,
+      "preco_atual": 0.0001439,
+      "preco_max": 0.0001439,
       "liq_entrada": 31757.21,
       "entrada_ts": 1792765841.8625946,
       "falhas": 0
@@ -890,6 +878,18 @@
       "horas": 0.33,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/e3otlcvds9s1njbuxoivhibh1yxgvpmn1fncz3nbqvln"
+    },
+    {
+      "data_saida": "2026-10-23T14:35:19",
+      "simbolo": "TC67",
+      "token": "FWz2EY9qhMpLeKYUgunVbfj6pNSbX3Nq3KnGE9whpump",
+      "custo_usd": 40.65,
+      "recebido_usd": 19.13,
+      "pnl_usd": -21.51,
+      "pnl_pct": -52.92,
+      "horas": 0.08,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/3vjdeiwaxhbqnkvxhvf2wpvpyvvkctbydnlx9gktjvyw"
     }
   ],
   "ultimo_trade": {
@@ -965,6 +965,6 @@
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
-  "pnl_dia": -61.253817943331754,
+  "pnl_dia": -82.7656752006378,
   "inicio": "2026-10-19T03:05:36"
 }
