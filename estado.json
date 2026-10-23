@@ -1,5 +1,5 @@
 {
-  "caixa": 732.0582809988515,
+  "caixa": 691.4696667512729,
   "posicoes": {
     "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": {
       "simbolo": "SHADOW",
@@ -7,7 +7,7 @@
       "qtd": 119533.52087486185,
       "custo": 42.696395334563164,
       "preco_entrada": 0.0003516,
-      "preco_atual": 0.000322,
+      "preco_atual": 0.0003314,
       "preco_max": 0.0003938,
       "liq_entrada": 51791.34,
       "entrada_ts": 1792756518.8778417,
@@ -19,10 +19,22 @@
       "qtd": 280227.77871971426,
       "custo": 40.614262789674605,
       "preco_entrada": 0.0001426,
-      "preco_atual": 0.0001386,
+      "preco_atual": 0.0001431,
       "preco_max": 0.0001439,
       "liq_entrada": 31757.21,
       "entrada_ts": 1792765841.8625946,
+      "falhas": 0
+    },
+    "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump": {
+      "simbolo": "PHP",
+      "url": "https://dexscreener.com/solana/yq4nneqxhatdcb8ohx21ej9u8etzxnrvgnhkraa4pnw",
+      "qtd": 109843.45492181195,
+      "custo": 40.58861424757859,
+      "preco_entrada": 0.0003638,
+      "preco_atual": 0.0003638,
+      "preco_max": 0.0003638,
+      "liq_entrada": 64847.97,
+      "entrada_ts": 1792766728.1688142,
       "falhas": 0
     }
   },
@@ -927,7 +939,7 @@
     "fpam8wyNiDSHtwx1znYeipGgRNnBcBTcN1iechcpump": 1792552824.433623,
     "8bBQP9ngcjyr7g1ytggodjaaQSHSyNcnxCrm8YN9pump": 1792558848.0906503,
     "cpuxtvVNNVGDHpk1MHyv4cC6d1rFmHBf7xAJCPHF3NY": 1792562121.6299682,
-    "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump": 1792564827.639181,
+    "Cbkg5w7V7W2J2sUmecnyN825CbvwvXwasfhduVtNpump": 1792766728.1688154,
     "8FGreSHZeiinbu3zPeBA3vawxvz2phvyomnPn1NEpump": 1792567838.195067,
     "Eb2i5vHczEoXzt3uDkMGcscLZX6qii4yySJqcGCRpump": 1792583722.3445797,
     "3JEe9dCTw17NCGzeKS5ZApv4qGQTjp6TJahGkndcpump": 1792585842.5485973,
