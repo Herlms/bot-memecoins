@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 08:45 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 08:50 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $870.87** (-12.91% vs $1000)
+**Valor da carteira: $863.02** (-13.70% vs $1000)
 
 Caixa: $817.89 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 33, take profit: 19, trailing stop: 9, liquidez colapsou (ru
 
 ## Posições abertas
 
-- GUST +25.1% (custo $43.05)
+- GUST +6.6% (custo $43.05)
