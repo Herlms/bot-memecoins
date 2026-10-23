@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 08:35 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 08:40 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $860.93** (-13.91% vs $1000)
+**Valor da carteira: $860.24** (-13.98% vs $1000)
 
-Caixa: $860.93 · Posições abertas: 0
+Caixa: $817.89 · Posições abertas: 1
 
 Trades fechados: 64 · Ganhadores: 24 (38%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 33, take profit: 19, trailing stop: 9, liquidez colapsou (ru
 - 2026-10-22T05:20:26 · NOOX · -50.5% · stop loss
 - 2026-10-22T04:00:46 · FRENS · +49.9% · take profit
 
+## Posições abertas
+
+- GUST +0.0% (custo $43.05)
