@@ -1,6 +1,19 @@
 {
-  "caixa": 906.101376120585,
-  "posicoes": {},
+  "caixa": 860.7963073145557,
+  "posicoes": {
+    "HbVPTLRijQg9PWyu66ZLwug5ERuyXw4p3c3Rfx9hpump": {
+      "simbolo": "ogkimchi",
+      "url": "https://dexscreener.com/solana/gsbtzpbcmq7jtew4tqqpifcqn1ycoftokg9ehfbtat9q",
+      "qtd": 84312.72232554262,
+      "custo": 45.30506880602925,
+      "preco_entrada": 0.0005291,
+      "preco_atual": 0.0005291,
+      "preco_max": 0.0005291,
+      "liq_entrada": 89492.59,
+      "entrada_ts": 1792742450.6159046,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -818,7 +831,8 @@
     "BbaZXnPRUWYfvuhNWwK25vzhWd5PRwDJ5N47nJtgpump": 1792714826.402081,
     "DcHRotuS9ueBpbxanzBwTrnHpHJkhvhniafDQNKKpump": 1792715718.688057,
     "HqaUT1abZq6WkeRpCYD7yHNdcxgu6biXejNkeJUNpump": 1792716920.6874435,
-    "FiYTnrwt6CPmWQyWY4evBLK5Lu21jJSRHPYtX4Aepump": 1792731648.674319
+    "FiYTnrwt6CPmWQyWY4evBLK5Lu21jJSRHPYtX4Aepump": 1792731648.674319,
+    "HbVPTLRijQg9PWyu66ZLwug5ERuyXw4p3c3Rfx9hpump": 1792742450.6159058
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,

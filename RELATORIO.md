@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 07:55 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 08:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $906.10** (-9.39% vs $1000)
+**Valor da carteira: $905.41** (-9.46% vs $1000)
 
-Caixa: $906.10 · Posições abertas: 0
+Caixa: $860.80 · Posições abertas: 1
 
 Trades fechados: 63 · Ganhadores: 24 (38%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 33, take profit: 19, trailing stop: 9, liquidez colapsou (ru
 - 2026-10-22T04:00:46 · FRENS · +49.9% · take profit
 - 2026-10-22T03:15:25 · Au · -38.4% · stop loss
 
+## Posições abertas
+
+- ogkimchi +0.0% (custo $45.31)
