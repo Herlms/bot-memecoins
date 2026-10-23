@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 08:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 08:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $905.91** (-9.41% vs $1000)
+**Valor da carteira: $911.78** (-8.82% vs $1000)
 
 Caixa: $860.80 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 33, take profit: 19, trailing stop: 9, liquidez colapsou (ru
 
 ## Posições abertas
 
-- ogkimchi +1.1% (custo $45.31)
+- ogkimchi +14.3% (custo $45.31)
