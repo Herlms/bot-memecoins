@@ -1,5 +1,5 @@
 {
-  "caixa": 722.427678982301,
+  "caixa": 681.5717732580717,
   "posicoes": {
     "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": {
       "simbolo": "SHADOW",
@@ -7,7 +7,7 @@
       "qtd": 119533.52087486185,
       "custo": 42.696395334563164,
       "preco_entrada": 0.0003516,
-      "preco_atual": 0.0003081,
+      "preco_atual": 0.0003088,
       "preco_max": 0.0003938,
       "liq_entrada": 51791.34,
       "entrada_ts": 1792756518.8778417,
@@ -19,10 +19,22 @@
       "qtd": 129606.2903905935,
       "custo": 42.24020485611128,
       "preco_entrada": 0.0003208,
-      "preco_atual": 0.0004088,
-      "preco_max": 0.0004173,
+      "preco_atual": 0.0004458,
+      "preco_max": 0.0004458,
       "liq_entrada": 49431.61,
       "entrada_ts": 1792760720.4470494,
+      "falhas": 0
+    },
+    "84qut46jTfT8nqdviG4HBZ5JQMN1sJg7hBzJgXvfpump": {
+      "simbolo": "TC67",
+      "url": "https://dexscreener.com/solana/e3otlcvds9s1njbuxoivhibh1yxgvpmn1fncz3nbqvln",
+      "qtd": 212279.10173627362,
+      "custo": 40.855905724229245,
+      "preco_entrada": 0.0001894,
+      "preco_atual": 0.0001894,
+      "preco_max": 0.0001894,
+      "liq_entrada": 37411.17,
+      "entrada_ts": 1792764321.9603844,
       "falhas": 0
     }
   },
@@ -909,7 +921,8 @@
     "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": 1792756518.8778427,
     "2JSj9dzLQwAi3q1dHYjCPF5Gveg81hBTRy8EeM3Fpump": 1792759825.1421597,
     "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump": 1792761920.6533048,
-    "TinDLfBx9vVCmRmg42rycthJWFD6JB34W9Zuetjpump": 1792762520.9744847
+    "TinDLfBx9vVCmRmg42rycthJWFD6JB34W9Zuetjpump": 1792762520.9744847,
+    "84qut46jTfT8nqdviG4HBZ5JQMN1sJg7hBzJgXvfpump": 1792764321.9603853
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
