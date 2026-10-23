@@ -1,5 +1,5 @@
 {
-  "caixa": 726.3857077257938,
+  "caixa": 756.0366048504975,
   "posicoes": {
     "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": {
       "simbolo": "SHADOW",
@@ -7,22 +7,10 @@
       "qtd": 119533.52087486185,
       "custo": 42.696395334563164,
       "preco_entrada": 0.0003516,
-      "preco_atual": 0.0003275,
+      "preco_atual": 0.0003107,
       "preco_max": 0.0003938,
       "liq_entrada": 51791.34,
       "entrada_ts": 1792756518.8778417,
-      "falhas": 0
-    },
-    "2JSj9dzLQwAi3q1dHYjCPF5Gveg81hBTRy8EeM3Fpump": {
-      "simbolo": "ARCTIS",
-      "url": "https://dexscreener.com/solana/5spztg8hdxcg3ywx7hwjhghf8cygnrswz1smmfqqkamx",
-      "qtd": 300465.67555477435,
-      "custo": 42.605598774795155,
-      "preco_entrada": 0.0001395,
-      "preco_atual": 0.0001223,
-      "preco_max": 0.0001395,
-      "liq_entrada": 30547.89,
-      "entrada_ts": 1792759825.142158,
       "falhas": 0
     },
     "HqaUT1abZq6WkeRpCYD7yHNdcxgu6biXejNkeJUNpump": {
@@ -31,8 +19,8 @@
       "qtd": 129606.2903905935,
       "custo": 42.24020485611128,
       "preco_entrada": 0.0003208,
-      "preco_atual": 0.000339,
-      "preco_max": 0.000339,
+      "preco_atual": 0.0003604,
+      "preco_max": 0.0003604,
       "liq_entrada": 49431.61,
       "entrada_ts": 1792760720.4470494,
       "falhas": 0
@@ -818,6 +806,18 @@
       "horas": 0.25,
       "motivo": "trailing stop",
       "url": "https://dexscreener.com/solana/hchm41tyxtjmfwmdak4ifmvkasr7uq13uppxj5g6v3hc"
+    },
+    {
+      "data_saida": "2026-10-23T13:20:26",
+      "simbolo": "ARCTIS",
+      "token": "2JSj9dzLQwAi3q1dHYjCPF5Gveg81hBTRy8EeM3Fpump",
+      "custo_usd": 42.61,
+      "recebido_usd": 29.65,
+      "pnl_usd": -12.95,
+      "pnl_pct": -30.41,
+      "horas": 0.5,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/5spztg8hdxcg3ywx7hwjhghf8cygnrswz1smmfqqkamx"
     }
   ],
   "ultimo_trade": {
@@ -887,6 +887,6 @@
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
-  "pnl_dia": -21.714211632465165,
+  "pnl_dia": -34.66891328255663,
   "inicio": "2026-10-19T03:05:36"
 }

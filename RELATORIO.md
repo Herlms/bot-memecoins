@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 13:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 13:20 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $846.22** (-15.38% vs $1000)
+**Valor da carteira: $839.89** (-16.01% vs $1000)
 
-Caixa: $726.39 · Posições abertas: 3
+Caixa: $756.04 · Posições abertas: 2
 
-Trades fechados: 65 · Ganhadores: 24 (37%)
+Trades fechados: 66 · Ganhadores: 24 (36%)
 
-P&L realizado: $-146.09 · Média por trade: -4.4%
+P&L realizado: $-159.04 · Média por trade: -4.8%
 
 Melhor: CHOO +196.2% · Pior: ogkimchi -99.7%
 
-Saídas: stop loss: 33, take profit: 19, trailing stop: 10, liquidez colapsou (rug?): 2, tempo máximo: 1
+Saídas: stop loss: 34, take profit: 19, trailing stop: 10, liquidez colapsou (rug?): 2, tempo máximo: 1
 
 ## Últimos 10 trades
 
+- 2026-10-23T13:20:26 · ARCTIS · -30.4% · stop loss
 - 2026-10-23T08:55:19 · GUST · -16.3% · trailing stop
 - 2026-10-23T08:20:26 · ogkimchi · -99.7% · liquidez colapsou (rug?)
 - 2026-10-23T07:00:50 · VIRTUAL · +0.9% · tempo máximo
@@ -25,10 +26,8 @@ Saídas: stop loss: 33, take profit: 19, trailing stop: 10, liquidez colapsou (r
 - 2026-10-23T00:35:18 · KIMCHINU · +56.8% · take profit
 - 2026-10-22T06:15:26 · CYBERTRUMP · -99.6% · liquidez colapsou (rug?)
 - 2026-10-22T05:40:25 · OA · +37.5% · take profit
-- 2026-10-22T05:20:26 · NOOX · -50.5% · stop loss
 
 ## Posições abertas
 
-- SHADOW -6.9% (custo $42.70)
-- ARCTIS -12.3% (custo $42.61)
-- VIRTUAL +5.7% (custo $42.24)
+- SHADOW -11.6% (custo $42.70)
+- VIRTUAL +12.3% (custo $42.24)
