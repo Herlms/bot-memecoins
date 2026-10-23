@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Correr um ciclo do bot
-        run: python3 bot_memecoins.py ciclo
+        run: python3 bot.py ciclo
 
       - name: Guardar estado no repositório
         run: |
