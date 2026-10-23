@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 14:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 14:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $816.47** (-18.35% vs $1000)
+**Valor da carteira: $818.81** (-18.12% vs $1000)
 
-Caixa: $681.57 · Posições abertas: 3
+Caixa: $700.95 · Posições abertas: 3
 
-Trades fechados: 68 · Ganhadores: 24 (35%)
+Trades fechados: 69 · Ganhadores: 25 (36%)
 
-P&L realizado: $-192.65 · Média por trade: -5.8%
+P&L realizado: $-174.54 · Média por trade: -5.1%
 
 Melhor: CHOO +196.2% · Pior: ogkimchi -99.7%
 
-Saídas: stop loss: 36, take profit: 19, trailing stop: 10, liquidez colapsou (rug?): 2, tempo máximo: 1
+Saídas: stop loss: 36, take profit: 20, trailing stop: 10, liquidez colapsou (rug?): 2, tempo máximo: 1
 
 ## Últimos 10 trades
 
+- 2026-10-23T14:10:26 · VIRTUAL · +42.9% · take profit
 - 2026-10-23T13:40:26 · eCat · -45.9% · stop loss
 - 2026-10-23T13:30:41 · McNugget · -34.7% · stop loss
 - 2026-10-23T13:20:26 · ARCTIS · -30.4% · stop loss
@@ -25,10 +26,9 @@ Saídas: stop loss: 36, take profit: 19, trailing stop: 10, liquidez colapsou (r
 - 2026-10-23T05:10:25 · MEOWE · +2.9% · trailing stop
 - 2026-10-23T00:40:24 · MEGA · -28.2% · stop loss
 - 2026-10-23T00:40:24 · BTC · +37.9% · take profit
-- 2026-10-23T00:35:18 · KIMCHINU · +56.8% · take profit
 
 ## Posições abertas
 
-- SHADOW -12.2% (custo $42.70)
-- VIRTUAL +39.0% (custo $42.24)
-- TC67 +0.0% (custo $40.86)
+- SHADOW -15.1% (custo $42.70)
+- TC67 +4.0% (custo $40.86)
+- ODIE +0.0% (custo $40.97)

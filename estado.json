@@ -1,5 +1,5 @@
 {
-  "caixa": 681.5717732580717,
+  "caixa": 700.9511846477068,
   "posicoes": {
     "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": {
       "simbolo": "SHADOW",
@@ -7,22 +7,10 @@
       "qtd": 119533.52087486185,
       "custo": 42.696395334563164,
       "preco_entrada": 0.0003516,
-      "preco_atual": 0.0003088,
+      "preco_atual": 0.0002986,
       "preco_max": 0.0003938,
       "liq_entrada": 51791.34,
       "entrada_ts": 1792756518.8778417,
-      "falhas": 0
-    },
-    "HqaUT1abZq6WkeRpCYD7yHNdcxgu6biXejNkeJUNpump": {
-      "simbolo": "VIRTUAL",
-      "url": "https://dexscreener.com/solana/mfsvptxcy6eit1qmpmgkjf6a8k8fdj7ykufpkdeexex",
-      "qtd": 129606.2903905935,
-      "custo": 42.24020485611128,
-      "preco_entrada": 0.0003208,
-      "preco_atual": 0.0004458,
-      "preco_max": 0.0004458,
-      "liq_entrada": 49431.61,
-      "entrada_ts": 1792760720.4470494,
       "falhas": 0
     },
     "84qut46jTfT8nqdviG4HBZ5JQMN1sJg7hBzJgXvfpump": {
@@ -31,10 +19,22 @@
       "qtd": 212279.10173627362,
       "custo": 40.855905724229245,
       "preco_entrada": 0.0001894,
-      "preco_atual": 0.0001894,
-      "preco_max": 0.0001894,
+      "preco_atual": 0.000197,
+      "preco_max": 0.000197,
       "liq_entrada": 37411.17,
       "entrada_ts": 1792764321.9603844,
+      "falhas": 0
+    },
+    "6LGGCwCUHDvcipZNtqWrb4MRtsPygNGbUx1df7LYpump": {
+      "simbolo": "ODIE",
+      "url": "https://dexscreener.com/solana/dnm2wasf4pp9xivpucrwm3cv9anasuugeganqudtlgs",
+      "qtd": 22133.861594632566,
+      "custo": 40.97173036963087,
+      "preco_entrada": 0.001823,
+      "preco_atual": 0.001823,
+      "preco_max": 0.001823,
+      "liq_entrada": 123912.72,
+      "entrada_ts": 1792764627.4050343,
       "falhas": 0
     }
   },
@@ -854,6 +854,18 @@
       "horas": 0.08,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/7ukqr6b6nvkqeytrzvwbdbhtfymcn1yhdyec8zcvewfb"
+    },
+    {
+      "data_saida": "2026-10-23T14:10:26",
+      "simbolo": "VIRTUAL",
+      "token": "HqaUT1abZq6WkeRpCYD7yHNdcxgu6biXejNkeJUNpump",
+      "custo_usd": 42.24,
+      "recebido_usd": 60.35,
+      "pnl_usd": 18.11,
+      "pnl_pct": 42.88,
+      "horas": 1.09,
+      "motivo": "take profit",
+      "url": "https://dexscreener.com/solana/mfsvptxcy6eit1qmpmgkjf6a8k8fdj7ykufpkdeexex"
     }
   ],
   "ultimo_trade": {
@@ -922,10 +934,11 @@
     "2JSj9dzLQwAi3q1dHYjCPF5Gveg81hBTRy8EeM3Fpump": 1792759825.1421597,
     "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump": 1792761920.6533048,
     "TinDLfBx9vVCmRmg42rycthJWFD6JB34W9Zuetjpump": 1792762520.9744847,
-    "84qut46jTfT8nqdviG4HBZ5JQMN1sJg7hBzJgXvfpump": 1792764321.9603853
+    "84qut46jTfT8nqdviG4HBZ5JQMN1sJg7hBzJgXvfpump": 1792764321.9603853,
+    "6LGGCwCUHDvcipZNtqWrb4MRtsPygNGbUx1df7LYpump": 1792764627.4050353
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
-  "pnl_dia": -68.2778391507532,
+  "pnl_dia": -50.16690224759858,
   "inicio": "2026-10-19T03:05:36"
 }
