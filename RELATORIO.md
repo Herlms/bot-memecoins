@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 00:30 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 00:35 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $883.93** (-11.61% vs $1000)
+**Valor da carteira: $908.85** (-9.12% vs $1000)
 
-Caixa: $787.95 · Posições abertas: 2
+Caixa: $811.34 · Posições abertas: 2
 
-Trades fechados: 58 · Ganhadores: 20 (34%)
+Trades fechados: 59 · Ganhadores: 21 (36%)
 
-P&L realizado: $-124.37 · Média por trade: -4.1%
+P&L realizado: $-99.42 · Média por trade: -3.1%
 
 Melhor: CHOO +196.2% · Pior: CYBERTRUMP -99.6%
 
-Saídas: stop loss: 32, take profit: 17, trailing stop: 8, liquidez colapsou (rug?): 1
+Saídas: stop loss: 32, take profit: 18, trailing stop: 8, liquidez colapsou (rug?): 1
 
 ## Últimos 10 trades
 
+- 2026-10-23T00:35:18 · KIMCHINU · +56.8% · take profit
 - 2026-10-22T06:15:26 · CYBERTRUMP · -99.6% · liquidez colapsou (rug?)
 - 2026-10-22T05:40:25 · OA · +37.5% · take profit
 - 2026-10-22T05:20:26 · NOOX · -50.5% · stop loss
@@ -25,9 +26,8 @@ Saídas: stop loss: 32, take profit: 17, trailing stop: 8, liquidez colapsou (ru
 - 2026-10-22T01:15:25 · MONEYBIZ · -75.7% · stop loss
 - 2026-10-22T00:15:28 · DYCPAD · -22.8% · stop loss
 - 2026-10-21T22:40:03 · KIMCHI · -41.5% · stop loss
-- 2026-10-21T21:00:54 · KIMCHIBULL · +52.4% · take profit
 
 ## Posições abertas
 
-- BTC +2.4% (custo $43.78)
-- KIMCHINU +19.9% (custo $43.91)
+- BTC +22.4% (custo $43.78)
+- MEGA +0.0% (custo $45.48)
