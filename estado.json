@@ -1,5 +1,5 @@
 {
-  "caixa": 756.0366048504975,
+  "caixa": 714.083333521955,
   "posicoes": {
     "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": {
       "simbolo": "SHADOW",
@@ -7,7 +7,7 @@
       "qtd": 119533.52087486185,
       "custo": 42.696395334563164,
       "preco_entrada": 0.0003516,
-      "preco_atual": 0.0003107,
+      "preco_atual": 0.0002995,
       "preco_max": 0.0003938,
       "liq_entrada": 51791.34,
       "entrada_ts": 1792756518.8778417,
@@ -19,10 +19,22 @@
       "qtd": 129606.2903905935,
       "custo": 42.24020485611128,
       "preco_entrada": 0.0003208,
-      "preco_atual": 0.0003604,
-      "preco_max": 0.0003604,
+      "preco_atual": 0.0003644,
+      "preco_max": 0.0003644,
       "liq_entrada": 49431.61,
       "entrada_ts": 1792760720.4470494,
+      "falhas": 0
+    },
+    "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump": {
+      "simbolo": "McNugget",
+      "url": "https://dexscreener.com/solana/d2krlxfaryqid8owt2kutynnxauwypc3gtzfcghqlfjg",
+      "qtd": 33370.23083409771,
+      "custo": 41.95327132854254,
+      "preco_entrada": 0.001238,
+      "preco_atual": 0.001238,
+      "preco_max": 0.001238,
+      "liq_entrada": 96097.41,
+      "entrada_ts": 1792761920.6533036,
       "falhas": 0
     }
   },
@@ -883,7 +895,8 @@
     "HbVPTLRijQg9PWyu66ZLwug5ERuyXw4p3c3Rfx9hpump": 1792742450.6159058,
     "z1gC6KiMdhnp5RjRtH63JjXhrWKpqK1qaDVBLfCpump": 1792744824.605698,
     "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": 1792756518.8778427,
-    "2JSj9dzLQwAi3q1dHYjCPF5Gveg81hBTRy8EeM3Fpump": 1792759825.1421597
+    "2JSj9dzLQwAi3q1dHYjCPF5Gveg81hBTRy8EeM3Fpump": 1792759825.1421597,
+    "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump": 1792761920.6533048
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
