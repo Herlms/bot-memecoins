@@ -1,21 +1,22 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 05:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 05:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $914.26** (-8.57% vs $1000)
+**Valor da carteira: $904.61** (-9.54% vs $1000)
 
-Caixa: $813.98 · Posições abertas: 2
+Caixa: $860.45 · Posições abertas: 1
 
-Trades fechados: 61 · Ganhadores: 22 (36%)
+Trades fechados: 62 · Ganhadores: 23 (37%)
 
-P&L realizado: $-95.65 · Média por trade: -2.8%
+P&L realizado: $-94.35 · Média por trade: -2.7%
 
 Melhor: CHOO +196.2% · Pior: CYBERTRUMP -99.6%
 
-Saídas: stop loss: 33, take profit: 19, trailing stop: 8, liquidez colapsou (rug?): 1
+Saídas: stop loss: 33, take profit: 19, trailing stop: 9, liquidez colapsou (rug?): 1
 
 ## Últimos 10 trades
 
+- 2026-10-23T05:10:25 · MEOWE · +2.9% · trailing stop
 - 2026-10-23T00:40:24 · MEGA · -28.2% · stop loss
 - 2026-10-23T00:40:24 · BTC · +37.9% · take profit
 - 2026-10-23T00:35:18 · KIMCHINU · +56.8% · take profit
@@ -25,9 +26,7 @@ Saídas: stop loss: 33, take profit: 19, trailing stop: 8, liquidez colapsou (ru
 - 2026-10-22T04:00:46 · FRENS · +49.9% · take profit
 - 2026-10-22T03:15:25 · Au · -38.4% · stop loss
 - 2026-10-22T03:10:25 · RETAIL · -23.3% · stop loss
-- 2026-10-22T01:15:25 · MONEYBIZ · -75.7% · stop loss
 
 ## Posições abertas
 
-- VIRTUAL -0.5% (custo $45.22)
-- MEOWE +26.0% (custo $45.17)
+- VIRTUAL -0.8% (custo $45.22)

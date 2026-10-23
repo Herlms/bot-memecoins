@@ -1,5 +1,5 @@
 {
-  "caixa": 813.9784320107068,
+  "caixa": 860.4527169858393,
   "posicoes": {
     "HqaUT1abZq6WkeRpCYD7yHNdcxgu6biXejNkeJUNpump": {
       "simbolo": "VIRTUAL",
@@ -7,22 +7,10 @@
       "qtd": 155767.81911035808,
       "custo": 45.21830111036421,
       "preco_entrada": 0.0002857,
-      "preco_atual": 0.0002842,
+      "preco_atual": 0.0002835,
       "preco_max": 0.0002977,
       "liq_entrada": 45409.97,
       "entrada_ts": 1792716920.6874425,
-      "falhas": 0
-    },
-    "FiYTnrwt6CPmWQyWY4evBLK5Lu21jJSRHPYtX4Aepump": {
-      "simbolo": "MEOWE",
-      "url": "https://dexscreener.com/solana/5iq5n8sir2xkpgdjycem5vxw6hvquf6rkvyyemepls6u",
-      "qtd": 274173.2896144673,
-      "custo": 45.169289086213084,
-      "preco_entrada": 0.0001621,
-      "preco_atual": 0.0002043,
-      "preco_max": 0.0002043,
-      "liq_entrada": 36159.43,
-      "entrada_ts": 1792731648.674318,
       "falhas": 0
     }
   },
@@ -758,6 +746,18 @@
       "horas": 0.08,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/hwx3ghcwcytvmmtn6qthh7w8hsrfwhzpdpcz1sf4vro4"
+    },
+    {
+      "data_saida": "2026-10-23T05:10:25",
+      "simbolo": "MEOWE",
+      "token": "FiYTnrwt6CPmWQyWY4evBLK5Lu21jJSRHPYtX4Aepump",
+      "custo_usd": 45.17,
+      "recebido_usd": 46.47,
+      "pnl_usd": 1.3,
+      "pnl_pct": 2.89,
+      "horas": 0.16,
+      "motivo": "trailing stop",
+      "url": "https://dexscreener.com/solana/5iq5n8sir2xkpgdjycem5vxw6hvquf6rkvyyemepls6u"
     }
   ],
   "ultimo_trade": {
@@ -823,6 +823,6 @@
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
-  "pnl_dia": 28.723903883555607,
+  "pnl_dia": 30.028899772475015,
   "inicio": "2026-10-19T03:05:36"
 }
