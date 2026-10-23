@@ -1,19 +1,6 @@
 {
-  "caixa": 817.8856721690294,
-  "posicoes": {
-    "z1gC6KiMdhnp5RjRtH63JjXhrWKpqK1qaDVBLfCpump": {
-      "simbolo": "GUST",
-      "url": "https://dexscreener.com/solana/hchm41tyxtjmfwmdak4ifmvkasr7uq13uppxj5g6v3hc",
-      "qtd": 287325.0297853968,
-      "custo": 43.04661432468575,
-      "preco_entrada": 0.0001474,
-      "preco_atual": 0.0001571,
-      "preco_max": 0.0001844,
-      "liq_entrada": 32465.59,
-      "entrada_ts": 1792744824.605697,
-      "falhas": 0
-    }
-  },
+  "caixa": 853.9279066912634,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -782,6 +769,18 @@
       "horas": 0.33,
       "motivo": "liquidez colapsou (rug?)",
       "url": "https://dexscreener.com/solana/gsbtzpbcmq7jtew4tqqpifcqn1ycoftokg9ehfbtat9q"
+    },
+    {
+      "data_saida": "2026-10-23T08:55:19",
+      "simbolo": "GUST",
+      "token": "z1gC6KiMdhnp5RjRtH63JjXhrWKpqK1qaDVBLfCpump",
+      "custo_usd": 43.05,
+      "recebido_usd": 36.04,
+      "pnl_usd": -7.0,
+      "pnl_pct": -16.27,
+      "horas": 0.25,
+      "motivo": "trailing stop",
+      "url": "https://dexscreener.com/solana/hchm41tyxtjmfwmdak4ifmvkasr7uq13uppxj5g6v3hc"
     }
   ],
   "ultimo_trade": {
@@ -849,6 +848,6 @@
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
-  "pnl_dia": -14.709831830013407,
+  "pnl_dia": -21.714211632465165,
   "inicio": "2026-10-19T03:05:36"
 }
