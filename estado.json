@@ -1,5 +1,5 @@
 {
-  "caixa": 722.4385036262262,
+  "caixa": 681.6360719920572,
   "posicoes": {
     "9RhEr8CvHZ92bKsnrwodi2qkcNxYyghjAzCSJgQPpump": {
       "simbolo": "TRENCHERS",
@@ -7,8 +7,8 @@
       "qtd": 280227.77871971426,
       "custo": 40.614262789674605,
       "preco_entrada": 0.0001426,
-      "preco_atual": 0.000158,
-      "preco_max": 0.000158,
+      "preco_atual": 0.0001635,
+      "preco_max": 0.0001635,
       "liq_entrada": 31757.21,
       "entrada_ts": 1792765841.8625946,
       "falhas": 0
@@ -19,10 +19,22 @@
       "qtd": 109843.45492181195,
       "custo": 40.58861424757859,
       "preco_entrada": 0.0003638,
-      "preco_atual": 0.0004544,
+      "preco_atual": 0.0004351,
       "preco_max": 0.0004544,
       "liq_entrada": 64847.97,
       "entrada_ts": 1792766728.1688142,
+      "falhas": 0
+    },
+    "HYLhzvLHmC4gqckEyACvy2jDMoCizE2hS1qcJ1Q7pump": {
+      "simbolo": "McSauce",
+      "url": "https://dexscreener.com/solana/frupwrlrnrdcftbrtlbq6kg3g5vrpgdkkenwm6yuv1fy",
+      "qtd": 80874.51329400054,
+      "custo": 40.80243163416899,
+      "preco_entrada": 0.0004967,
+      "preco_atual": 0.0004967,
+      "preco_max": 0.0004967,
+      "liq_entrada": 62214.76,
+      "entrada_ts": 1792771521.830836,
       "falhas": 0
     }
   },
@@ -973,7 +985,8 @@
     "84qut46jTfT8nqdviG4HBZ5JQMN1sJg7hBzJgXvfpump": 1792764321.9603853,
     "6LGGCwCUHDvcipZNtqWrb4MRtsPygNGbUx1df7LYpump": 1792764627.4050353,
     "FWz2EY9qhMpLeKYUgunVbfj6pNSbX3Nq3KnGE9whpump": 1792765841.862463,
-    "9RhEr8CvHZ92bKsnrwodi2qkcNxYyghjAzCSJgQPpump": 1792765841.8625953
+    "9RhEr8CvHZ92bKsnrwodi2qkcNxYyghjAzCSJgQPpump": 1792765841.8625953,
+    "HYLhzvLHmC4gqckEyACvy2jDMoCizE2hS1qcJ1Q7pump": 1792771521.830837
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,

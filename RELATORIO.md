@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 16:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 16:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $816.63** (-18.34% vs $1000)
+**Valor da carteira: $815.42** (-18.46% vs $1000)
 
-Caixa: $722.44 · Posições abertas: 2
+Caixa: $681.64 · Posições abertas: 3
 
 Trades fechados: 73 · Ganhadores: 26 (36%)
 
@@ -29,5 +29,6 @@ Saídas: stop loss: 39, take profit: 21, trailing stop: 10, liquidez colapsou (r
 
 ## Posições abertas
 
-- TRENCHERS +10.8% (custo $40.61)
-- PHP +24.9% (custo $40.59)
+- TRENCHERS +14.7% (custo $40.61)
+- PHP +19.6% (custo $40.59)
+- McSauce +0.0% (custo $40.80)
