@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 13:10 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 13:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $845.28** (-15.47% vs $1000)
+**Valor da carteira: $846.22** (-15.38% vs $1000)
 
 Caixa: $726.39 · Posições abertas: 3
 
@@ -29,6 +29,6 @@ Saídas: stop loss: 33, take profit: 19, trailing stop: 10, liquidez colapsou (r
 
 ## Posições abertas
 
-- SHADOW -8.3% (custo $42.70)
-- ARCTIS -7.9% (custo $42.61)
-- VIRTUAL +0.4% (custo $42.24)
+- SHADOW -6.9% (custo $42.70)
+- ARCTIS -12.3% (custo $42.61)
+- VIRTUAL +5.7% (custo $42.24)
