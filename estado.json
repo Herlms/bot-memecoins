@@ -1,10 +1,28 @@
 {
   "versao": 2,
-  "caixa": 1000.0,
-  "posicoes": {},
+  "caixa": 950.0,
+  "posicoes": {
+    "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump": {
+      "simbolo": "DOPE",
+      "url": "https://dexscreener.com/solana/6iep3egqksbzwgzmbcyajtivtvykcgl9bnpbewlr8agq",
+      "qtd": 16453.950979093435,
+      "custo": 50.0,
+      "preco_entrada": 0.002993,
+      "preco_atual": 0.002993,
+      "preco_max": 0.002993,
+      "stop": -12.0,
+      "liq_entrada": 226776.69,
+      "entrada_ts": 1792798827.2123415,
+      "falhas": 0
+    }
+  },
   "fechados": [],
-  "ultimo_trade": {},
-  "ultimo_simbolo": {},
+  "ultimo_trade": {
+    "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump": 1792798827.212343
+  },
+  "ultimo_simbolo": {
+    "dope": 1792798827.2123432
+  },
   "dia": "2026-10-23",
   "valor_inicio_dia": 1000.0,
   "pnl_dia": 0.0,
