@@ -1,21 +1,23 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 00:35 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 00:40 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $908.85** (-9.12% vs $1000)
+**Valor da carteira: $904.37** (-9.56% vs $1000)
 
-Caixa: $811.34 · Posições abertas: 2
+Caixa: $904.37 · Posições abertas: 0
 
-Trades fechados: 59 · Ganhadores: 21 (36%)
+Trades fechados: 61 · Ganhadores: 22 (36%)
 
-P&L realizado: $-99.42 · Média por trade: -3.1%
+P&L realizado: $-95.65 · Média por trade: -2.8%
 
 Melhor: CHOO +196.2% · Pior: CYBERTRUMP -99.6%
 
-Saídas: stop loss: 32, take profit: 18, trailing stop: 8, liquidez colapsou (rug?): 1
+Saídas: stop loss: 33, take profit: 19, trailing stop: 8, liquidez colapsou (rug?): 1
 
 ## Últimos 10 trades
 
+- 2026-10-23T00:40:24 · MEGA · -28.2% · stop loss
+- 2026-10-23T00:40:24 · BTC · +37.9% · take profit
 - 2026-10-23T00:35:18 · KIMCHINU · +56.8% · take profit
 - 2026-10-22T06:15:26 · CYBERTRUMP · -99.6% · liquidez colapsou (rug?)
 - 2026-10-22T05:40:25 · OA · +37.5% · take profit
@@ -24,10 +26,4 @@ Saídas: stop loss: 32, take profit: 18, trailing stop: 8, liquidez colapsou (ru
 - 2026-10-22T03:15:25 · Au · -38.4% · stop loss
 - 2026-10-22T03:10:25 · RETAIL · -23.3% · stop loss
 - 2026-10-22T01:15:25 · MONEYBIZ · -75.7% · stop loss
-- 2026-10-22T00:15:28 · DYCPAD · -22.8% · stop loss
-- 2026-10-21T22:40:03 · KIMCHI · -41.5% · stop loss
 
-## Posições abertas
-
-- BTC +22.4% (custo $43.78)
-- MEGA +0.0% (custo $45.48)

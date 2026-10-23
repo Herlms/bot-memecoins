@@ -58,3 +58,5 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-10-22T05:40:25,OA,EhuiZVks9ExNTQUg2ZLeW4SQUMAGiwwhK73rASzBpump,46.4,63.79,17.39,37.48,1.66,take profit,https://dexscreener.com/solana/2ouubdtw81shryhw6yyn1zuqzx28exxi8s6f7bxvcbnq
 2026-10-22T06:15:26,CYBERTRUMP,342YxqtVTRgKW8rMw9LyKJpc1MAScrQ8xh5mndJApump,46.08,0.17,-45.91,-99.64,0.17,liquidez colapsou (rug?),https://dexscreener.com/solana/hjwyeds69rsfx2jefzrzrtjvqnsnz9eq2ypw3enav8xw
 2026-10-23T00:35:18,KIMCHINU,BbaZXnPRUWYfvuhNWwK25vzhWd5PRwDJ5N47nJtgpump,43.91,68.86,24.95,56.83,0.25,take profit,https://dexscreener.com/solana/haf1b6zobwmuram9bdzklmhapaptgyd27g4ruvqirqif
+2026-10-23T00:40:24,BTC,HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump,43.78,60.37,16.59,37.88,0.58,take profit,https://dexscreener.com/solana/4upijxph3acshtxzlfhsjbdibzunnffyvhztjpcqdbbh
+2026-10-23T00:40:24,MEGA,DcHRotuS9ueBpbxanzBwTrnHpHJkhvhniafDQNKKpump,45.48,32.66,-12.82,-28.18,0.08,stop loss,https://dexscreener.com/solana/hwx3ghcwcytvmmtn6qthh7w8hsrfwhzpdpcz1sf4vro4

@@ -1,31 +1,6 @@
 {
-  "caixa": 811.3354660814756,
-  "posicoes": {
-    "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": {
-      "simbolo": "BTC",
-      "url": "https://dexscreener.com/solana/4upijxph3acshtxzlfhsjbdibzunnffyvhztjpcqdbbh",
-      "qtd": 51186.54139195534,
-      "custo": 43.78210591618643,
-      "preco_entrada": 0.0008422,
-      "preco_atual": 0.001031,
-      "preco_max": 0.001031,
-      "liq_entrada": 82791.67,
-      "entrada_ts": 1792713921.591119,
-      "falhas": 0
-    },
-    "DcHRotuS9ueBpbxanzBwTrnHpHJkhvhniafDQNKKpump": {
-      "simbolo": "MEGA",
-      "url": "https://dexscreener.com/solana/hwx3ghcwcytvmmtn6qthh7w8hsrfwhzpdpcz1sf4vro4",
-      "qtd": 309411.81724109326,
-      "custo": 45.47941001350429,
-      "preco_entrada": 0.0001446,
-      "preco_atual": 0.0001446,
-      "preco_max": 0.0001446,
-      "liq_entrada": 31966.09,
-      "entrada_ts": 1792715718.6880558,
-      "falhas": 0
-    }
-  },
+  "caixa": 904.3660222072841,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -734,6 +709,30 @@
       "horas": 0.25,
       "motivo": "take profit",
       "url": "https://dexscreener.com/solana/haf1b6zobwmuram9bdzklmhapaptgyd27g4ruvqirqif"
+    },
+    {
+      "data_saida": "2026-10-23T00:40:24",
+      "simbolo": "BTC",
+      "token": "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump",
+      "custo_usd": 43.78,
+      "recebido_usd": 60.37,
+      "pnl_usd": 16.59,
+      "pnl_pct": 37.88,
+      "horas": 0.58,
+      "motivo": "take profit",
+      "url": "https://dexscreener.com/solana/4upijxph3acshtxzlfhsjbdibzunnffyvhztjpcqdbbh"
+    },
+    {
+      "data_saida": "2026-10-23T00:40:24",
+      "simbolo": "MEGA",
+      "token": "DcHRotuS9ueBpbxanzBwTrnHpHJkhvhniafDQNKKpump",
+      "custo_usd": 45.48,
+      "recebido_usd": 32.66,
+      "pnl_usd": -12.82,
+      "pnl_pct": -28.18,
+      "horas": 0.08,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/hwx3ghcwcytvmmtn6qthh7w8hsrfwhzpdpcz1sf4vro4"
     }
   ],
   "ultimo_trade": {
@@ -797,6 +796,6 @@
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
-  "pnl_dia": 24.954863687437765,
+  "pnl_dia": 28.723903883555607,
   "inicio": "2026-10-19T03:05:36"
 }
