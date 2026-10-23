@@ -1,5 +1,5 @@
 {
-  "caixa": 859.1477210969199,
+  "caixa": 813.9784320107068,
   "posicoes": {
     "HqaUT1abZq6WkeRpCYD7yHNdcxgu6biXejNkeJUNpump": {
       "simbolo": "VIRTUAL",
@@ -7,10 +7,22 @@
       "qtd": 155767.81911035808,
       "custo": 45.21830111036421,
       "preco_entrada": 0.0002857,
-      "preco_atual": 0.0002836,
+      "preco_atual": 0.000284,
       "preco_max": 0.0002977,
       "liq_entrada": 45409.97,
       "entrada_ts": 1792716920.6874425,
+      "falhas": 0
+    },
+    "FiYTnrwt6CPmWQyWY4evBLK5Lu21jJSRHPYtX4Aepump": {
+      "simbolo": "MEOWE",
+      "url": "https://dexscreener.com/solana/5iq5n8sir2xkpgdjycem5vxw6hvquf6rkvyyemepls6u",
+      "qtd": 274173.2896144673,
+      "custo": 45.169289086213084,
+      "preco_entrada": 0.0001621,
+      "preco_atual": 0.0001621,
+      "preco_max": 0.0001621,
+      "liq_entrada": 36159.43,
+      "entrada_ts": 1792731648.674318,
       "falhas": 0
     }
   },
@@ -806,7 +818,8 @@
     "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": 1792713921.5911202,
     "BbaZXnPRUWYfvuhNWwK25vzhWd5PRwDJ5N47nJtgpump": 1792714826.402081,
     "DcHRotuS9ueBpbxanzBwTrnHpHJkhvhniafDQNKKpump": 1792715718.688057,
-    "HqaUT1abZq6WkeRpCYD7yHNdcxgu6biXejNkeJUNpump": 1792716920.6874435
+    "HqaUT1abZq6WkeRpCYD7yHNdcxgu6biXejNkeJUNpump": 1792716920.6874435,
+    "FiYTnrwt6CPmWQyWY4evBLK5Lu21jJSRHPYtX4Aepump": 1792731648.674319
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
