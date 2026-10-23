@@ -1,6 +1,19 @@
 {
-  "caixa": 853.9279066912634,
-  "posicoes": {},
+  "caixa": 811.2315113567003,
+  "posicoes": {
+    "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": {
+      "simbolo": "SHADOW",
+      "url": "https://dexscreener.com/solana/6isacdsslwmvhspmgyffriwv5reyakdqxxxpsridtkhu",
+      "qtd": 119533.52087486185,
+      "custo": 42.696395334563164,
+      "preco_entrada": 0.0003516,
+      "preco_atual": 0.0003516,
+      "preco_max": 0.0003516,
+      "liq_entrada": 51791.34,
+      "entrada_ts": 1792756518.8778417,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -844,7 +857,8 @@
     "HqaUT1abZq6WkeRpCYD7yHNdcxgu6biXejNkeJUNpump": 1792716920.6874435,
     "FiYTnrwt6CPmWQyWY4evBLK5Lu21jJSRHPYtX4Aepump": 1792731648.674319,
     "HbVPTLRijQg9PWyu66ZLwug5ERuyXw4p3c3Rfx9hpump": 1792742450.6159058,
-    "z1gC6KiMdhnp5RjRtH63JjXhrWKpqK1qaDVBLfCpump": 1792744824.605698
+    "z1gC6KiMdhnp5RjRtH63JjXhrWKpqK1qaDVBLfCpump": 1792744824.605698,
+    "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": 1792756518.8778427
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
