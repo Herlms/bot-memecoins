@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 12:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 12:20 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $856.45** (-14.35% vs $1000)
+**Valor da carteira: $856.15** (-14.38% vs $1000)
 
 Caixa: $811.23 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop loss: 33, take profit: 19, trailing stop: 10, liquidez colapsou (r
 
 ## Posições abertas
 
-- SHADOW +7.6% (custo $42.70)
+- SHADOW +6.9% (custo $42.70)
