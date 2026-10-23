@@ -1,6 +1,19 @@
 {
-  "caixa": 875.6421183237286,
-  "posicoes": {},
+  "caixa": 831.8600124075422,
+  "posicoes": {
+    "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": {
+      "simbolo": "BTC",
+      "url": "https://dexscreener.com/solana/4upijxph3acshtxzlfhsjbdibzunnffyvhztjpcqdbbh",
+      "qtd": 51186.54139195534,
+      "custo": 43.78210591618643,
+      "preco_entrada": 0.0008422,
+      "preco_atual": 0.0008422,
+      "preco_max": 0.0008422,
+      "liq_entrada": 82791.67,
+      "entrada_ts": 1792713921.591119,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-19T05:03:35",
@@ -753,7 +766,8 @@
     "6mYfg1EmMVjbQv38QGY5XdRUQ4SyNpFauL1aiRiWpump": 1792638320.7948456,
     "EhuiZVks9ExNTQUg2ZLeW4SQUMAGiwwhK73rASzBpump": 1792641646.8958468,
     "Hx4cDZzRjfCNeqZCLS8sR4uwPRH5NVVrE4PF9Fugpump": 1792646126.8322134,
-    "342YxqtVTRgKW8rMw9LyKJpc1MAScrQ8xh5mndJApump": 1792649120.5465422
+    "342YxqtVTRgKW8rMw9LyKJpc1MAScrQ8xh5mndJApump": 1792649120.5465422,
+    "HKh5uh37FyRhRbDPcmPCoTcfByRLdY65RFZj9AvZpump": 1792713921.5911202
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,

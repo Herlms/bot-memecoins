@@ -1,10 +1,10 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 00:00 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 00:05 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $875.64** (-12.44% vs $1000)
+**Valor da carteira: $874.97** (-12.50% vs $1000)
 
-Caixa: $875.64 · Posições abertas: 0
+Caixa: $831.86 · Posições abertas: 1
 
 Trades fechados: 58 · Ganhadores: 20 (34%)
 
@@ -27,3 +27,6 @@ Saídas: stop loss: 32, take profit: 17, trailing stop: 8, liquidez colapsou (ru
 - 2026-10-21T22:40:03 · KIMCHI · -41.5% · stop loss
 - 2026-10-21T21:00:54 · KIMCHIBULL · +52.4% · take profit
 
+## Posições abertas
+
+- BTC +0.0% (custo $43.78)
