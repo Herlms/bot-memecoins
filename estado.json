@@ -1,5 +1,5 @@
 {
-  "caixa": 811.2315113567003,
+  "caixa": 768.6259125819051,
   "posicoes": {
     "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": {
       "simbolo": "SHADOW",
@@ -7,10 +7,22 @@
       "qtd": 119533.52087486185,
       "custo": 42.696395334563164,
       "preco_entrada": 0.0003516,
-      "preco_atual": 0.0003444,
+      "preco_atual": 0.000342,
       "preco_max": 0.0003938,
       "liq_entrada": 51791.34,
       "entrada_ts": 1792756518.8778417,
+      "falhas": 0
+    },
+    "2JSj9dzLQwAi3q1dHYjCPF5Gveg81hBTRy8EeM3Fpump": {
+      "simbolo": "ARCTIS",
+      "url": "https://dexscreener.com/solana/5spztg8hdxcg3ywx7hwjhghf8cygnrswz1smmfqqkamx",
+      "qtd": 300465.67555477435,
+      "custo": 42.605598774795155,
+      "preco_entrada": 0.0001395,
+      "preco_atual": 0.0001395,
+      "preco_max": 0.0001395,
+      "liq_entrada": 30547.89,
+      "entrada_ts": 1792759825.142158,
       "falhas": 0
     }
   },
@@ -858,7 +870,8 @@
     "FiYTnrwt6CPmWQyWY4evBLK5Lu21jJSRHPYtX4Aepump": 1792731648.674319,
     "HbVPTLRijQg9PWyu66ZLwug5ERuyXw4p3c3Rfx9hpump": 1792742450.6159058,
     "z1gC6KiMdhnp5RjRtH63JjXhrWKpqK1qaDVBLfCpump": 1792744824.605698,
-    "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": 1792756518.8778427
+    "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": 1792756518.8778427,
+    "2JSj9dzLQwAi3q1dHYjCPF5Gveg81hBTRy8EeM3Fpump": 1792759825.1421597
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
