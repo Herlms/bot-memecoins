@@ -1,8 +1,8 @@
 # Relatório da simulação
 
-Atualizado: 2026-10-23 14:15 (UTC no GitHub) · Início: 2026-10-19T03:05:36
+Atualizado: 2026-10-23 14:20 (UTC no GitHub) · Início: 2026-10-19T03:05:36
 
-**Valor da carteira: $808.21** (-19.18% vs $1000)
+**Valor da carteira: $814.09** (-18.59% vs $1000)
 
 Caixa: $700.95 · Posições abertas: 3
 
@@ -29,6 +29,6 @@ Saídas: stop loss: 36, take profit: 20, trailing stop: 10, liquidez colapsou (r
 
 ## Posições abertas
 
-- SHADOW -14.6% (custo $42.70)
-- TC67 -8.1% (custo $40.86)
-- ODIE -14.7% (custo $40.97)
+- SHADOW -15.1% (custo $42.70)
+- TC67 -18.4% (custo $40.86)
+- ODIE +10.6% (custo $40.97)
