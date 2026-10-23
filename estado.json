@@ -1,5 +1,5 @@
 {
-  "caixa": 730.7201746762029,
+  "caixa": 649.4598920786536,
   "posicoes": {
     "F9Yz51QZpvS5fWdqgmt8wgEWHjg2E5YdwLvSjsrGpump": {
       "simbolo": "SHADOW",
@@ -7,7 +7,7 @@
       "qtd": 119533.52087486185,
       "custo": 42.696395334563164,
       "preco_entrada": 0.0003516,
-      "preco_atual": 0.0003075,
+      "preco_atual": 0.0003253,
       "preco_max": 0.0003938,
       "liq_entrada": 51791.34,
       "entrada_ts": 1792756518.8778417,
@@ -19,10 +19,34 @@
       "qtd": 22133.861594632566,
       "custo": 40.97173036963087,
       "preco_entrada": 0.001823,
-      "preco_atual": 0.001482,
+      "preco_atual": 0.001957,
       "preco_max": 0.002017,
       "liq_entrada": 123912.72,
       "entrada_ts": 1792764627.4050343,
+      "falhas": 0
+    },
+    "FWz2EY9qhMpLeKYUgunVbfj6pNSbX3Nq3KnGE9whpump": {
+      "simbolo": "TC67",
+      "url": "https://dexscreener.com/solana/3vjdeiwaxhbqnkvxhvf2wpvpyvvkctbydnlx9gktjvyw",
+      "qtd": 120044.64279590553,
+      "custo": 40.646019807874566,
+      "preco_entrada": 0.0003333,
+      "preco_atual": 0.0003333,
+      "preco_max": 0.0003333,
+      "liq_entrada": 51138.61,
+      "entrada_ts": 1792765841.862461,
+      "falhas": 0
+    },
+    "9RhEr8CvHZ92bKsnrwodi2qkcNxYyghjAzCSJgQPpump": {
+      "simbolo": "TRENCHERS",
+      "url": "https://dexscreener.com/solana/rtmslppy6vjckdzgjffqmfhzsdn1r7e2ahhkbzhmqjr",
+      "qtd": 280227.77871971426,
+      "custo": 40.614262789674605,
+      "preco_entrada": 0.0001426,
+      "preco_atual": 0.0001426,
+      "preco_max": 0.0001426,
+      "liq_entrada": 31757.21,
+      "entrada_ts": 1792765841.8625946,
       "falhas": 0
     }
   },
@@ -935,7 +959,9 @@
     "Cy7qKnoNQEsUUafCvSYWroqrHD4vu7jrCoeurXyxpump": 1792761920.6533048,
     "TinDLfBx9vVCmRmg42rycthJWFD6JB34W9Zuetjpump": 1792762520.9744847,
     "84qut46jTfT8nqdviG4HBZ5JQMN1sJg7hBzJgXvfpump": 1792764321.9603853,
-    "6LGGCwCUHDvcipZNtqWrb4MRtsPygNGbUx1df7LYpump": 1792764627.4050353
+    "6LGGCwCUHDvcipZNtqWrb4MRtsPygNGbUx1df7LYpump": 1792764627.4050353,
+    "FWz2EY9qhMpLeKYUgunVbfj6pNSbX3Nq3KnGE9whpump": 1792765841.862463,
+    "9RhEr8CvHZ92bKsnrwodi2qkcNxYyghjAzCSJgQPpump": 1792765841.8625953
   },
   "dia": "2026-10-23",
   "valor_inicio_dia": 875.6421183237286,
