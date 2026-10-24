@@ -1,13 +1,20 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-24 05:35 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-24 05:40 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $1001.95** (+0.19% vs $1000)
+**Valor da carteira: $1000.41** (+0.04% vs $1000)
 
-Caixa: $950.00 · Posições abertas: 1
+Caixa: $1000.41 · Posições abertas: 0
 
-Ainda sem trades fechados. A v2 é muito mais seletiva: é normal passar horas sem comprar.
+Trades fechados: 1 · Ganhadores: 1 (100%)
 
-## Posições abertas
+P&L realizado: $+0.41 · Média por trade: +0.8%
 
-- DOPE +5.5% (custo $50.00, stop +4%)
+Ganho médio: +0.8% · Perda média: +0.0% · Profit factor: ∞ (acima de 1 = ganha dinheiro)
+
+Saídas: stop protegido: 1
+
+## Últimos 10 trades
+
+- 2026-10-24T05:40:27 · DOPE · +0.8% · stop protegido
+
