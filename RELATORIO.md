@@ -1,24 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-24 09:55 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-24 10:00 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $1002.98** (+0.30% vs $1000)
+**Valor da carteira: $997.67** (-0.23% vs $1000)
 
-Caixa: $955.36 · Posições abertas: 1
+Caixa: $997.67 · Posições abertas: 0
 
-Trades fechados: 2 · Ganhadores: 2 (100%)
+Trades fechados: 3 · Ganhadores: 2 (67%)
 
-P&L realizado: $+5.64 · Média por trade: +5.6%
+P&L realizado: $-2.34 · Média por trade: -1.5%
 
-Ganho médio: +5.6% · Perda média: +0.0% · Profit factor: ∞ (acima de 1 = ganha dinheiro)
+Ganho médio: +5.6% · Perda média: -15.9% · Profit factor: 0.71 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 1, trailing stop: 1
+Saídas: stop protegido: 1, trailing stop: 1, stop loss: 1
 
 ## Últimos 10 trades
 
+- 2026-10-24T10:00:46 · HELL · -15.9% · stop loss
 - 2026-10-24T07:20:24 · DacityCoin · +10.5% · trailing stop
 - 2026-10-24T05:40:27 · DOPE · +0.8% · stop protegido
 
-## Posições abertas
-
-- HELL -3.8% (custo $50.28, stop -12%)

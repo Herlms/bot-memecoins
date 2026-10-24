@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 955.3618385053844,
-  "posicoes": {
-    "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump": {
-      "simbolo": "HELL",
-      "url": "https://dexscreener.com/solana/ewsyhiuznynqh5f65ypfsoqblq2kyetuvhm5un7wsfdg",
-      "qtd": 12842.483940672824,
-      "custo": 50.28220202659918,
-      "preco_entrada": 0.003856,
-      "preco_atual": 0.003708,
-      "preco_max": 0.003856,
-      "stop": -12.0,
-      "liq_entrada": 166369.05,
-      "entrada_ts": 1792834520.4885397,
-      "falhas": 0
-    }
-  },
+  "caixa": 997.6658697659907,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -40,6 +26,18 @@
       "horas": 1.0,
       "motivo": "trailing stop",
       "url": "https://dexscreener.com/solana/7te1wxcfeqjklghxfvxscngztqunoz9fxbn7kkjrkner"
+    },
+    {
+      "data_saida": "2026-10-24T10:00:46",
+      "simbolo": "HELL",
+      "token": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump",
+      "custo_usd": 50.28,
+      "recebido_usd": 42.3,
+      "pnl_usd": -7.98,
+      "pnl_pct": -15.87,
+      "horas": 0.42,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/ewsyhiuznynqh5f65ypfsoqblq2kyetuvhm5un7wsfdg"
     }
   ],
   "ultimo_trade": {
@@ -54,8 +52,8 @@
   },
   "dia": "2026-10-24",
   "valor_inicio_dia": 999.3947608392385,
-  "pnl_dia": 5.644040531983663,
-  "perdas_seguidas": 0,
+  "pnl_dia": -2.3341302340092156,
+  "perdas_seguidas": 1,
   "pausa_ate": 0,
   "inicio": "2026-10-23T21:40:26"
 }
