@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 947.8066852426472,
+  "caixa": 897.9164047680106,
   "posicoes": {
     "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM": {
       "simbolo": "CLAUDIA",
@@ -8,11 +8,24 @@
       "qtd": 15624.6638281517,
       "custo": 50.35052666303122,
       "preco_entrada": 0.003174,
-      "preco_atual": 0.003222,
+      "preco_atual": 0.0032,
       "preco_max": 0.003387,
       "stop": -12.0,
       "liq_entrada": 245667.68,
       "entrada_ts": 1792872320.0815053,
+      "falhas": 0
+    },
+    "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump": {
+      "simbolo": "DOPE",
+      "url": "https://dexscreener.com/solana/6iep3egqksbzwgzmbcyajtivtvykcgl9bnpbewlr8agq",
+      "qtd": 11650.163637164896,
+      "custo": 49.890280474636626,
+      "preco_entrada": 0.004218,
+      "preco_atual": 0.004218,
+      "preco_max": 0.004218,
+      "stop": -12.0,
+      "liq_entrada": 271349.4,
+      "entrada_ts": 1792885826.4318326,
       "falhas": 0
     }
   },
@@ -79,7 +92,7 @@
     }
   ],
   "ultimo_trade": {
-    "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump": 1792798827.212343,
+    "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump": 1792885826.4318333,
     "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": 1792822827.0319161,
     "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump": 1792834520.4885404,
     "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump": 1792858525.2037196,
@@ -87,7 +100,7 @@
     "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE": 1792877720.345471
   },
   "ultimo_simbolo": {
-    "dope": 1792798827.2123432,
+    "dope": 1792885826.4318342,
     "dacitycoin": 1792822827.0319166,
     "hell": 1792834520.488541,
     "swordcat": 1792858525.20372,
