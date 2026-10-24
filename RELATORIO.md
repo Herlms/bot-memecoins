@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-24 16:10 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-24 16:15 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $997.67** (-0.23% vs $1000)
+**Valor da carteira: $996.91** (-0.31% vs $1000)
 
-Caixa: $997.67 · Posições abertas: 0
+Caixa: $947.78 · Posições abertas: 1
 
 Trades fechados: 3 · Ganhadores: 2 (67%)
 
@@ -20,3 +20,6 @@ Saídas: stop protegido: 1, trailing stop: 1, stop loss: 1
 - 2026-10-24T07:20:24 · DacityCoin · +10.5% · trailing stop
 - 2026-10-24T05:40:27 · DOPE · +0.8% · stop protegido
 
+## Posições abertas
+
+- swordcat +0.0% (custo $49.88, stop -12%)
