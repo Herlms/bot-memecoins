@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 1000.4117143766899,
-  "posicoes": {},
+  "caixa": 950.3911286578555,
+  "posicoes": {
+    "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": {
+      "simbolo": "DacityCoin",
+      "url": "https://dexscreener.com/solana/7te1wxcfeqjklghxfvxscngztqunoz9fxbn7kkjrkner",
+      "qtd": 33762.613051992426,
+      "custo": 50.020585718834496,
+      "preco_entrada": 0.001459,
+      "preco_atual": 0.001459,
+      "preco_max": 0.001459,
+      "stop": -12.0,
+      "liq_entrada": 135133.3,
+      "entrada_ts": 1792822827.031915,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -17,10 +31,12 @@
     }
   ],
   "ultimo_trade": {
-    "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump": 1792798827.212343
+    "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump": 1792798827.212343,
+    "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": 1792822827.0319161
   },
   "ultimo_simbolo": {
-    "dope": 1792798827.2123432
+    "dope": 1792798827.2123432,
+    "dacitycoin": 1792822827.0319166
   },
   "dia": "2026-10-24",
   "valor_inicio_dia": 999.3947608392385,
