@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-24 16:30 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-24 16:35 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $998.81** (-0.12% vs $1000)
+**Valor da carteira: $999.40** (-0.06% vs $1000)
 
 Caixa: $947.78 · Posições abertas: 1
 
@@ -22,4 +22,4 @@ Saídas: stop protegido: 1, trailing stop: 1, stop loss: 1
 
 ## Posições abertas
 
-- swordcat +3.9% (custo $49.88, stop -12%)
+- swordcat +5.1% (custo $49.88, stop -12%)
