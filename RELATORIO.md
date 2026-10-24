@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-24 07:00 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-24 07:05 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $1012.68** (+1.27% vs $1000)
+**Valor da carteira: $1007.79** (+0.78% vs $1000)
 
 Caixa: $950.39 · Posições abertas: 1
 
@@ -20,4 +20,4 @@ Saídas: stop protegido: 1
 
 ## Posições abertas
 
-- DacityCoin +26.5% (custo $50.02, stop +4%)
+- DacityCoin +16.5% (custo $50.02, stop +4%)
