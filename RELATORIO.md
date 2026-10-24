@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-24 20:00 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-24 20:05 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $1007.01** (+0.70% vs $1000)
+**Valor da carteira: $1006.25** (+0.63% vs $1000)
 
-Caixa: $1007.01 · Posições abertas: 0
+Caixa: $956.66 · Posições abertas: 1
 
 Trades fechados: 4 · Ganhadores: 3 (75%)
 
@@ -21,3 +21,6 @@ Saídas: stop protegido: 1, trailing stop: 2, stop loss: 1
 - 2026-10-24T07:20:24 · DacityCoin · +10.5% · trailing stop
 - 2026-10-24T05:40:27 · DOPE · +0.8% · stop protegido
 
+## Posições abertas
+
+- CLAUDIA +0.0% (custo $50.35, stop -12%)
