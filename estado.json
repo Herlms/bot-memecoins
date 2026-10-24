@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 906.2778423641505,
+  "caixa": 947.8066852426472,
   "posicoes": {
     "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM": {
       "simbolo": "CLAUDIA",
@@ -8,24 +8,11 @@
       "qtd": 15624.6638281517,
       "custo": 50.35052666303122,
       "preco_entrada": 0.003174,
-      "preco_atual": 0.003275,
+      "preco_atual": 0.003313,
       "preco_max": 0.003361,
       "stop": -12.0,
       "liq_entrada": 245667.68,
       "entrada_ts": 1792872320.0815053,
-      "falhas": 0
-    },
-    "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE": {
-      "simbolo": "HOOKED",
-      "url": "https://dexscreener.com/solana/c7r9jxwivymbyr2jj5yslieitugjpjqxweg7hpu8nwuk",
-      "qtd": 29046.96420993869,
-      "custo": 50.3821642334426,
-      "preco_entrada": 0.001708,
-      "preco_atual": 0.00168,
-      "preco_max": 0.001709,
-      "stop": -12.0,
-      "liq_entrada": 114050.28,
-      "entrada_ts": 1792877720.34547,
       "falhas": 0
     }
   },
@@ -77,6 +64,18 @@
       "horas": 2.33,
       "motivo": "trailing stop",
       "url": "https://dexscreener.com/solana/8ewuf2o8acro7fqwepz3tkhkbbjndzu4ldk9scrpw83d"
+    },
+    {
+      "data_saida": "2026-10-24T22:30:35",
+      "simbolo": "HOOKED",
+      "token": "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE",
+      "custo_usd": 50.38,
+      "recebido_usd": 41.53,
+      "pnl_usd": -8.85,
+      "pnl_pct": -17.57,
+      "horas": 0.92,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/c7r9jxwivymbyr2jj5yslieitugjpjqxweg7hpu8nwuk"
     }
   ],
   "ultimo_trade": {
@@ -97,8 +96,8 @@
   },
   "dia": "2026-10-24",
   "valor_inicio_dia": 999.3947608392385,
-  "pnl_dia": 7.010533260624449,
-  "perdas_seguidas": 0,
+  "pnl_dia": -1.8427880943214774,
+  "perdas_seguidas": 1,
   "pausa_ate": 0,
   "inicio": "2026-10-23T21:40:26"
 }
