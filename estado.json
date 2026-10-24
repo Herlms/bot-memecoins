@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 1005.6440405319836,
-  "posicoes": {},
+  "caixa": 955.3618385053844,
+  "posicoes": {
+    "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump": {
+      "simbolo": "HELL",
+      "url": "https://dexscreener.com/solana/ewsyhiuznynqh5f65ypfsoqblq2kyetuvhm5un7wsfdg",
+      "qtd": 12842.483940672824,
+      "custo": 50.28220202659918,
+      "preco_entrada": 0.003856,
+      "preco_atual": 0.003856,
+      "preco_max": 0.003856,
+      "stop": -12.0,
+      "liq_entrada": 166369.05,
+      "entrada_ts": 1792834520.4885397,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -30,11 +44,13 @@
   ],
   "ultimo_trade": {
     "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump": 1792798827.212343,
-    "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": 1792822827.0319161
+    "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": 1792822827.0319161,
+    "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump": 1792834520.4885404
   },
   "ultimo_simbolo": {
     "dope": 1792798827.2123432,
-    "dacitycoin": 1792822827.0319166
+    "dacitycoin": 1792822827.0319166,
+    "hell": 1792834520.488541
   },
   "dia": "2026-10-24",
   "valor_inicio_dia": 999.3947608392385,
