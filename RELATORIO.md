@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-24 09:35 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-24 09:40 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $1004.88** (+0.49% vs $1000)
+**Valor da carteira: $999.48** (-0.05% vs $1000)
 
 Caixa: $955.36 · Posições abertas: 1
 
@@ -21,4 +21,4 @@ Saídas: stop protegido: 1, trailing stop: 1
 
 ## Posições abertas
 
-- HELL +0.0% (custo $50.28, stop -12%)
+- HELL -10.9% (custo $50.28, stop -12%)
