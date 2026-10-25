@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 946.2961749568987,
-  "posicoes": {
-    "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump": {
-      "simbolo": "DOPE",
-      "url": "https://dexscreener.com/solana/6iep3egqksbzwgzmbcyajtivtvykcgl9bnpbewlr8agq",
-      "qtd": 11650.163637164896,
-      "custo": 49.890280474636626,
-      "preco_entrada": 0.004218,
-      "preco_atual": 0.00374,
-      "preco_max": 0.004417,
-      "stop": -12.0,
-      "liq_entrada": 271349.4,
-      "entrada_ts": 1792885826.4318326,
-      "falhas": 0
-    }
-  },
+  "caixa": 988.704191087568,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -88,6 +74,18 @@
       "horas": 8.08,
       "motivo": "estagnado",
       "url": "https://dexscreener.com/solana/fe7bpdycs74gqicuf14hwgumtopkv1d9mdyvx5btohfr"
+    },
+    {
+      "data_saida": "2026-10-25T04:20:25",
+      "simbolo": "DOPE",
+      "token": "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump",
+      "custo_usd": 49.89,
+      "recebido_usd": 42.41,
+      "pnl_usd": -7.48,
+      "pnl_pct": -15.0,
+      "horas": 4.5,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/6iep3egqksbzwgzmbcyajtivtvykcgl9bnpbewlr8agq"
     }
   ],
   "ultimo_trade": {
@@ -108,8 +106,8 @@
   },
   "dia": "2026-10-25",
   "valor_inicio_dia": 995.4499322455233,
-  "pnl_dia": -1.970756474143137,
-  "perdas_seguidas": 2,
-  "pausa_ate": 0,
+  "pnl_dia": -9.45302081811036,
+  "perdas_seguidas": 0,
+  "pausa_ate": 1792923625.1339579,
   "inicio": "2026-10-23T21:40:26"
 }

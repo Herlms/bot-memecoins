@@ -1,21 +1,24 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-25 04:15 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-25 04:20 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $989.87** (-1.01% vs $1000)
+**Valor da carteira: $988.70** (-1.13% vs $1000)
 
-Caixa: $946.30 · Posições abertas: 1
+Caixa: $988.70 · Posições abertas: 0
 
-Trades fechados: 6 · Ganhadores: 3 (50%)
+⚠️ Sem novas compras: pausa após perdas seguidas (6.0h restantes).
 
-P&L realizado: $-3.82 · Média por trade: -1.2%
+Trades fechados: 7 · Ganhadores: 3 (43%)
 
-Ganho médio: +10.0% · Perda média: -12.5% · Profit factor: 0.80 (acima de 1 = ganha dinheiro)
+P&L realizado: $-11.30 · Média por trade: -3.2%
 
-Saídas: stop protegido: 1, trailing stop: 2, stop loss: 2, estagnado: 1
+Ganho médio: +10.0% · Perda média: -13.1% · Profit factor: 0.57 (acima de 1 = ganha dinheiro)
+
+Saídas: stop protegido: 1, trailing stop: 2, stop loss: 3, estagnado: 1
 
 ## Últimos 10 trades
 
+- 2026-10-25T04:20:25 · DOPE · -15.0% · stop loss
 - 2026-10-25T04:10:25 · CLAUDIA · -3.9% · estagnado
 - 2026-10-24T22:30:35 · HOOKED · -17.6% · stop loss
 - 2026-10-24T18:35:18 · swordcat · +18.7% · trailing stop
@@ -23,6 +26,3 @@ Saídas: stop protegido: 1, trailing stop: 2, stop loss: 2, estagnado: 1
 - 2026-10-24T07:20:24 · DacityCoin · +10.5% · trailing stop
 - 2026-10-24T05:40:27 · DOPE · +0.8% · stop protegido
 
-## Posições abertas
-
-- DOPE -11.3% (custo $49.89, stop -12%)
