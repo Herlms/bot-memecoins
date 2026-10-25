@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-25 18:15 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-25 18:20 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $984.95** (-1.51% vs $1000)
+**Valor da carteira: $985.15** (-1.48% vs $1000)
 
 Caixa: $939.27 · Posições abertas: 1
 
@@ -26,4 +26,4 @@ Saídas: stop protegido: 1, trailing stop: 2, stop loss: 3, estagnado: 1
 
 ## Posições abertas
 
-- Kimchi -6.2% (custo $49.44, stop -12%)
+- Kimchi -5.8% (custo $49.44, stop -12%)
