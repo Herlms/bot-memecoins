@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-25 14:35 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-25 14:40 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $988.70** (-1.13% vs $1000)
+**Valor da carteira: $987.96** (-1.20% vs $1000)
 
-Caixa: $988.70 · Posições abertas: 0
+Caixa: $939.27 · Posições abertas: 1
 
 Trades fechados: 7 · Ganhadores: 3 (43%)
 
@@ -24,3 +24,6 @@ Saídas: stop protegido: 1, trailing stop: 2, stop loss: 3, estagnado: 1
 - 2026-10-24T07:20:24 · DacityCoin · +10.5% · trailing stop
 - 2026-10-24T05:40:27 · DOPE · +0.8% · stop protegido
 
+## Posições abertas
+
+- Kimchi +0.0% (custo $49.44, stop -12%)
