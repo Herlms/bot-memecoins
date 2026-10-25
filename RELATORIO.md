@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-25 22:25 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-25 22:30 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $970.55** (-2.94% vs $1000)
+**Valor da carteira: $968.34** (-3.17% vs $1000)
 
-Caixa: $883.49 · Posições abertas: 2
+Caixa: $923.85 · Posições abertas: 1
 
-Trades fechados: 8 · Ganhadores: 3 (38%)
+Trades fechados: 9 · Ganhadores: 3 (33%)
 
-P&L realizado: $-18.56 · Média por trade: -4.6%
+P&L realizado: $-27.08 · Média por trade: -6.0%
 
-Ganho médio: +10.0% · Perda média: -13.4% · Profit factor: 0.45 (acima de 1 = ganha dinheiro)
+Ganho médio: +10.0% · Perda média: -14.1% · Profit factor: 0.36 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 1, trailing stop: 2, stop loss: 4, estagnado: 1
+Saídas: stop protegido: 1, trailing stop: 2, stop loss: 5, estagnado: 1
 
 ## Últimos 10 trades
 
+- 2026-10-25T22:30:36 · PANGEA · -17.4% · stop loss
 - 2026-10-25T19:00:52 · Kimchi · -14.7% · stop loss
 - 2026-10-25T04:20:25 · DOPE · -15.0% · stop loss
 - 2026-10-25T04:10:25 · CLAUDIA · -3.9% · estagnado
@@ -27,5 +28,4 @@ Saídas: stop protegido: 1, trailing stop: 2, stop loss: 4, estagnado: 1
 
 ## Posições abertas
 
-- CLAUDIA -7.9% (custo $49.07, stop -12%)
-- PANGEA -11.6% (custo $48.89, stop -12%)
+- CLAUDIA -8.0% (custo $49.07, stop -12%)

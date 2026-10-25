@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 883.4861652010778,
+  "caixa": 923.8542962686513,
   "posicoes": {
     "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM": {
       "simbolo": "CLAUDIA",
@@ -8,24 +8,11 @@
       "qtd": 11809.258152046183,
       "custo": 49.0724474241897,
       "preco_entrada": 0.004093,
-      "preco_atual": 0.003768,
+      "preco_atual": 0.003767,
       "preco_max": 0.004114,
       "stop": -12.0,
       "liq_entrada": 281079.97,
       "entrada_ts": 1792961126.0905986,
-      "falhas": 0
-    },
-    "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea": {
-      "simbolo": "PANGEA",
-      "url": "https://dexscreener.com/solana/6yknbt32e2m9sf9jpbgwetd5qqgpvedndgnn87a9addr",
-      "qtd": 17547.678602484135,
-      "custo": 48.8903358585263,
-      "preco_entrada": 0.002744,
-      "preco_atual": 0.002426,
-      "preco_max": 0.002744,
-      "stop": -12.0,
-      "liq_entrada": 173789.03,
-      "entrada_ts": 1792965320.5230215,
       "falhas": 0
     }
   },
@@ -125,6 +112,18 @@
       "horas": 4.34,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/6dnxwecbtdnnstpb5tdnxzsfge3hmsngeuzhdue4b1ph"
+    },
+    {
+      "data_saida": "2026-10-25T22:30:36",
+      "simbolo": "PANGEA",
+      "token": "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea",
+      "custo_usd": 48.89,
+      "recebido_usd": 40.37,
+      "pnl_usd": -8.52,
+      "pnl_pct": -17.43,
+      "horas": 0.59,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/6yknbt32e2m9sf9jpbgwetd5qqgpvedndgnn87a9addr"
     }
   ],
   "ultimo_trade": {
@@ -149,8 +148,8 @@
   },
   "dia": "2026-10-25",
   "valor_inicio_dia": 995.4499322455233,
-  "pnl_dia": -16.70826342188446,
-  "perdas_seguidas": 1,
+  "pnl_dia": -25.230468212837252,
+  "perdas_seguidas": 2,
   "pausa_ate": 1792923625.1339579,
   "inicio": "2026-10-23T21:40:26"
 }

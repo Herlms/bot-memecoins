@@ -610,3 +610,5 @@
 [2026-10-25 22:15:25] Procura (SOL ok (1h -0.1%, 24h +0.0%)): 84 tokens, 0 passaram. Rejeições: liquidez baixa: 62, idade fora: 9, FDV fora: 6, liquidez fina p/ o FDV: 2 | Carteira $971.99
 [2026-10-25 22:20:25] Procura (SOL ok (1h +0.1%, 24h +0.3%)): 84 tokens, 0 passaram. Rejeições: liquidez baixa: 61, idade fora: 9, FDV fora: 6, liquidez fina p/ o FDV: 2 | Carteira $970.76
 [2026-10-25 22:25:19] Procura (SOL ok (1h +0.2%, 24h +0.2%)): 84 tokens, 0 passaram. Rejeições: liquidez baixa: 61, idade fora: 10, FDV fora: 6, sem tendência: 2 | Carteira $970.55
+[2026-10-25 22:30:36] VENDA PANGEA | stop loss | P&L $-8.52 (-17.4%)
+[2026-10-25 22:30:37] Procura (SOL ok (1h +0.1%, 24h +0.1%)): 83 tokens, 0 passaram. Rejeições: liquidez baixa: 60, idade fora: 10, FDV fora: 6, sem tendência: 2 | Carteira $968.34
