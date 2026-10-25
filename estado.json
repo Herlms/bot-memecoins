@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 939.2689815331896,
-  "posicoes": {
-    "CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump": {
-      "simbolo": "Kimchi",
-      "url": "https://dexscreener.com/solana/6dnxwecbtdnnstpb5tdnxzsfge3hmsngeuzhdue4b1ph",
-      "qtd": 7008.171078563153,
-      "custo": 49.435209554378396,
-      "preco_entrada": 0.006948,
-      "preco_atual": 0.006175,
-      "preco_max": 0.007038,
-      "stop": -12.0,
-      "liq_entrada": 288863.67,
-      "entrada_ts": 1792939227.8025117,
-      "falhas": 0
-    }
-  },
+  "caixa": 981.4489484837939,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -100,6 +86,18 @@
       "horas": 4.5,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/6iep3egqksbzwgzmbcyajtivtvykcgl9bnpbewlr8agq"
+    },
+    {
+      "data_saida": "2026-10-25T19:00:52",
+      "simbolo": "Kimchi",
+      "token": "CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump",
+      "custo_usd": 49.44,
+      "recebido_usd": 42.18,
+      "pnl_usd": -7.26,
+      "pnl_pct": -14.68,
+      "horas": 4.34,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/6dnxwecbtdnnstpb5tdnxzsfge3hmsngeuzhdue4b1ph"
     }
   ],
   "ultimo_trade": {
@@ -122,8 +120,8 @@
   },
   "dia": "2026-10-25",
   "valor_inicio_dia": 995.4499322455233,
-  "pnl_dia": -9.45302081811036,
-  "perdas_seguidas": 0,
+  "pnl_dia": -16.70826342188446,
+  "perdas_seguidas": 1,
   "pausa_ate": 1792923625.1339579,
   "inicio": "2026-10-23T21:40:26"
 }
