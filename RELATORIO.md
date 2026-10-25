@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-25 00:40 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-25 00:45 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $994.85** (-0.52% vs $1000)
+**Valor da carteira: $995.23** (-0.48% vs $1000)
 
 Caixa: $897.92 · Posições abertas: 2
 
@@ -24,5 +24,5 @@ Saídas: stop protegido: 1, trailing stop: 2, stop loss: 2
 
 ## Posições abertas
 
-- CLAUDIA +4.4% (custo $50.35, stop -12%)
-- DOPE -8.1% (custo $49.89, stop -12%)
+- CLAUDIA +4.7% (custo $50.35, stop -12%)
+- DOPE -7.7% (custo $49.89, stop -12%)
