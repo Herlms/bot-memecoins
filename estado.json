@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 919.3392681099103,
+  "caixa": 871.0080840599463,
   "posicoes": {
     "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": {
       "simbolo": "Dacity",
@@ -8,11 +8,24 @@
       "qtd": 4723.717571365538,
       "custo": 48.38627726894265,
       "preco_entrada": 0.01009,
-      "preco_atual": 0.009953,
+      "preco_atual": 0.01001,
       "preco_max": 0.01018,
       "stop": -12.0,
       "liq_entrada": 426089.3,
       "entrada_ts": 1793013326.5625935,
+      "falhas": 0
+    },
+    "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump": {
+      "simbolo": "REMUS",
+      "url": "https://dexscreener.com/solana/6jdispswbwcsn8xba4lnbzmzrikxksbxcto8j3elr4cg",
+      "qtd": 40161.747719901265,
+      "custo": 48.331184049963966,
+      "preco_entrada": 0.001185,
+      "preco_atual": 0.001185,
+      "preco_max": 0.001185,
+      "stop": -12.0,
+      "liq_entrada": 104836.96,
+      "entrada_ts": 1793017521.4070394,
       "falhas": 0
     }
   },
@@ -147,7 +160,8 @@
     "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE": 1792877720.345471,
     "CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump": 1792939227.802513,
     "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea": 1792965320.5230227,
-    "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": 1793013326.5625947
+    "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": 1793013326.5625947,
+    "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump": 1793017521.4070408
   },
   "ultimo_simbolo": {
     "dope": 1792885826.4318342,
@@ -158,7 +172,8 @@
     "hooked": 1792877720.3454714,
     "kimchi": 1792939227.8025131,
     "pangea": 1792965320.5230234,
-    "dacity": 1793013326.5625954
+    "dacity": 1793013326.5625954,
+    "remus": 1793017521.4070413
   },
   "dia": "2026-10-26",
   "valor_inicio_dia": 969.2136568306607,
