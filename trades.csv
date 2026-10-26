@@ -10,3 +10,4 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-10-25T22:30:36,PANGEA,JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea,48.89,40.37,-8.52,-17.43,0.59,stop loss,https://dexscreener.com/solana/6yknbt32e2m9sf9jpbgwetd5qqgpvedndgnn87a9addr
 2026-10-26T04:50:23,CLAUDIA,2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM,49.07,43.87,-5.2,-10.6,8.08,estagnado,https://dexscreener.com/solana/fe7bpdycs74gqicuf14hwgumtopkv1d9mdyvx5btohfr
 2026-10-26T13:32:34,REMUS,CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump,48.33,39.78,-8.55,-17.69,1.12,stop loss,https://dexscreener.com/solana/6jdispswbwcsn8xba4lnbzmzrikxksbxcto8j3elr4cg
+2026-10-26T15:15:26,LAUNCH,AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C,47.81,54.88,7.07,14.79,1.5,trailing stop,https://dexscreener.com/solana/gezarkyjgqsjid7m9zg3jkxxfmnhuh8ddzmqupbl7k59
