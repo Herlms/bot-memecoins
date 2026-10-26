@@ -1,21 +1,24 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-26 04:45 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-26 04:50 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $969.25** (-3.08% vs $1000)
+**Valor da carteira: $967.73** (-3.23% vs $1000)
 
-Caixa: $923.85 · Posições abertas: 1
+Caixa: $967.73 · Posições abertas: 0
 
-Trades fechados: 9 · Ganhadores: 3 (33%)
+⚠️ Sem novas compras: pausa após perdas seguidas (6.0h restantes).
 
-P&L realizado: $-27.08 · Média por trade: -6.0%
+Trades fechados: 10 · Ganhadores: 3 (30%)
 
-Ganho médio: +10.0% · Perda média: -14.1% · Profit factor: 0.36 (acima de 1 = ganha dinheiro)
+P&L realizado: $-32.28 · Média por trade: -6.5%
 
-Saídas: stop protegido: 1, trailing stop: 2, stop loss: 5, estagnado: 1
+Ganho médio: +10.0% · Perda média: -13.6% · Profit factor: 0.32 (acima de 1 = ganha dinheiro)
+
+Saídas: stop protegido: 1, trailing stop: 2, stop loss: 5, estagnado: 2
 
 ## Últimos 10 trades
 
+- 2026-10-26T04:50:23 · CLAUDIA · -10.6% · estagnado
 - 2026-10-25T22:30:36 · PANGEA · -17.4% · stop loss
 - 2026-10-25T19:00:52 · Kimchi · -14.7% · stop loss
 - 2026-10-25T04:20:25 · DOPE · -15.0% · stop loss
@@ -26,6 +29,3 @@ Saídas: stop protegido: 1, trailing stop: 2, stop loss: 5, estagnado: 1
 - 2026-10-24T07:20:24 · DacityCoin · +10.5% · trailing stop
 - 2026-10-24T05:40:27 · DOPE · +0.8% · stop protegido
 
-## Posições abertas
-
-- CLAUDIA -6.1% (custo $49.07, stop -12%)
