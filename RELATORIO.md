@@ -1,6 +1,6 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-27 00:25 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-27 00:30 (UTC) · Início: 2026-10-23T21:40:26
 
 **Valor da carteira: $960.02** (-4.00% vs $1000)
 
