@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 950.132203683516,
-  "posicoes": {},
+  "caixa": 902.6255934993402,
+  "posicoes": {
+    "AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C": {
+      "simbolo": "LAUNCH",
+      "url": "https://dexscreener.com/solana/gezarkyjgqsjid7m9zg3jkxxfmnhuh8ddzmqupbl7k59",
+      "qtd": 17797.100398286795,
+      "custo": 47.5066101841758,
+      "preco_entrada": 0.002629,
+      "preco_atual": 0.002629,
+      "preco_max": 0.002629,
+      "stop": -12.0,
+      "liq_entrada": 176208.44,
+      "entrada_ts": 1793109320.7530677,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -183,7 +197,7 @@
     "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea": 1792965320.5230227,
     "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": 1793013326.5625947,
     "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump": 1793017521.4070408,
-    "AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C": 1793022326.8142836,
+    "AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C": 1793109320.7530692,
     "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump": 1793059250.9377482
   },
   "ultimo_simbolo": {
@@ -197,7 +211,7 @@
     "pangea": 1792965320.5230234,
     "dacity": 1793013326.5625954,
     "remus": 1793017521.4070413,
-    "launch": 1793022326.8142843,
+    "launch": 1793109320.7530699,
     "███": 1793059250.9377487
   },
   "dia": "2026-10-27",
