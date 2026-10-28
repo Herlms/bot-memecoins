@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 926.9977223710201,
-  "posicoes": {},
+  "caixa": 880.6478362524691,
+  "posicoes": {
+    "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump": {
+      "simbolo": "███WIF",
+      "url": "https://dexscreener.com/solana/35qgkestyqozserbza7c7wdhr32svtgc6rzvds8kcemq",
+      "qtd": 26277.405628330922,
+      "custo": 46.349886118551005,
+      "preco_entrada": 0.001737,
+      "preco_atual": 0.001737,
+      "preco_max": 0.001737,
+      "stop": -12.0,
+      "liq_entrada": 118556.33,
+      "entrada_ts": 1793211629.0019302,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -221,7 +235,8 @@
     "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump": 1793185521.9240813,
     "AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C": 1793109320.7530692,
     "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump": 1793059250.9377482,
-    "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump": 1793155525.5577786
+    "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump": 1793155525.5577786,
+    "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump": 1793211629.0019312
   },
   "ultimo_simbolo": {
     "dope": 1792885826.4318342,
@@ -236,7 +251,8 @@
     "remus": 1793185521.9240823,
     "launch": 1793109320.7530699,
     "███": 1793059250.9377487,
-    "nothing": 1793155525.5577796
+    "nothing": 1793155525.5577796,
+    "███wif": 1793211629.0019317
   },
   "dia": "2026-10-28",
   "valor_inicio_dia": 943.0945611944203,

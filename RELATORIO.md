@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-28 18:15 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-28 18:20 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $927.00** (-7.30% vs $1000)
+**Valor da carteira: $926.29** (-7.37% vs $1000)
 
-Caixa: $927.00 · Posições abertas: 0
+Caixa: $880.65 · Posições abertas: 1
 
 Trades fechados: 17 · Ganhadores: 4 (24%)
 
@@ -27,3 +27,6 @@ Saídas: stop protegido: 1, trailing stop: 3, stop loss: 11, estagnado: 2
 - 2026-10-25T22:30:36 · PANGEA · -17.4% · stop loss
 - 2026-10-25T19:00:52 · Kimchi · -14.7% · stop loss
 
+## Posições abertas
+
+- ███WIF +0.0% (custo $46.35, stop -12%)
