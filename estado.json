@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 887.8041815415216,
-  "posicoes": {
-    "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump": {
-      "simbolo": "REMUS",
-      "url": "https://dexscreener.com/solana/6jdispswbwcsn8xba4lnbzmzrikxksbxcto8j3elr4cg",
-      "qtd": 24767.132351019198,
-      "custo": 46.726535870606405,
-      "preco_entrada": 0.001858,
-      "preco_atual": 0.0017,
-      "preco_max": 0.001858,
-      "stop": -12.0,
-      "liq_entrada": 139643.82,
-      "entrada_ts": 1793185521.9240804,
-      "falhas": 0
-    }
-  },
+  "caixa": 926.9977223710201,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -208,6 +194,18 @@
       "horas": 0.92,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/gfgxhqzmkf1v2mfs94ldmk8ckgf7rhzpjdzzttjjzkhq"
+    },
+    {
+      "data_saida": "2026-10-28T14:50:25",
+      "simbolo": "REMUS",
+      "token": "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump",
+      "custo_usd": 46.73,
+      "recebido_usd": 39.19,
+      "pnl_usd": -7.53,
+      "pnl_pct": -16.12,
+      "horas": 3.75,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/6jdispswbwcsn8xba4lnbzmzrikxksbxcto8j3elr4cg"
     }
   ],
   "ultimo_trade": {
@@ -242,8 +240,8 @@
   },
   "dia": "2026-10-28",
   "valor_inicio_dia": 943.0945611944203,
-  "pnl_dia": -8.563843782292182,
-  "perdas_seguidas": 1,
+  "pnl_dia": -16.09683882340012,
+  "perdas_seguidas": 2,
   "pausa_ate": 1793132128.4426568,
   "inicio": "2026-10-23T21:40:26"
 }
