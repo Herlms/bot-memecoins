@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-28 11:00 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-28 11:05 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $934.53** (-6.55% vs $1000)
+**Valor da carteira: $933.82** (-6.62% vs $1000)
 
-Caixa: $934.53 · Posições abertas: 0
+Caixa: $887.80 · Posições abertas: 1
 
 Trades fechados: 16 · Ganhadores: 4 (25%)
 
@@ -27,3 +27,6 @@ Saídas: stop protegido: 1, trailing stop: 3, stop loss: 10, estagnado: 2
 - 2026-10-25T19:00:52 · Kimchi · -14.7% · stop loss
 - 2026-10-25T04:20:25 · DOPE · -15.0% · stop loss
 
+## Posições abertas
+
+- REMUS +0.0% (custo $46.73, stop -12%)
