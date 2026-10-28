@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-28 13:45 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-28 13:50 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $930.35** (-6.96% vs $1000)
+**Valor da carteira: $929.12** (-7.09% vs $1000)
 
 Caixa: $887.80 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop protegido: 1, trailing stop: 3, stop loss: 10, estagnado: 2
 
 ## Posições abertas
 
-- REMUS -7.5% (custo $46.73, stop -12%)
+- REMUS -10.2% (custo $46.73, stop -12%)
