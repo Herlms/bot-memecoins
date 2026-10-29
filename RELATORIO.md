@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-29 10:15 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-29 10:20 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $918.70** (-8.13% vs $1000)
+**Valor da carteira: $919.48** (-8.05% vs $1000)
 
 Caixa: $826.77 · Posições abertas: 2
 
@@ -29,5 +29,5 @@ Saídas: stop protegido: 1, trailing stop: 3, stop loss: 12, estagnado: 2
 
 ## Posições abertas
 
-- JOB +3.8% (custo $45.93, stop -12%)
-- INVERSE -0.5% (custo $45.88, stop -12%)
+- JOB +5.3% (custo $45.93, stop -12%)
+- INVERSE -0.2% (custo $45.88, stop -12%)
