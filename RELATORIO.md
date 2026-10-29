@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-29 16:25 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-29 16:30 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $927.99** (-7.20% vs $1000)
+**Valor da carteira: $918.63** (-8.14% vs $1000)
 
-Caixa: $871.73 · Posições abertas: 1
+Caixa: $918.63 · Posições abertas: 0
 
-Trades fechados: 19 · Ganhadores: 4 (21%)
+Trades fechados: 20 · Ganhadores: 5 (25%)
 
-P&L realizado: $-82.34 · Média por trade: -9.0%
+P&L realizado: $-81.37 · Média por trade: -8.4%
 
-Ganho médio: +11.2% · Perda média: -14.4% · Profit factor: 0.21 (acima de 1 = ganha dinheiro)
+Ganho médio: +9.4% · Perda média: -14.4% · Profit factor: 0.22 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 2, trailing stop: 3, stop loss: 12, estagnado: 2
+Saídas: stop protegido: 2, trailing stop: 4, stop loss: 12, estagnado: 2
 
 ## Últimos 10 trades
 
+- 2026-10-29T16:30:41 · JOB · +2.1% · trailing stop
 - 2026-10-29T11:05:22 · INVERSE · -2.0% · stop protegido
 - 2026-10-28T18:25:20 · ███WIF · -18.2% · stop loss
 - 2026-10-28T14:50:25 · REMUS · -16.1% · stop loss
@@ -25,8 +26,4 @@ Saídas: stop protegido: 2, trailing stop: 3, stop loss: 12, estagnado: 2
 - 2026-10-26T16:00:51 · Dacity · -16.0% · stop loss
 - 2026-10-26T15:15:26 · LAUNCH · +14.8% · trailing stop
 - 2026-10-26T13:32:34 · REMUS · -17.7% · stop loss
-- 2026-10-26T04:50:23 · CLAUDIA · -10.6% · estagnado
 
-## Posições abertas
-
-- JOB +24.4% (custo $45.93, stop +4%)
