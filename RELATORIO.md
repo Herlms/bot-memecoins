@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-29 07:50 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-29 07:55 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $918.58** (-8.14% vs $1000)
+**Valor da carteira: $917.88** (-8.21% vs $1000)
 
-Caixa: $918.58 · Posições abertas: 0
+Caixa: $872.65 · Posições abertas: 1
 
 Trades fechados: 18 · Ganhadores: 4 (22%)
 
@@ -27,3 +27,6 @@ Saídas: stop protegido: 1, trailing stop: 3, stop loss: 12, estagnado: 2
 - 2026-10-26T04:50:23 · CLAUDIA · -10.6% · estagnado
 - 2026-10-25T22:30:36 · PANGEA · -17.4% · stop loss
 
+## Posições abertas
+
+- JOB +0.0% (custo $45.93, stop -12%)
