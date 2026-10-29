@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 826.7715597026273,
+  "caixa": 871.7342418681988,
   "posicoes": {
     "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": {
       "simbolo": "JOB",
@@ -8,24 +8,11 @@
       "qtd": 16253.191637133883,
       "custo": 45.929051307814014,
       "preco_entrada": 0.002783,
-      "preco_atual": 0.002789,
+      "preco_atual": 0.002853,
       "preco_max": 0.002943,
       "stop": -12.0,
       "liq_entrada": 143796.92,
       "entrada_ts": 1793260522.9541705,
-      "falhas": 0
-    },
-    "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw": {
-      "simbolo": "INVERSE",
-      "url": "https://dexscreener.com/solana/rwq7wrfazybtdzgbxykehathfhaedw6vyqghpt1xbau",
-      "qtd": 37307.797897885626,
-      "custo": 45.88041514583893,
-      "preco_entrada": 0.001211,
-      "preco_atual": 0.001283,
-      "preco_max": 0.001361,
-      "stop": 4.0,
-      "liq_entrada": 106451.55,
-      "entrada_ts": 1793263527.1515005,
       "falhas": 0
     }
   },
@@ -245,6 +232,18 @@
       "horas": 0.08,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/35qgkestyqozserbza7c7wdhr32svtgc6rzvds8kcemq"
+    },
+    {
+      "data_saida": "2026-10-29T11:05:22",
+      "simbolo": "INVERSE",
+      "token": "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw",
+      "custo_usd": 45.88,
+      "recebido_usd": 44.96,
+      "pnl_usd": -0.92,
+      "pnl_pct": -2.0,
+      "horas": 2.33,
+      "motivo": "stop protegido",
+      "url": "https://dexscreener.com/solana/rwq7wrfazybtdzgbxykehathfhaedw6vyqghpt1xbau"
     }
   ],
   "ultimo_trade": {
@@ -285,8 +284,8 @@
   },
   "dia": "2026-10-29",
   "valor_inicio_dia": 918.5810261562802,
-  "pnl_dia": 0.0,
-  "perdas_seguidas": 0,
+  "pnl_dia": -0.9177329802675303,
+  "perdas_seguidas": 1,
   "pausa_ate": 1793233520.7570927,
   "inicio": "2026-10-23T21:40:26"
 }
