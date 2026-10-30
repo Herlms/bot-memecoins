@@ -2081,3 +2081,5 @@
 [2026-10-30 21:25:23] Procura (SOL ok (1h +0.6%, 24h -2.3%)): 86 tokens, 0 passaram. Rejeições: liquidez baixa: 55, FDV fora: 12, idade fora: 8, liquidez fina p/ o FDV: 4 | Carteira $903.62
 [2026-10-30 21:30:42] Procura (SOL ok (1h +0.3%, 24h -2.3%)): 87 tokens, 0 passaram. Rejeições: liquidez baixa: 56, FDV fora: 12, idade fora: 8, liquidez fina p/ o FDV: 4 | Carteira $903.62
 [2026-10-30 21:35:23] Procura (SOL ok (1h +0.3%, 24h -2.2%)): 86 tokens, 0 passaram. Rejeições: liquidez baixa: 56, FDV fora: 12, idade fora: 6, volume baixo: 5 | Carteira $903.62
+[2026-10-30 21:40:28] Erro HTTP 502 em https://api.dexscreener.com/tokens/v1/solana/Gztz15EVRR9GyBVcVQy2aCpX5JhY5SsUtoW
+[2026-10-30 21:40:31] Procura (SOL ok (1h +0.6%, 24h -2.3%)): 86 tokens, 0 passaram. Rejeições: liquidez baixa: 56, FDV fora: 12, idade fora: 6, volume baixo: 5 | Carteira $903.62
