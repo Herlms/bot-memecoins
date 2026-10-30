@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-30 11:05 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-30 11:10 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $915.50** (-8.45% vs $1000)
+**Valor da carteira: $913.41** (-8.66% vs $1000)
 
-Caixa: $826.70 · Posições abertas: 2
+Caixa: $864.98 · Posições abertas: 1
 
-Trades fechados: 20 · Ganhadores: 5 (25%)
+Trades fechados: 21 · Ganhadores: 5 (24%)
 
-P&L realizado: $-81.37 · Média por trade: -8.4%
+P&L realizado: $-89.09 · Média por trade: -8.8%
 
-Ganho médio: +9.4% · Perda média: -14.4% · Profit factor: 0.22 (acima de 1 = ganha dinheiro)
+Ganho médio: +9.4% · Perda média: -14.5% · Profit factor: 0.21 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 2, trailing stop: 4, stop loss: 12, estagnado: 2
+Saídas: stop protegido: 2, trailing stop: 4, stop loss: 13, estagnado: 2
 
 ## Últimos 10 trades
 
+- 2026-10-30T11:10:28 · jeff · -16.8% · stop loss
 - 2026-10-29T16:30:41 · JOB · +2.1% · trailing stop
 - 2026-10-29T11:05:22 · INVERSE · -2.0% · stop protegido
 - 2026-10-28T18:25:20 · ███WIF · -18.2% · stop loss
@@ -25,9 +26,7 @@ Saídas: stop protegido: 2, trailing stop: 4, stop loss: 12, estagnado: 2
 - 2026-10-27T02:50:25 · ███ · -17.5% · stop loss
 - 2026-10-26T16:00:51 · Dacity · -16.0% · stop loss
 - 2026-10-26T15:15:26 · LAUNCH · +14.8% · trailing stop
-- 2026-10-26T13:32:34 · REMUS · -17.7% · stop loss
 
 ## Posições abertas
 
-- Dacity +6.0% (custo $45.93, stop +4%)
-- jeff -9.8% (custo $46.00, stop -12%)
+- Dacity +7.1% (custo $45.93, stop +4%)

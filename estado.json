@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 826.6968503992509,
+  "caixa": 864.97672216181,
   "posicoes": {
     "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": {
       "simbolo": "Dacity",
@@ -8,24 +8,11 @@
       "qtd": 5578.778236805309,
       "custo": 45.931457631550145,
       "preco_entrada": 0.00811,
-      "preco_atual": 0.008599,
+      "preco_atual": 0.008682,
       "preco_max": 0.009376,
       "stop": 4.0,
       "liq_entrada": 379916.87,
       "entrada_ts": 1793333738.033309,
-      "falhas": 0
-    },
-    "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": {
-      "simbolo": "jeff",
-      "url": "https://dexscreener.com/solana/jcxwfczgjgjc8nza5qb6jp3cgvqw4vgug4tqj87g5zny",
-      "qtd": 27205.686890441026,
-      "custo": 46.00084460020176,
-      "preco_entrada": 0.001665,
-      "preco_atual": 0.001501,
-      "preco_max": 0.001666,
-      "stop": -12.0,
-      "liq_entrada": 102158.16,
-      "entrada_ts": 1793354451.2206464,
       "falhas": 0
     }
   },
@@ -269,6 +256,18 @@
       "horas": 8.59,
       "motivo": "trailing stop",
       "url": "https://dexscreener.com/solana/hauvbmnthcfmg9srxmvz1gaxnpu955hkpdsasc2cx4c8"
+    },
+    {
+      "data_saida": "2026-10-30T11:10:28",
+      "simbolo": "jeff",
+      "token": "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k",
+      "custo_usd": 46.0,
+      "recebido_usd": 38.28,
+      "pnl_usd": -7.72,
+      "pnl_pct": -16.78,
+      "horas": 1.16,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/jcxwfczgjgjc8nza5qb6jp3cgvqw4vgug4tqj87g5zny"
     }
   ],
   "ultimo_trade": {
@@ -311,8 +310,8 @@
   },
   "dia": "2026-10-30",
   "valor_inicio_dia": 918.6291526310029,
-  "pnl_dia": 0.0,
-  "perdas_seguidas": 0,
+  "pnl_dia": -7.7209728376427265,
+  "perdas_seguidas": 1,
   "pausa_ate": 1793233520.7570927,
   "inicio": "2026-10-23T21:40:26"
 }
