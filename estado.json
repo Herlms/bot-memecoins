@@ -1,18 +1,18 @@
 {
   "versao": 2,
-  "caixa": 864.97672216181,
+  "caixa": 865.2415723539854,
   "posicoes": {
-    "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": {
-      "simbolo": "Dacity",
-      "url": "https://dexscreener.com/solana/g2uurbmvdzdfp4qyobjrskbxsi7d6v4bpp9thps36y4b",
-      "qtd": 5578.778236805309,
-      "custo": 45.931457631550145,
-      "preco_entrada": 0.00811,
-      "preco_atual": 0.008757,
-      "preco_max": 0.009376,
-      "stop": 4.0,
-      "liq_entrada": 379916.87,
-      "entrada_ts": 1793333738.033309,
+    "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump": {
+      "simbolo": "NIO",
+      "url": "https://dexscreener.com/solana/b4wmjc6pvjctu3qsvs3ett9mr4m5v5jbkrqctwantc71",
+      "qtd": 37842.90517142438,
+      "custo": 45.53903012389397,
+      "preco_entrada": 0.001185,
+      "preco_atual": 0.001185,
+      "preco_max": 0.001185,
+      "stop": -12.0,
+      "liq_entrada": 107177.17,
+      "entrada_ts": 1793360728.369621,
       "falhas": 0
     }
   },
@@ -268,6 +268,18 @@
       "horas": 1.16,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/jcxwfczgjgjc8nza5qb6jp3cgvqw4vgug4tqj87g5zny"
+    },
+    {
+      "data_saida": "2026-10-30T11:45:27",
+      "simbolo": "Dacity",
+      "token": "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump",
+      "custo_usd": 45.93,
+      "recebido_usd": 45.8,
+      "pnl_usd": -0.13,
+      "pnl_pct": -0.28,
+      "horas": 7.5,
+      "motivo": "stop protegido",
+      "url": "https://dexscreener.com/solana/g2uurbmvdzdfp4qyobjrskbxsi7d6v4bpp9thps36y4b"
     }
   ],
   "ultimo_trade": {
@@ -287,7 +299,8 @@
     "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump": 1793211629.0019312,
     "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": 1793260522.9541717,
     "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw": 1793263527.1515017,
-    "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793354451.2206473
+    "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793354451.2206473,
+    "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump": 1793360728.3696218
   },
   "ultimo_simbolo": {
     "dope": 1792885826.4318342,
@@ -306,12 +319,13 @@
     "███wif": 1793211629.0019317,
     "job": 1793260522.9541721,
     "inverse": 1793263527.1515021,
-    "jeff": 1793354451.2206488
+    "jeff": 1793354451.2206488,
+    "nio": 1793360728.3696225
   },
   "dia": "2026-10-30",
   "valor_inicio_dia": 918.6291526310029,
-  "pnl_dia": -7.7209728376427265,
-  "perdas_seguidas": 1,
+  "pnl_dia": -7.848550153123476,
+  "perdas_seguidas": 2,
   "pausa_ate": 1793233520.7570927,
   "inicio": "2026-10-23T21:40:26"
 }

@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-30 11:40 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-30 11:45 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $913.83** (-8.62% vs $1000)
+**Valor da carteira: $910.09** (-8.99% vs $1000)
 
-Caixa: $864.98 · Posições abertas: 1
+Caixa: $865.24 · Posições abertas: 1
 
-Trades fechados: 21 · Ganhadores: 5 (24%)
+Trades fechados: 22 · Ganhadores: 5 (23%)
 
-P&L realizado: $-89.09 · Média por trade: -8.8%
+P&L realizado: $-89.22 · Média por trade: -8.4%
 
-Ganho médio: +9.4% · Perda média: -14.5% · Profit factor: 0.21 (acima de 1 = ganha dinheiro)
+Ganho médio: +9.4% · Perda média: -13.7% · Profit factor: 0.21 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 2, trailing stop: 4, stop loss: 13, estagnado: 2
+Saídas: stop protegido: 3, trailing stop: 4, stop loss: 13, estagnado: 2
 
 ## Últimos 10 trades
 
+- 2026-10-30T11:45:27 · Dacity · -0.3% · stop protegido
 - 2026-10-30T11:10:28 · jeff · -16.8% · stop loss
 - 2026-10-29T16:30:41 · JOB · +2.1% · trailing stop
 - 2026-10-29T11:05:22 · INVERSE · -2.0% · stop protegido
@@ -25,8 +26,7 @@ Saídas: stop protegido: 2, trailing stop: 4, stop loss: 13, estagnado: 2
 - 2026-10-27T14:15:28 · LAUNCH · -14.8% · stop loss
 - 2026-10-27T02:50:25 · ███ · -17.5% · stop loss
 - 2026-10-26T16:00:51 · Dacity · -16.0% · stop loss
-- 2026-10-26T15:15:26 · LAUNCH · +14.8% · trailing stop
 
 ## Posições abertas
 
-- Dacity +8.0% (custo $45.93, stop +4%)
+- NIO +0.0% (custo $45.54, stop -12%)

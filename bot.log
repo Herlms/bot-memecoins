@@ -1959,3 +1959,6 @@
 [2026-10-30 11:30:42] Procura (SOL ok (1h +0.4%, 24h -3.4%)): 79 tokens, 0 passaram. Rejeições: liquidez baixa: 47, FDV fora: 12, idade fora: 10, liquidez fina p/ o FDV: 4 | Carteira $913.75
 [2026-10-30 11:35:20] Procura (SOL ok (1h -0.1%, 24h -3.5%)): 80 tokens, 0 passaram. Rejeições: liquidez baixa: 49, FDV fora: 12, idade fora: 9, liquidez fina p/ o FDV: 4 | Carteira $914.30
 [2026-10-30 11:40:27] Procura (SOL ok (1h -0.3%, 24h -3.6%)): 80 tokens, 0 passaram. Rejeições: liquidez baixa: 48, FDV fora: 13, idade fora: 9, liquidez fina p/ o FDV: 4 | Carteira $913.83
+[2026-10-30 11:45:27] VENDA Dacity | stop protegido | P&L $-0.13 (-0.3%)
+[2026-10-30 11:45:28] COMPRA NIO | $45.54 a $0.001185
+[2026-10-30 11:45:28] Procura (SOL ok (1h -0.4%, 24h -3.9%)): 80 tokens, 1 passaram. Rejeições: liquidez baixa: 47, FDV fora: 13, idade fora: 9, liquidez fina p/ o FDV: 4 | Carteira $910.09
