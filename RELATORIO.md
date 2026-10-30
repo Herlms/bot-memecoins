@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-30 04:10 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-30 04:15 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $918.63** (-8.14% vs $1000)
+**Valor da carteira: $917.94** (-8.21% vs $1000)
 
-Caixa: $918.63 · Posições abertas: 0
+Caixa: $872.70 · Posições abertas: 1
 
 Trades fechados: 20 · Ganhadores: 5 (25%)
 
@@ -27,3 +27,6 @@ Saídas: stop protegido: 2, trailing stop: 4, stop loss: 12, estagnado: 2
 - 2026-10-26T15:15:26 · LAUNCH · +14.8% · trailing stop
 - 2026-10-26T13:32:34 · REMUS · -17.7% · stop loss
 
+## Posições abertas
+
+- Dacity +0.0% (custo $45.93, stop -12%)
