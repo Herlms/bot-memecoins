@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 872.6976949994527,
+  "caixa": 826.6968503992509,
   "posicoes": {
     "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": {
       "simbolo": "Dacity",
@@ -8,11 +8,24 @@
       "qtd": 5578.778236805309,
       "custo": 45.931457631550145,
       "preco_entrada": 0.00811,
-      "preco_atual": 0.008478,
+      "preco_atual": 0.008482,
       "preco_max": 0.008562,
       "stop": -12.0,
       "liq_entrada": 379916.87,
       "entrada_ts": 1793333738.033309,
+      "falhas": 0
+    },
+    "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": {
+      "simbolo": "jeff",
+      "url": "https://dexscreener.com/solana/jcxwfczgjgjc8nza5qb6jp3cgvqw4vgug4tqj87g5zny",
+      "qtd": 27205.686890441026,
+      "custo": 46.00084460020176,
+      "preco_entrada": 0.001665,
+      "preco_atual": 0.001665,
+      "preco_max": 0.001665,
+      "stop": -12.0,
+      "liq_entrada": 102158.16,
+      "entrada_ts": 1793354451.2206464,
       "falhas": 0
     }
   },
@@ -274,7 +287,8 @@
     "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump": 1793155525.5577786,
     "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump": 1793211629.0019312,
     "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": 1793260522.9541717,
-    "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw": 1793263527.1515017
+    "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw": 1793263527.1515017,
+    "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793354451.2206473
   },
   "ultimo_simbolo": {
     "dope": 1792885826.4318342,
@@ -292,7 +306,8 @@
     "nothing": 1793155525.5577796,
     "███wif": 1793211629.0019317,
     "job": 1793260522.9541721,
-    "inverse": 1793263527.1515021
+    "inverse": 1793263527.1515021,
+    "jeff": 1793354451.2206488
   },
   "dia": "2026-10-30",
   "valor_inicio_dia": 918.6291526310029,
