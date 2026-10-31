@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 895.6742846031547,
-  "posicoes": {},
+  "caixa": 850.890570372997,
+  "posicoes": {
+    "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": {
+      "simbolo": "jeff",
+      "url": "https://dexscreener.com/solana/jcxwfczgjgjc8nza5qb6jp3cgvqw4vgug4tqj87g5zny",
+      "qtd": 17819.514318343194,
+      "custo": 44.78371423015773,
+      "preco_entrada": 0.002475,
+      "preco_atual": 0.002475,
+      "preco_max": 0.002475,
+      "stop": -12.0,
+      "liq_entrada": 127716.94,
+      "entrada_ts": 1793456723.936528,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -321,7 +335,7 @@
     "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump": 1793211629.0019312,
     "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": 1793260522.9541717,
     "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw": 1793263527.1515017,
-    "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793354451.2206473,
+    "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793456723.936529,
     "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump": 1793360728.3696218,
     "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump": 1793409922.1669762
   },
@@ -342,7 +356,7 @@
     "███wif": 1793211629.0019317,
     "job": 1793260522.9541721,
     "inverse": 1793263527.1515021,
-    "jeff": 1793354451.2206488,
+    "jeff": 1793456723.9365294,
     "nio": 1793360728.3696225,
     "glitch": 1793409922.1669765
   },
