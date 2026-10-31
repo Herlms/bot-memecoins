@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 853.7859709521906,
-  "posicoes": {
-    "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump": {
-      "simbolo": "GLITCH",
-      "url": "https://dexscreener.com/solana/em6rvzgxhd35pz7cvujctpenv4jaztscavhaxbxcbcg7",
-      "qtd": 12580.727203521828,
-      "custo": 45.117212564270794,
-      "preco_entrada": 0.003532,
-      "preco_atual": 0.003363,
-      "preco_max": 0.003805,
-      "stop": -12.0,
-      "liq_entrada": 165047.59,
-      "entrada_ts": 1793409922.166975,
-      "falhas": 0
-    }
-  },
+  "caixa": 895.6742846031547,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -304,6 +290,18 @@
       "horas": 8.09,
       "motivo": "estagnado",
       "url": "https://dexscreener.com/solana/fe7bpdycs74gqicuf14hwgumtopkv1d9mdyvx5btohfr"
+    },
+    {
+      "data_saida": "2026-10-31T09:30:37",
+      "simbolo": "GLITCH",
+      "token": "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump",
+      "custo_usd": 45.12,
+      "recebido_usd": 41.89,
+      "pnl_usd": -3.23,
+      "pnl_pct": -7.16,
+      "horas": 8.09,
+      "motivo": "estagnado",
+      "url": "https://dexscreener.com/solana/em6rvzgxhd35pz7cvujctpenv4jaztscavhaxbxcbcg7"
     }
   ],
   "ultimo_trade": {
@@ -350,8 +348,8 @@
   },
   "dia": "2026-10-31",
   "valor_inicio_dia": 903.6218982558438,
-  "pnl_dia": -4.71871473938247,
-  "perdas_seguidas": 1,
+  "pnl_dia": -7.947613652689242,
+  "perdas_seguidas": 2,
   "pausa_ate": 1793387727.7177868,
   "inicio": "2026-10-23T21:40:26"
 }
