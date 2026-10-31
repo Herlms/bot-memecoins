@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-31 19:00 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-31 19:05 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $891.27** (-10.87% vs $1000)
+**Valor da carteira: $891.03** (-10.90% vs $1000)
 
 Caixa: $806.26 · Posições abertas: 2
 
@@ -29,5 +29,5 @@ Saídas: stop protegido: 3, trailing stop: 4, stop loss: 14, estagnado: 4
 
 ## Posições abertas
 
-- jeff -5.4% (custo $44.78, stop -12%)
-- Dacity -1.6% (custo $44.63, stop -12%)
+- jeff -5.9% (custo $44.78, stop -12%)
+- Dacity -1.5% (custo $44.63, stop -12%)
