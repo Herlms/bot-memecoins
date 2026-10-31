@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 858.4408033430516,
+  "caixa": 813.3235907787808,
   "posicoes": {
     "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM": {
       "simbolo": "CLAUDIA",
@@ -8,11 +8,24 @@
       "qtd": 18666.431948284127,
       "custo": 45.18109491279219,
       "preco_entrada": 0.002384,
-      "preco_atual": 0.002348,
+      "preco_atual": 0.002352,
       "preco_max": 0.002384,
       "stop": -12.0,
       "liq_entrada": 213712.52,
       "entrada_ts": 1793406320.6667078,
+      "falhas": 0
+    },
+    "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump": {
+      "simbolo": "GLITCH",
+      "url": "https://dexscreener.com/solana/em6rvzgxhd35pz7cvujctpenv4jaztscavhaxbxcbcg7",
+      "qtd": 12580.727203521828,
+      "custo": 45.117212564270794,
+      "preco_entrada": 0.003532,
+      "preco_atual": 0.003532,
+      "preco_max": 0.003532,
+      "stop": -12.0,
+      "liq_entrada": 165047.59,
+      "entrada_ts": 1793409922.166975,
       "falhas": 0
     }
   },
@@ -312,7 +325,8 @@
     "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": 1793260522.9541717,
     "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw": 1793263527.1515017,
     "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793354451.2206473,
-    "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump": 1793360728.3696218
+    "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump": 1793360728.3696218,
+    "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump": 1793409922.1669762
   },
   "ultimo_simbolo": {
     "dope": 1792885826.4318342,
@@ -332,7 +346,8 @@
     "job": 1793260522.9541721,
     "inverse": 1793263527.1515021,
     "jeff": 1793354451.2206488,
-    "nio": 1793360728.3696225
+    "nio": 1793360728.3696225,
+    "glitch": 1793409922.1669765
   },
   "dia": "2026-10-31",
   "valor_inicio_dia": 903.6218982558438,
