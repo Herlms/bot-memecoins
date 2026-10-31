@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-10-31 08:25 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-10-31 08:30 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $896.77** (-10.32% vs $1000)
+**Valor da carteira: $895.65** (-10.43% vs $1000)
 
-Caixa: $813.32 · Posições abertas: 2
+Caixa: $853.79 · Posições abertas: 1
 
-Trades fechados: 23 · Ganhadores: 5 (22%)
+Trades fechados: 24 · Ganhadores: 5 (21%)
 
-P&L realizado: $-96.38 · Média por trade: -8.8%
+P&L realizado: $-101.10 · Média por trade: -8.8%
 
-Ganho médio: +9.4% · Perda média: -13.8% · Profit factor: 0.19 (acima de 1 = ganha dinheiro)
+Ganho médio: +9.4% · Perda média: -13.6% · Profit factor: 0.19 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 3, trailing stop: 4, stop loss: 14, estagnado: 2
+Saídas: stop protegido: 3, trailing stop: 4, stop loss: 14, estagnado: 3
 
 ## Últimos 10 trades
 
+- 2026-10-31T08:30:38 · CLAUDIA · -10.4% · estagnado
 - 2026-10-30T13:15:27 · NIO · -15.7% · stop loss
 - 2026-10-30T11:45:27 · Dacity · -0.3% · stop protegido
 - 2026-10-30T11:10:28 · jeff · -16.8% · stop loss
@@ -25,9 +26,7 @@ Saídas: stop protegido: 3, trailing stop: 4, stop loss: 14, estagnado: 2
 - 2026-10-28T14:50:25 · REMUS · -16.1% · stop loss
 - 2026-10-28T03:40:24 · Nothing · -18.2% · stop loss
 - 2026-10-27T14:15:28 · LAUNCH · -14.8% · stop loss
-- 2026-10-27T02:50:25 · ███ · -17.5% · stop loss
 
 ## Posições abertas
 
-- CLAUDIA -7.3% (custo $45.18, stop -12%)
-- GLITCH -5.0% (custo $45.12, stop -12%)
+- GLITCH -5.8% (custo $45.12, stop -12%)

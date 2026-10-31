@@ -1,27 +1,14 @@
 {
   "versao": 2,
-  "caixa": 813.3235907787808,
+  "caixa": 853.7859709521906,
   "posicoes": {
-    "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM": {
-      "simbolo": "CLAUDIA",
-      "url": "https://dexscreener.com/solana/fe7bpdycs74gqicuf14hwgumtopkv1d9mdyvx5btohfr",
-      "qtd": 18666.431948284127,
-      "custo": 45.18109491279219,
-      "preco_entrada": 0.002384,
-      "preco_atual": 0.00221,
-      "preco_max": 0.002393,
-      "stop": -12.0,
-      "liq_entrada": 213712.52,
-      "entrada_ts": 1793406320.6667078,
-      "falhas": 0
-    },
     "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump": {
       "simbolo": "GLITCH",
       "url": "https://dexscreener.com/solana/em6rvzgxhd35pz7cvujctpenv4jaztscavhaxbxcbcg7",
       "qtd": 12580.727203521828,
       "custo": 45.117212564270794,
       "preco_entrada": 0.003532,
-      "preco_atual": 0.003354,
+      "preco_atual": 0.003328,
       "preco_max": 0.003805,
       "stop": -12.0,
       "liq_entrada": 165047.59,
@@ -305,6 +292,18 @@
       "horas": 1.5,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/b4wmjc6pvjctu3qsvs3ett9mr4m5v5jbkrqctwantc71"
+    },
+    {
+      "data_saida": "2026-10-31T08:30:38",
+      "simbolo": "CLAUDIA",
+      "token": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
+      "custo_usd": 45.18,
+      "recebido_usd": 40.46,
+      "pnl_usd": -4.72,
+      "pnl_pct": -10.44,
+      "horas": 8.09,
+      "motivo": "estagnado",
+      "url": "https://dexscreener.com/solana/fe7bpdycs74gqicuf14hwgumtopkv1d9mdyvx5btohfr"
     }
   ],
   "ultimo_trade": {
@@ -351,8 +350,8 @@
   },
   "dia": "2026-10-31",
   "valor_inicio_dia": 903.6218982558438,
-  "pnl_dia": 0.0,
-  "perdas_seguidas": 0,
+  "pnl_dia": -4.71871473938247,
+  "perdas_seguidas": 1,
   "pausa_ate": 1793387727.7177868,
   "inicio": "2026-10-23T21:40:26"
 }
