@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 877.0990925133478,
-  "posicoes": {},
+  "caixa": 833.2441378876805,
+  "posicoes": {
+    "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": {
+      "simbolo": "CHOO",
+      "url": "https://dexscreener.com/solana/3ung5b7czbspnmjfrzzznyqvpk8q3lerr6baynfohdfz",
+      "qtd": 18568.711296787453,
+      "custo": 43.854954625667396,
+      "preco_entrada": 0.002326,
+      "preco_atual": 0.002326,
+      "preco_max": 0.002326,
+      "stop": -12.0,
+      "liq_entrada": 146274.57,
+      "entrada_ts": 1793562328.299395,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -360,7 +374,8 @@
     "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1793456723.936529,
     "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump": 1793360728.3696218,
     "8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump": 1793409922.1669762,
-    "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump": 1793535327.5514255
+    "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump": 1793535327.5514255,
+    "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1793562328.2993963
   },
   "ultimo_simbolo": {
     "dope": 1792885826.4318342,
@@ -382,7 +397,8 @@
     "jeff": 1793456723.9365294,
     "nio": 1793360728.3696225,
     "glitch": 1793409922.1669765,
-    "anakin": 1793535327.5514264
+    "anakin": 1793535327.5514264,
+    "choo": 1793562328.2993972
   },
   "dia": "2026-11-01",
   "valor_inicio_dia": 884.6378139439704,
