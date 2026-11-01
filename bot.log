@@ -2438,3 +2438,5 @@
 [2026-11-01 02:00:46] Sem novas compras: pausa após perdas seguidas (0.1h restantes).
 [2026-11-01 02:05:22] Procura (SOL ok (1h +0.2%, 24h -0.6%)): 80 tokens, 0 passaram. Rejeições: liquidez baixa: 53, FDV fora: 9, volume baixo: 6, idade fora: 5 | Carteira $885.59
 [2026-11-01 02:10:27] Procura (SOL ok (1h -0.1%, 24h -0.8%)): 80 tokens, 0 passaram. Rejeições: liquidez baixa: 54, FDV fora: 9, volume baixo: 6, idade fora: 4 | Carteira $885.34
+[2026-11-01 02:15:27] VENDA Dacity | estagnado | P&L $-3.99 (-8.9%)
+[2026-11-01 02:15:28] Procura (SOL ok (1h -0.2%, 24h -1.0%)): 80 tokens, 0 passaram. Rejeições: liquidez baixa: 53, FDV fora: 9, volume baixo: 7, idade fora: 4 | Carteira $884.63
