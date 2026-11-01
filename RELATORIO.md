@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-01 12:10 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-01 12:15 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $884.63** (-11.54% vs $1000)
+**Valor da carteira: $883.95** (-11.60% vs $1000)
 
-Caixa: $884.63 · Posições abertas: 0
+Caixa: $840.40 · Posições abertas: 1
 
 Trades fechados: 27 · Ganhadores: 5 (19%)
 
@@ -27,3 +27,6 @@ Saídas: stop protegido: 3, trailing stop: 4, stop loss: 15, estagnado: 5
 - 2026-10-29T11:05:22 · INVERSE · -2.0% · stop protegido
 - 2026-10-28T18:25:20 · ███WIF · -18.2% · stop loss
 
+## Posições abertas
+
+- Anakin +0.0% (custo $44.23, stop -12%)
