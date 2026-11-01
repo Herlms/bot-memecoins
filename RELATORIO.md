@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-01 12:20 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-01 12:25 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $883.56** (-11.64% vs $1000)
+**Valor da carteira: $883.29** (-11.67% vs $1000)
 
 Caixa: $840.40 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop protegido: 3, trailing stop: 4, stop loss: 15, estagnado: 5
 
 ## Posições abertas
 
-- Anakin -0.9% (custo $44.23, stop -12%)
+- Anakin -1.5% (custo $44.23, stop -12%)
