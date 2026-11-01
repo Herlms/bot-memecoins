@@ -1,21 +1,24 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-01 20:20 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-01 20:25 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $876.69** (-12.33% vs $1000)
+**Valor da carteira: $869.32** (-13.07% vs $1000)
 
-Caixa: $833.24 · Posições abertas: 1
+Caixa: $869.32 · Posições abertas: 0
 
-Trades fechados: 28 · Ganhadores: 5 (18%)
+⚠️ Sem novas compras: pausa após perdas seguidas (6.0h restantes).
 
-P&L realizado: $-122.91 · Média por trade: -9.3%
+Trades fechados: 29 · Ganhadores: 5 (17%)
 
-Ganho médio: +9.4% · Perda média: -13.4% · Profit factor: 0.16 (acima de 1 = ganha dinheiro)
+P&L realizado: $-130.69 · Média por trade: -9.6%
 
-Saídas: stop protegido: 3, trailing stop: 4, stop loss: 16, estagnado: 5
+Ganho médio: +9.4% · Perda média: -13.6% · Profit factor: 0.15 (acima de 1 = ganha dinheiro)
+
+Saídas: stop protegido: 3, trailing stop: 4, stop loss: 17, estagnado: 5
 
 ## Últimos 10 trades
 
+- 2026-11-01T20:25:20 · CHOO · -17.7% · stop loss
 - 2026-11-01T12:45:27 · Anakin · -17.0% · stop loss
 - 2026-11-01T02:15:27 · Dacity · -8.9% · estagnado
 - 2026-10-31T20:05:20 · jeff · -15.8% · stop loss
@@ -25,8 +28,4 @@ Saídas: stop protegido: 3, trailing stop: 4, stop loss: 16, estagnado: 5
 - 2026-10-30T11:45:27 · Dacity · -0.3% · stop protegido
 - 2026-10-30T11:10:28 · jeff · -16.8% · stop loss
 - 2026-10-29T16:30:41 · JOB · +2.1% · trailing stop
-- 2026-10-29T11:05:22 · INVERSE · -2.0% · stop protegido
 
-## Posições abertas
-
-- CHOO +0.6% (custo $43.85, stop -12%)
