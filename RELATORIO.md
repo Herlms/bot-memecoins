@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-01 12:40 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-01 12:45 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $879.47** (-12.05% vs $1000)
+**Valor da carteira: $877.10** (-12.29% vs $1000)
 
-Caixa: $840.40 · Posições abertas: 1
+Caixa: $877.10 · Posições abertas: 0
 
-Trades fechados: 27 · Ganhadores: 5 (19%)
+Trades fechados: 28 · Ganhadores: 5 (18%)
 
-P&L realizado: $-115.38 · Média por trade: -9.0%
+P&L realizado: $-122.91 · Média por trade: -9.3%
 
-Ganho médio: +9.4% · Perda média: -13.2% · Profit factor: 0.17 (acima de 1 = ganha dinheiro)
+Ganho médio: +9.4% · Perda média: -13.4% · Profit factor: 0.16 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 3, trailing stop: 4, stop loss: 15, estagnado: 5
+Saídas: stop protegido: 3, trailing stop: 4, stop loss: 16, estagnado: 5
 
 ## Últimos 10 trades
 
+- 2026-11-01T12:45:27 · Anakin · -17.0% · stop loss
 - 2026-11-01T02:15:27 · Dacity · -8.9% · estagnado
 - 2026-10-31T20:05:20 · jeff · -15.8% · stop loss
 - 2026-10-31T09:30:37 · GLITCH · -7.2% · estagnado
@@ -25,8 +26,4 @@ Saídas: stop protegido: 3, trailing stop: 4, stop loss: 15, estagnado: 5
 - 2026-10-30T11:10:28 · jeff · -16.8% · stop loss
 - 2026-10-29T16:30:41 · JOB · +2.1% · trailing stop
 - 2026-10-29T11:05:22 · INVERSE · -2.0% · stop protegido
-- 2026-10-28T18:25:20 · ███WIF · -18.2% · stop loss
 
-## Posições abertas
-
-- Anakin -10.3% (custo $44.23, stop -12%)

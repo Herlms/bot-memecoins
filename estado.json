@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 840.3978202380079,
-  "posicoes": {
-    "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump": {
-      "simbolo": "Anakin",
-      "url": "https://dexscreener.com/solana/hja61kefsawrt3dw9p15mlh6u5maqgzgbe51ngg7bytt",
-      "qtd": 33249.34437747882,
-      "custo": 44.231464223053045,
-      "preco_entrada": 0.00131,
-      "preco_atual": 0.001175,
-      "preco_max": 0.00131,
-      "stop": -12.0,
-      "liq_entrada": 106444.34,
-      "entrada_ts": 1793535327.5514245,
-      "falhas": 0
-    }
-  },
+  "caixa": 877.0990925133478,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -340,6 +326,18 @@
       "horas": 8.08,
       "motivo": "estagnado",
       "url": "https://dexscreener.com/solana/g2uurbmvdzdfp4qyobjrskbxsi7d6v4bpp9thps36y4b"
+    },
+    {
+      "data_saida": "2026-11-01T12:45:27",
+      "simbolo": "Anakin",
+      "token": "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump",
+      "custo_usd": 44.23,
+      "recebido_usd": 36.7,
+      "pnl_usd": -7.53,
+      "pnl_pct": -17.02,
+      "horas": 0.5,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/hja61kefsawrt3dw9p15mlh6u5maqgzgbe51ngg7bytt"
     }
   ],
   "ultimo_trade": {
@@ -388,8 +386,8 @@
   },
   "dia": "2026-11-01",
   "valor_inicio_dia": 884.6378139439704,
-  "pnl_dia": -3.988274313565597,
-  "perdas_seguidas": 1,
+  "pnl_dia": -11.518466261278697,
+  "perdas_seguidas": 2,
   "pausa_ate": 1793498720.7990623,
   "inicio": "2026-10-23T21:40:26"
 }
