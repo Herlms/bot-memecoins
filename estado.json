@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 782.2707679102342,
+  "caixa": 819.4434462301031,
   "posicoes": {
     "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": {
       "simbolo": "DacityCoin",
@@ -8,24 +8,11 @@
       "qtd": 40155.28160451814,
       "custo": 43.46612933461785,
       "preco_entrada": 0.001066,
-      "preco_atual": 0.001223,
+      "preco_atual": 0.00122,
       "preco_max": 0.001228,
       "stop": 4.0,
       "liq_entrada": 122301.11,
       "entrada_ts": 1793588459.962852,
-      "falhas": 0
-    },
-    "wMHBD2B8KbDagvXUEapginhtJdrH4QSvSezBM8Tpump": {
-      "simbolo": "ANTS",
-      "url": "https://dexscreener.com/solana/cngphrpgnoeh37yakxvyipfgsvmuu2fckktlyessdqqc",
-      "qtd": 16228.710195811063,
-      "custo": 43.58568944750495,
-      "preco_entrada": 0.002645,
-      "preco_atual": 0.002482,
-      "preco_max": 0.002645,
-      "stop": -12.0,
-      "liq_entrada": 137839.29,
-      "entrada_ts": 1793590239.4484136,
       "falhas": 0
     }
   },
@@ -377,6 +364,18 @@
       "horas": 0.66,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/3ung5b7czbspnmjfrzzznyqvpk8q3lerr6baynfohdfz"
+    },
+    {
+      "data_saida": "2026-11-02T04:05:20",
+      "simbolo": "ANTS",
+      "token": "wMHBD2B8KbDagvXUEapginhtJdrH4QSvSezBM8Tpump",
+      "custo_usd": 43.59,
+      "recebido_usd": 37.17,
+      "pnl_usd": -6.41,
+      "pnl_pct": -14.71,
+      "horas": 0.58,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/cngphrpgnoeh37yakxvyipfgsvmuu2fckktlyessdqqc"
     }
   ],
   "ultimo_trade": {
@@ -429,8 +428,8 @@
   },
   "dia": "2026-11-02",
   "valor_inicio_dia": 869.3225866923569,
-  "pnl_dia": 0.0,
-  "perdas_seguidas": 0,
+  "pnl_dia": -6.4130111276360395,
+  "perdas_seguidas": 1,
   "pausa_ate": 1793586320.7943535,
   "inicio": "2026-10-23T21:40:26"
 }
