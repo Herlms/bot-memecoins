@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 852.3615472047297,
-  "posicoes": {},
+  "caixa": 809.7434698444932,
+  "posicoes": {
+    "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": {
+      "simbolo": "WASTED",
+      "url": "https://dexscreener.com/solana/tt7dks9yjjzj1fwmgopmkbmdrezzymamrhodcgdfwqn",
+      "qtd": 36116.60353002886,
+      "custo": 42.618077360236484,
+      "preco_entrada": 0.001162,
+      "preco_atual": 0.001162,
+      "preco_max": 0.001162,
+      "stop": -12.0,
+      "liq_entrada": 100376.01,
+      "entrada_ts": 1793658641.1186962,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -436,7 +450,8 @@
     "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1793562328.2993963,
     "wMHBD2B8KbDagvXUEapginhtJdrH4QSvSezBM8Tpump": 1793590239.4484153,
     "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": 1793592628.0245688,
-    "APLPiTjBWzwfZ5U1TBeqLF9XJ7dV7XKGe7j4BZhkDray": 1793594726.2770183
+    "APLPiTjBWzwfZ5U1TBeqLF9XJ7dV7XKGe7j4BZhkDray": 1793594726.2770183,
+    "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": 1793658641.1186972
   },
   "ultimo_simbolo": {
     "dope": 1792885826.4318342,
@@ -462,7 +477,8 @@
     "choo": 1793562328.2993972,
     "ants": 1793590239.4484165,
     "float": 1793592628.024569,
-    "peak": 1793594726.2770185
+    "peak": 1793594726.2770185,
+    "wasted": 1793658641.1186976
   },
   "dia": "2026-11-02",
   "valor_inicio_dia": 869.3225866923569,
