@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 776.09006571945,
+  "caixa": 732.8684695484377,
   "posicoes": {
     "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": {
       "simbolo": "DacityCoin",
@@ -8,7 +8,7 @@
       "qtd": 40155.28160451814,
       "custo": 43.46612933461785,
       "preco_entrada": 0.001066,
-      "preco_atual": 0.001191,
+      "preco_atual": 0.001159,
       "preco_max": 0.001229,
       "stop": 4.0,
       "liq_entrada": 122301.11,
@@ -21,11 +21,24 @@
       "qtd": 28130.475317065448,
       "custo": 43.353380510653075,
       "preco_entrada": 0.001518,
-      "preco_atual": 0.00148,
+      "preco_atual": 0.001486,
       "preco_max": 0.001518,
       "stop": -12.0,
       "liq_entrada": 245806.04,
       "entrada_ts": 1793592628.0245676,
+      "falhas": 0
+    },
+    "APLPiTjBWzwfZ5U1TBeqLF9XJ7dV7XKGe7j4BZhkDray": {
+      "simbolo": "PEAK",
+      "url": "https://dexscreener.com/solana/h4sb6ch4bj4g9vjg3cda2h3gyamgcfuzxu8h56rhkvnc",
+      "qtd": 34049.83825416017,
+      "custo": 43.22159617101229,
+      "preco_entrada": 0.00125,
+      "preco_atual": 0.00125,
+      "preco_max": 0.00125,
+      "stop": -12.0,
+      "liq_entrada": 104717.32,
+      "entrada_ts": 1793594726.277017,
       "falhas": 0
     }
   },
@@ -414,7 +427,8 @@
     "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump": 1793535327.5514255,
     "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1793562328.2993963,
     "wMHBD2B8KbDagvXUEapginhtJdrH4QSvSezBM8Tpump": 1793590239.4484153,
-    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": 1793592628.0245688
+    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": 1793592628.0245688,
+    "APLPiTjBWzwfZ5U1TBeqLF9XJ7dV7XKGe7j4BZhkDray": 1793594726.2770183
   },
   "ultimo_simbolo": {
     "dope": 1792885826.4318342,
@@ -439,7 +453,8 @@
     "anakin": 1793535327.5514264,
     "choo": 1793562328.2993972,
     "ants": 1793590239.4484165,
-    "float": 1793592628.024569
+    "float": 1793592628.024569,
+    "peak": 1793594726.2770185
   },
   "dia": "2026-11-02",
   "valor_inicio_dia": 869.3225866923569,
