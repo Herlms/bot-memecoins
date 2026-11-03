@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-03 12:15 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-03 12:20 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $842.28** (-15.77% vs $1000)
+**Valor da carteira: $841.49** (-15.85% vs $1000)
 
 Caixa: $756.92 · Posições abertas: 2
 
@@ -30,4 +30,4 @@ Saídas: stop protegido: 4, trailing stop: 6, stop loss: 21, estagnado: 6
 ## Posições abertas
 
 - FLOAT +2.8% (custo $42.40, stop -12%)
-- MAMESUKE +2.4% (custo $42.05, stop -12%)
+- MAMESUKE +0.5% (custo $42.05, stop -12%)
