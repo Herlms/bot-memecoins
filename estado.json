@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 798.9700297981531,
+  "caixa": 756.916712285484,
   "posicoes": {
     "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": {
       "simbolo": "FLOAT",
@@ -8,11 +8,24 @@
       "qtd": 11139.53968119279,
       "custo": 42.39640026870194,
       "preco_entrada": 0.003749,
-      "preco_atual": 0.003759,
+      "preco_atual": 0.003779,
       "preco_max": 0.004031,
       "stop": -12.0,
       "liq_entrada": 379732.64,
       "entrada_ts": 1793683840.9154804,
+      "falhas": 0
+    },
+    "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK": {
+      "simbolo": "MAMESUKE",
+      "url": "https://dexscreener.com/solana/hpexrue5msv7paz5wpviwsclesywgzr8vhdakuiep5ku",
+      "qtd": 28171.897269885943,
+      "custo": 42.053317512669025,
+      "preco_entrada": 0.00147,
+      "preco_atual": 0.00147,
+      "preco_max": 0.00147,
+      "stop": -12.0,
+      "liq_entrada": 107270.45,
+      "entrada_ts": 1793707253.7768312,
       "falhas": 0
     }
   },
@@ -487,7 +500,8 @@
     "wMHBD2B8KbDagvXUEapginhtJdrH4QSvSezBM8Tpump": 1793590239.4484153,
     "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": 1793683840.9154813,
     "APLPiTjBWzwfZ5U1TBeqLF9XJ7dV7XKGe7j4BZhkDray": 1793594726.2770183,
-    "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": 1793658641.1186972
+    "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": 1793658641.1186972,
+    "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK": 1793707253.7768326
   },
   "ultimo_simbolo": {
     "dope": 1792885826.4318342,
@@ -514,7 +528,8 @@
     "ants": 1793590239.4484165,
     "float": 1793683840.915482,
     "peak": 1793594726.2770185,
-    "wasted": 1793658641.1186976
+    "wasted": 1793658641.1186976,
+    "mamesuke": 1793707253.776833
   },
   "dia": "2026-11-03",
   "valor_inicio_dia": 844.1434975369046,
