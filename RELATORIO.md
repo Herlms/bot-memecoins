@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-03 05:10 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-03 05:15 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $847.69** (-15.23% vs $1000)
+**Valor da carteira: $847.05** (-15.29% vs $1000)
 
-Caixa: $847.69 · Posições abertas: 0
+Caixa: $805.31 · Posições abertas: 1
 
 Trades fechados: 36 · Ganhadores: 7 (19%)
 
@@ -27,3 +27,6 @@ Saídas: stop protegido: 4, trailing stop: 6, stop loss: 20, estagnado: 6
 - 2026-11-01T12:45:27 · Anakin · -17.0% · stop loss
 - 2026-11-01T02:15:27 · Dacity · -8.9% · estagnado
 
+## Posições abertas
+
+- DacityCoin +0.0% (custo $42.38, stop -12%)

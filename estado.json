@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 847.6905015232586,
-  "posicoes": {},
+  "caixa": 805.3059764470956,
+  "posicoes": {
+    "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": {
+      "simbolo": "DacityCoin",
+      "url": "https://dexscreener.com/solana/7te1wxcfeqjklghxfvxscngztqunoz9fxbn7kkjrkner",
+      "qtd": 18652.966707633706,
+      "custo": 42.38452507616293,
+      "preco_entrada": 0.002238,
+      "preco_atual": 0.002238,
+      "preco_max": 0.002238,
+      "stop": -12.0,
+      "liq_entrada": 180370.54,
+      "entrada_ts": 1793682930.605701,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -438,7 +452,7 @@
   ],
   "ultimo_trade": {
     "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump": 1792885826.4318333,
-    "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": 1793588459.9628532,
+    "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": 1793682930.605702,
     "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump": 1792834520.4885404,
     "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump": 1792858525.2037196,
     "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM": 1793625028.592182,
@@ -465,7 +479,7 @@
   },
   "ultimo_simbolo": {
     "dope": 1792885826.4318342,
-    "dacitycoin": 1793588459.962854,
+    "dacitycoin": 1793682930.6057026,
     "hell": 1792834520.488541,
     "swordcat": 1792858525.20372,
     "claudia": 1793625028.5921826,
