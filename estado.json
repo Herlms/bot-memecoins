@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 805.3059764470956,
+  "caixa": 762.9095761783938,
   "posicoes": {
     "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": {
       "simbolo": "DacityCoin",
@@ -8,11 +8,24 @@
       "qtd": 18652.966707633706,
       "custo": 42.38452507616293,
       "preco_entrada": 0.002238,
-      "preco_atual": 0.00236,
+      "preco_atual": 0.002285,
       "preco_max": 0.00236,
       "stop": -12.0,
       "liq_entrada": 180370.54,
       "entrada_ts": 1793682930.605701,
+      "falhas": 0
+    },
+    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": {
+      "simbolo": "FLOAT",
+      "url": "https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a",
+      "qtd": 11139.53968119279,
+      "custo": 42.39640026870194,
+      "preco_entrada": 0.003749,
+      "preco_atual": 0.003749,
+      "preco_max": 0.003749,
+      "stop": -12.0,
+      "liq_entrada": 379732.64,
+      "entrada_ts": 1793683840.9154804,
       "falhas": 0
     }
   },
@@ -473,7 +486,7 @@
     "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump": 1793535327.5514255,
     "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1793562328.2993963,
     "wMHBD2B8KbDagvXUEapginhtJdrH4QSvSezBM8Tpump": 1793590239.4484153,
-    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": 1793592628.0245688,
+    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": 1793683840.9154813,
     "APLPiTjBWzwfZ5U1TBeqLF9XJ7dV7XKGe7j4BZhkDray": 1793594726.2770183,
     "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": 1793658641.1186972
   },
@@ -500,7 +513,7 @@
     "anakin": 1793535327.5514264,
     "choo": 1793562328.2993972,
     "ants": 1793590239.4484165,
-    "float": 1793592628.024569,
+    "float": 1793683840.915482,
     "peak": 1793594726.2770185,
     "wasted": 1793658641.1186976
   },
