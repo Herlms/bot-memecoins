@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-03 13:15 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-03 13:20 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $861.66** (-13.83% vs $1000)
+**Valor da carteira: $876.18** (-12.38% vs $1000)
 
-Caixa: $756.92 · Posições abertas: 2
+Caixa: $833.52 · Posições abertas: 1
 
-Trades fechados: 37 · Ganhadores: 7 (19%)
+Trades fechados: 38 · Ganhadores: 8 (21%)
 
-P&L realizado: $-158.64 · Média por trade: -9.3%
+P&L realizado: $-124.09 · Média por trade: -6.9%
 
-Ganho médio: +8.9% · Perda média: -13.5% · Profit factor: 0.16 (acima de 1 = ganha dinheiro)
+Ganho médio: +18.0% · Perda média: -13.5% · Profit factor: 0.34 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 4, trailing stop: 6, stop loss: 21, estagnado: 6
+Saídas: stop protegido: 4, trailing stop: 6, stop loss: 21, estagnado: 6, take profit: 1
 
 ## Últimos 10 trades
 
+- 2026-11-03T13:20:28 · MAMESUKE · +82.2% · take profit
 - 2026-11-03T06:40:28 · DacityCoin · -14.9% · stop loss
 - 2026-11-03T04:40:25 · NIO · +8.4% · trailing stop
 - 2026-11-02T22:55:21 · WASTED · -19.3% · stop loss
@@ -25,9 +26,7 @@ Saídas: stop protegido: 4, trailing stop: 6, stop loss: 21, estagnado: 6
 - 2026-11-02T05:25:22 · DacityCoin · -5.7% · stop protegido
 - 2026-11-02T04:05:20 · ANTS · -14.7% · stop loss
 - 2026-11-01T20:25:20 · CHOO · -17.7% · stop loss
-- 2026-11-01T12:45:27 · Anakin · -17.0% · stop loss
 
 ## Posições abertas
 
-- FLOAT +3.4% (custo $42.40, stop -12%)
-- MAMESUKE +48.6% (custo $42.05, stop +4%)
+- FLOAT +2.1% (custo $42.40, stop -12%)
