@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 819.0246907057154,
-  "posicoes": {
-    "7ymF66Z6VhgNiwadtVhjTtT6U7iQRpSxeiRrhfufhigh": {
-      "simbolo": "HIGH",
-      "url": "https://dexscreener.com/solana/cqvmzmwdveufa5rzkubidyr4zmdqdpoljatsw6wgspmu",
-      "qtd": 20272.835074253388,
-      "custo": 43.106562668721864,
-      "preco_entrada": 0.002094,
-      "preco_atual": 0.002094,
-      "preco_max": 0.002094,
-      "stop": -12.0,
-      "liq_entrada": 120389.81,
-      "entrada_ts": 1793832326.2566917,
-      "falhas": 0
-    }
-  },
+  "caixa": 854.6789826713853,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -532,6 +518,18 @@
       "horas": 1.92,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a"
+    },
+    {
+      "data_saida": "2026-11-04T22:50:27",
+      "simbolo": "HIGH",
+      "token": "7ymF66Z6VhgNiwadtVhjTtT6U7iQRpSxeiRrhfufhigh",
+      "custo_usd": 43.11,
+      "recebido_usd": 35.65,
+      "pnl_usd": -7.45,
+      "pnl_pct": -17.29,
+      "horas": 0.08,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/cqvmzmwdveufa5rzkubidyr4zmdqdpoljatsw6wgspmu"
     }
   ],
   "ultimo_trade": {
@@ -594,8 +592,8 @@
   },
   "dia": "2026-11-04",
   "valor_inicio_dia": 867.074021187852,
-  "pnl_dia": -4.9427678134147754,
-  "perdas_seguidas": 1,
+  "pnl_dia": -12.395038516466812,
+  "perdas_seguidas": 2,
   "pausa_ate": 1793622639.6236227,
   "inicio": "2026-10-23T21:40:26"
 }
