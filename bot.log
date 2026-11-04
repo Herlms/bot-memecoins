@@ -3320,3 +3320,4 @@
 [2026-11-04 00:05:53] Erro de rede: The read operation timed out
 [2026-11-04 00:06:11] Erro de rede: The read operation timed out
 [2026-11-04 00:06:15] Procura (SOL ok (1h -0.6%, 24h +1.0%)): 76 tokens, 0 passaram. Rejeições: liquidez baixa: 57, FDV fora: 5, idade fora: 5, liquidez fina p/ o FDV: 4 | Carteira $867.07
+[2026-11-04 00:10:34] Procura (SOL ok (1h -0.4%, 24h +1.1%)): 90 tokens, 0 passaram. Rejeições: liquidez baixa: 64, FDV fora: 8, idade fora: 6, volume baixo: 6 | Carteira $867.07
