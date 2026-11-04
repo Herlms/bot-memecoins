@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 862.1312533744373,
-  "posicoes": {},
+  "caixa": 819.0246907057154,
+  "posicoes": {
+    "7ymF66Z6VhgNiwadtVhjTtT6U7iQRpSxeiRrhfufhigh": {
+      "simbolo": "HIGH",
+      "url": "https://dexscreener.com/solana/cqvmzmwdveufa5rzkubidyr4zmdqdpoljatsw6wgspmu",
+      "qtd": 20272.835074253388,
+      "custo": 43.106562668721864,
+      "preco_entrada": 0.002094,
+      "preco_atual": 0.002094,
+      "preco_max": 0.002094,
+      "stop": -12.0,
+      "liq_entrada": 120389.81,
+      "entrada_ts": 1793832326.2566917,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -546,7 +560,8 @@
     "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": 1793820323.6243935,
     "APLPiTjBWzwfZ5U1TBeqLF9XJ7dV7XKGe7j4BZhkDray": 1793594726.2770183,
     "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": 1793658641.1186972,
-    "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK": 1793707253.7768326
+    "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK": 1793707253.7768326,
+    "7ymF66Z6VhgNiwadtVhjTtT6U7iQRpSxeiRrhfufhigh": 1793832326.2566926
   },
   "ultimo_simbolo": {
     "dope": 1793787630.6478314,
@@ -574,7 +589,8 @@
     "float": 1793820323.624394,
     "peak": 1793594726.2770185,
     "wasted": 1793658641.1186976,
-    "mamesuke": 1793707253.776833
+    "mamesuke": 1793707253.776833,
+    "high": 1793832326.2566934
   },
   "dia": "2026-11-04",
   "valor_inicio_dia": 867.074021187852,
