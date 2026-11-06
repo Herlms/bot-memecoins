@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-06 06:10 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-06 06:15 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $840.61** (-15.94% vs $1000)
+**Valor da carteira: $840.58** (-15.94% vs $1000)
 
 Caixa: $799.46 · Posições abertas: 1
 
