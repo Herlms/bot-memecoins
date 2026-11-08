@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 788.5408318651386,
-  "posicoes": {
-    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": {
-      "simbolo": "FLOAT",
-      "url": "https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a",
-      "qtd": 3085.54777487365,
-      "custo": 41.502149045533606,
-      "preco_entrada": 0.01325,
-      "preco_atual": 0.01522,
-      "preco_max": 0.01626,
-      "stop": 4.0,
-      "liq_entrada": 739260.71,
-      "entrada_ts": 1794122128.1013992,
-      "falhas": 0
-    }
-  },
+  "caixa": 828.2333387721245,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -616,6 +602,18 @@
       "horas": 9.75,
       "motivo": "trailing stop",
       "url": "https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a"
+    },
+    {
+      "data_saida": "2026-11-08T16:20:27",
+      "simbolo": "FLOAT",
+      "token": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr",
+      "custo_usd": 41.5,
+      "recebido_usd": 39.69,
+      "pnl_usd": -1.81,
+      "pnl_pct": -4.36,
+      "horas": 9.08,
+      "motivo": "stop protegido",
+      "url": "https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a"
     }
   ],
   "ultimo_trade": {
@@ -680,8 +678,8 @@
   },
   "dia": "2026-11-08",
   "valor_inicio_dia": 830.0429809106722,
-  "pnl_dia": 0.0,
-  "perdas_seguidas": 0,
+  "pnl_dia": -1.8096421385476518,
+  "perdas_seguidas": 1,
   "pausa_ate": 1794029721.2533333,
   "inicio": "2026-10-23T21:40:26"
 }
