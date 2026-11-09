@@ -4987,3 +4987,4 @@
 [2026-11-09 15:55:46] Erro HTTP 403 em https://api.geckoterminal.com/api/v2/networks/solana/pools?sort=h24_volume_usd_d
 [2026-11-09 15:55:49] Procura (SOL ok (1h +0.5%, 24h -2.1%)): 30 tokens, 0 passaram. Rejeições: liquidez baixa: 24, liquidez fina p/ o FDV: 2, sem preço: 1, idade fora: 1 | Carteira $824.91
 [2026-11-09 16:00:54] Procura (SOL ok (1h +0.7%, 24h -2.0%)): 73 tokens, 0 passaram. Rejeições: liquidez baixa: 39, FDV fora: 15, idade fora: 6, volume baixo: 6 | Carteira $825.24
+[2026-11-09 16:05:23] Procura (SOL ok (1h +0.4%, 24h -2.4%)): 73 tokens, 0 passaram. Rejeições: liquidez baixa: 41, FDV fora: 13, idade fora: 6, volume baixo: 6 | Carteira $824.74
