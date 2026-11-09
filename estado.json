@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 828.2333387721245,
-  "posicoes": {},
+  "caixa": 786.8216718335183,
+  "posicoes": {
+    "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": {
+      "simbolo": "Dacity",
+      "url": "https://dexscreener.com/solana/g2uurbmvdzdfp4qyobjrskbxsi7d6v4bpp9thps36y4b",
+      "qtd": 4789.586604045841,
+      "custo": 41.411666938606224,
+      "preco_entrada": 0.008517,
+      "preco_atual": 0.008517,
+      "preco_max": 0.008517,
+      "stop": -12.0,
+      "liq_entrada": 448042.54,
+      "entrada_ts": 1794230128.1708384,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -625,7 +639,7 @@
     "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE": 1792877720.345471,
     "CSocnzcRpgSCr1naKcNTieWZUxb6rABe45j844m7pump": 1792939227.802513,
     "JAFqCQSpy5YinrsmixWSMaD7jTn4MytJRkyWvYPnY6ea": 1792965320.5230227,
-    "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": 1793781929.690317,
+    "nxPqZ4F7ux8Vph5NFu25rEP6Kx9Gr1U6Fmj36Rjpump": 1794230128.1708395,
     "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump": 1793185521.9240813,
     "AhBidGAgv6QbKSWfrSCegGrzFLcBx4E5FNYTKHNQQj6C": 1793109320.7530692,
     "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump": 1793059250.9377482,
@@ -655,7 +669,7 @@
     "hooked": 1792877720.3454714,
     "kimchi": 1792939227.8025131,
     "pangea": 1792965320.5230234,
-    "dacity": 1793781929.6903172,
+    "dacity": 1794230128.1708405,
     "remus": 1793185521.9240823,
     "launch": 1793109320.7530699,
     "███": 1793059250.9377487,
