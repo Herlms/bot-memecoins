@@ -4976,3 +4976,13 @@
 [2026-11-09 15:40:28] Procura (SOL ok (1h +0.5%, 24h -2.5%)): 74 tokens, 0 passaram. Rejeições: liquidez baixa: 40, FDV fora: 14, idade fora: 6, liquidez fina p/ o FDV: 5 | Carteira $824.73
 [2026-11-09 15:45:30] Procura (SOL ok (1h +0.5%, 24h -2.1%)): 74 tokens, 0 passaram. Rejeições: liquidez baixa: 40, FDV fora: 14, idade fora: 6, liquidez fina p/ o FDV: 5 | Carteira $824.65
 [2026-11-09 15:50:29] Procura (SOL ok (1h +0.1%, 24h -2.2%)): 73 tokens, 0 passaram. Rejeições: liquidez baixa: 40, FDV fora: 14, idade fora: 6, liquidez fina p/ o FDV: 5 | Carteira $824.97
+[2026-11-09 15:55:22] Erro HTTP 403 em https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
+[2026-11-09 15:55:25] Erro HTTP 403 em https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
+[2026-11-09 15:55:28] Erro HTTP 403 em https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1
+[2026-11-09 15:55:31] Erro HTTP 403 em https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2
+[2026-11-09 15:55:34] Erro HTTP 403 em https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2
+[2026-11-09 15:55:37] Erro HTTP 403 em https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2
+[2026-11-09 15:55:40] Erro HTTP 403 em https://api.geckoterminal.com/api/v2/networks/solana/pools?sort=h24_volume_usd_d
+[2026-11-09 15:55:43] Erro HTTP 403 em https://api.geckoterminal.com/api/v2/networks/solana/pools?sort=h24_volume_usd_d
+[2026-11-09 15:55:46] Erro HTTP 403 em https://api.geckoterminal.com/api/v2/networks/solana/pools?sort=h24_volume_usd_d
+[2026-11-09 15:55:49] Procura (SOL ok (1h +0.5%, 24h -2.1%)): 30 tokens, 0 passaram. Rejeições: liquidez baixa: 24, liquidez fina p/ o FDV: 2, sem preço: 1, idade fora: 1 | Carteira $824.91
