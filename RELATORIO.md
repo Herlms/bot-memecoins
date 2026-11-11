@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-11 23:45 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-11 23:50 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $813.96** (-18.60% vs $1000)
+**Valor da carteira: $811.56** (-18.84% vs $1000)
 
-Caixa: $765.41 · Posições abertas: 1
+Caixa: $811.56 · Posições abertas: 0
 
-Trades fechados: 56 · Ganhadores: 13 (23%)
+Trades fechados: 57 · Ganhadores: 14 (25%)
 
-P&L realizado: $-194.10 · Média por trade: -7.6%
+P&L realizado: $-188.45 · Média por trade: -7.2%
 
-Ganho médio: +11.8% · Perda média: -13.5% · Profit factor: 0.26 (acima de 1 = ganha dinheiro)
+Ganho médio: +11.9% · Perda média: -13.5% · Profit factor: 0.28 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 7, trailing stop: 9, stop loss: 31, estagnado: 8, take profit: 1
+Saídas: stop protegido: 7, trailing stop: 10, stop loss: 31, estagnado: 8, take profit: 1
 
 ## Últimos 10 trades
 
+- 2026-11-11T23:50:26 · DacityCoin · +13.9% · trailing stop
 - 2026-11-11T22:40:28 · WASTED · -15.4% · stop loss
 - 2026-11-11T19:05:21 · jeff · +1.1% · trailing stop
 - 2026-11-10T21:35:21 · NIO · -14.7% · stop loss
@@ -25,8 +26,4 @@ Saídas: stop protegido: 7, trailing stop: 9, stop loss: 31, estagnado: 8, take 
 - 2026-11-07T16:20:27 · FLOAT · +3.5% · trailing stop
 - 2026-11-07T09:05:21 · STANK · +0.6% · stop protegido
 - 2026-11-06T23:35:21 · NIO · -16.0% · stop loss
-- 2026-11-06T07:30:41 · FLOAT · -15.9% · stop loss
 
-## Posições abertas
-
-- DacityCoin +21.7% (custo $40.51, stop +4%)

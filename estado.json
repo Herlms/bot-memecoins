@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 765.4060264134822,
-  "posicoes": {
-    "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": {
-      "simbolo": "DacityCoin",
-      "url": "https://dexscreener.com/solana/7te1wxcfeqjklghxfvxscngztqunoz9fxbn7kkjrkner",
-      "qtd": 6551.722505291845,
-      "custo": 40.50604143186427,
-      "preco_entrada": 0.00609,
-      "preco_atual": 0.007411,
-      "preco_max": 0.008401,
-      "stop": 4.0,
-      "liq_entrada": 357464.11,
-      "entrada_ts": 1794434724.3362074,
-      "falhas": 0
-    }
-  },
+  "caixa": 811.5642480225854,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -688,6 +674,18 @@
       "horas": 6.58,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/tt7dks9yjjzj1fwmgopmkbmdrezzymamrhodcgdfwqn"
+    },
+    {
+      "data_saida": "2026-11-11T23:50:26",
+      "simbolo": "DacityCoin",
+      "token": "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump",
+      "custo_usd": 40.51,
+      "recebido_usd": 46.16,
+      "pnl_usd": 5.65,
+      "pnl_pct": 13.95,
+      "horas": 1.75,
+      "motivo": "trailing stop",
+      "url": "https://dexscreener.com/solana/7te1wxcfeqjklghxfvxscngztqunoz9fxbn7kkjrkner"
     }
   ],
   "ultimo_trade": {
@@ -752,8 +750,8 @@
   },
   "dia": "2026-11-11",
   "valor_inicio_dia": 811.6930437304842,
-  "pnl_dia": -5.780975885137828,
-  "perdas_seguidas": 1,
+  "pnl_dia": -0.12879570789895922,
+  "perdas_seguidas": 0,
   "pausa_ate": 1794365428.7498548,
   "inicio": "2026-10-23T21:40:26"
 }
