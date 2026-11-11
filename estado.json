@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 771.5582181665762,
+  "caixa": 731.052176734712,
   "posicoes": {
     "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": {
       "simbolo": "WASTED",
@@ -8,11 +8,24 @@
       "qtd": 30127.039430241515,
       "custo": 40.59595227249014,
       "preco_entrada": 0.001327,
-      "preco_atual": 0.001302,
+      "preco_atual": 0.00128,
       "preco_max": 0.001472,
       "stop": -12.0,
       "liq_entrada": 111121.33,
       "entrada_ts": 1794413122.634233,
+      "falhas": 0
+    },
+    "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": {
+      "simbolo": "DacityCoin",
+      "url": "https://dexscreener.com/solana/7te1wxcfeqjklghxfvxscngztqunoz9fxbn7kkjrkner",
+      "qtd": 6551.722505291845,
+      "custo": 40.50604143186427,
+      "preco_entrada": 0.00609,
+      "preco_atual": 0.00609,
+      "preco_max": 0.00609,
+      "stop": -12.0,
+      "liq_entrada": 357464.11,
+      "entrada_ts": 1794434724.3362074,
       "falhas": 0
     }
   },
@@ -680,7 +693,7 @@
   ],
   "ultimo_trade": {
     "33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump": 1793787630.6478307,
-    "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": 1794338723.9247715,
+    "DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump": 1794434724.3362086,
     "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump": 1792834520.4885404,
     "5tCju6YNxHq5zrA6tGndr6F7TK42mpUFmeE31cSFpump": 1792858525.2037196,
     "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM": 1793625028.592182,
@@ -710,7 +723,7 @@
   },
   "ultimo_simbolo": {
     "dope": 1793787630.6478314,
-    "dacitycoin": 1794338723.924772,
+    "dacitycoin": 1794434724.3362093,
     "hell": 1792834520.488541,
     "swordcat": 1792858525.20372,
     "claudia": 1793625028.5921826,
