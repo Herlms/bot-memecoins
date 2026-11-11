@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-11 17:50 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-11 17:55 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $811.54** (-18.85% vs $1000)
+**Valor da carteira: $812.75** (-18.73% vs $1000)
 
 Caixa: $730.51 · Posições abertas: 2
 
@@ -29,5 +29,5 @@ Saídas: stop protegido: 7, trailing stop: 8, stop loss: 30, estagnado: 8, take 
 
 ## Posições abertas
 
-- jeff +1.0% (custo $40.58, stop -12%)
-- WASTED +1.7% (custo $40.60, stop -12%)
+- jeff +3.8% (custo $40.58, stop -12%)
+- WASTED +1.9% (custo $40.60, stop -12%)
