@@ -54,3 +54,4 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-11-10T20:50:28,DacityCoin,DKYcjobF7HPtL9RyQBRdeRQ2iWvizpfbgWwPWNXdpump,41.11,34.32,-6.79,-16.52,1.42,stop loss,https://dexscreener.com/solana/7te1wxcfeqjklghxfvxscngztqunoz9fxbn7kkjrkner
 2026-11-10T21:35:21,NIO,7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump,41.23,35.16,-6.07,-14.72,3.41,stop loss,https://dexscreener.com/solana/b4wmjc6pvjctu3qsvs3ett9mr4m5v5jbkrqctwantc71
 2026-11-11T19:05:21,jeff,HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k,40.58,41.05,0.46,1.14,6.58,trailing stop,https://dexscreener.com/solana/jcxwfczgjgjc8nza5qb6jp3cgvqw4vgug4tqj87g5zny
+2026-11-11T22:40:28,WASTED,GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump,40.6,34.35,-6.24,-15.38,6.58,stop loss,https://dexscreener.com/solana/tt7dks9yjjzj1fwmgopmkbmdrezzymamrhodcgdfwqn
