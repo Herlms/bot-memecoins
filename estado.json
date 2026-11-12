@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 811.5642480225854,
-  "posicoes": {},
+  "caixa": 770.9860356214562,
+  "posicoes": {
+    "8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump": {
+      "simbolo": "NOBUSHIBA",
+      "url": "https://dexscreener.com/solana/dagau7g32pmkjf8ng2372xo2hygfgenx5yn7mwmkhfgf",
+      "qtd": 24990.506222886648,
+      "custo": 40.578212401129264,
+      "preco_entrada": 0.001599,
+      "preco_atual": 0.001599,
+      "preco_max": 0.001599,
+      "stop": -12.0,
+      "liq_entrada": 101957.32,
+      "entrada_ts": 1794464724.6682255,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -716,7 +730,8 @@
     "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": 1794413122.6342344,
     "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK": 1793707253.7768326,
     "7ymF66Z6VhgNiwadtVhjTtT6U7iQRpSxeiRrhfufhigh": 1793832326.2566926,
-    "5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8": 1794030627.443569
+    "5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8": 1794030627.443569,
+    "8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump": 1794464724.668227
   },
   "ultimo_simbolo": {
     "dope": 1793787630.6478314,
@@ -746,7 +761,8 @@
     "wasted": 1794413122.6342351,
     "mamesuke": 1793707253.776833,
     "high": 1793832326.2566934,
-    "stank": 1794030627.4435694
+    "stank": 1794030627.4435694,
+    "nobushiba": 1794464724.668228
   },
   "dia": "2026-11-12",
   "valor_inicio_dia": 811.5642480225854,

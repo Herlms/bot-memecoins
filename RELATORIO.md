@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-12 06:20 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-12 06:25 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $811.56** (-18.84% vs $1000)
+**Valor da carteira: $810.95** (-18.91% vs $1000)
 
-Caixa: $811.56 · Posições abertas: 0
+Caixa: $770.99 · Posições abertas: 1
 
 Trades fechados: 57 · Ganhadores: 14 (25%)
 
@@ -27,3 +27,6 @@ Saídas: stop protegido: 7, trailing stop: 10, stop loss: 31, estagnado: 8, take
 - 2026-11-07T09:05:21 · STANK · +0.6% · stop protegido
 - 2026-11-06T23:35:21 · NIO · -16.0% · stop loss
 
+## Posições abertas
+
+- NOBUSHIBA +0.0% (custo $40.58, stop -12%)
