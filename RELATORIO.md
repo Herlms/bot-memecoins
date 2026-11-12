@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-12 09:50 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-12 09:55 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $821.22** (-17.88% vs $1000)
+**Valor da carteira: $810.85** (-18.92% vs $1000)
 
-Caixa: $770.99 · Posições abertas: 1
+Caixa: $810.85 · Posições abertas: 0
 
-Trades fechados: 57 · Ganhadores: 14 (25%)
+Trades fechados: 58 · Ganhadores: 14 (24%)
 
-P&L realizado: $-188.45 · Média por trade: -7.2%
+P&L realizado: $-189.16 · Média por trade: -7.2%
 
-Ganho médio: +11.9% · Perda média: -13.5% · Profit factor: 0.28 (acima de 1 = ganha dinheiro)
+Ganho médio: +11.9% · Perda média: -13.2% · Profit factor: 0.28 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 7, trailing stop: 10, stop loss: 31, estagnado: 8, take profit: 1
+Saídas: stop protegido: 8, trailing stop: 10, stop loss: 31, estagnado: 8, take profit: 1
 
 ## Últimos 10 trades
 
+- 2026-11-12T09:55:22 · NOBUSHIBA · -1.8% · stop protegido
 - 2026-11-11T23:50:26 · DacityCoin · +13.9% · trailing stop
 - 2026-11-11T22:40:28 · WASTED · -15.4% · stop loss
 - 2026-11-11T19:05:21 · jeff · +1.1% · trailing stop
@@ -25,8 +26,4 @@ Saídas: stop protegido: 7, trailing stop: 10, stop loss: 31, estagnado: 8, take
 - 2026-11-08T16:20:27 · FLOAT · -4.4% · stop protegido
 - 2026-11-07T16:20:27 · FLOAT · +3.5% · trailing stop
 - 2026-11-07T09:05:21 · STANK · +0.6% · stop protegido
-- 2026-11-06T23:35:21 · NIO · -16.0% · stop loss
 
-## Posições abertas
-
-- NOBUSHIBA +25.7% (custo $40.58, stop +4%)
