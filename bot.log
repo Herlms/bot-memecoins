@@ -6112,3 +6112,6 @@
 [2026-11-13 12:30:41] Procura (SOL ok (1h +0.2%, 24h -1.8%)): 87 tokens, 0 passaram. Rejeições: liquidez baixa: 58, FDV fora: 13, idade fora: 6, liquidez fina p/ o FDV: 5 | Carteira $802.71
 [2026-11-13 12:35:22] Procura (SOL ok (1h +0.5%, 24h -1.6%)): 87 tokens, 0 passaram. Rejeições: liquidez baixa: 58, FDV fora: 13, idade fora: 6, liquidez fina p/ o FDV: 5 | Carteira $801.38
 [2026-11-13 12:40:30] Procura (SOL ok (1h +0.1%, 24h -1.8%)): 87 tokens, 0 passaram. Rejeições: liquidez baixa: 58, FDV fora: 13, idade fora: 6, liquidez fina p/ o FDV: 5 | Carteira $800.39
+[2026-11-13 12:45:27] 3 perdas seguidas — pausa de 6h.
+[2026-11-13 12:45:27] VENDA paws | stop loss | P&L $-6.28 (-15.6%)
+[2026-11-13 12:45:27] Sem novas compras: pausa após perdas seguidas (6.0h restantes).
