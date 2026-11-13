@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-13 11:55 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-13 12:00 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $803.79** (-19.62% vs $1000)
+**Valor da carteira: $803.18** (-19.68% vs $1000)
 
-Caixa: $803.79 · Posições abertas: 0
+Caixa: $763.60 · Posições abertas: 1
 
 Trades fechados: 59 · Ganhadores: 14 (24%)
 
@@ -27,3 +27,6 @@ Saídas: stop protegido: 8, trailing stop: 10, stop loss: 32, estagnado: 8, take
 - 2026-11-08T16:20:27 · FLOAT · -4.4% · stop protegido
 - 2026-11-07T16:20:27 · FLOAT · +3.5% · trailing stop
 
+## Posições abertas
+
+- paws +0.0% (custo $40.19, stop -12%)

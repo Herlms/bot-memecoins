@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 803.7889874929089,
-  "posicoes": {},
+  "caixa": 763.5995381182635,
+  "posicoes": {
+    "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump": {
+      "simbolo": "paws",
+      "url": "https://dexscreener.com/solana/2rmaftfzmjtlxdpgrvk417rlc9gbd3jgbaqtttmfg3af",
+      "qtd": 31018.26594449721,
+      "custo": 40.18944937464544,
+      "preco_entrada": 0.001276,
+      "preco_atual": 0.001276,
+      "preco_max": 0.001276,
+      "stop": -12.0,
+      "liq_entrada": 118691.62,
+      "entrada_ts": 1794571248.1822846,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -742,7 +756,8 @@
     "7ymF66Z6VhgNiwadtVhjTtT6U7iQRpSxeiRrhfufhigh": 1793832326.2566926,
     "5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8": 1794030627.443569,
     "8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump": 1794464724.668227,
-    "5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump": 1794517248.5254567
+    "5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump": 1794517248.5254567,
+    "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump": 1794571248.1822863
   },
   "ultimo_simbolo": {
     "dope": 1793787630.6478314,
@@ -774,7 +789,8 @@
     "high": 1793832326.2566934,
     "stank": 1794030627.4435694,
     "nobushiba": 1794464724.668228,
-    "max": 1794517248.5254571
+    "max": 1794517248.5254571,
+    "paws": 1794571248.1822875
   },
   "dia": "2026-11-13",
   "valor_inicio_dia": 803.7889874929089,
