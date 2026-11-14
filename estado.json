@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 780.3795190765766,
+  "caixa": 739.1037096615706,
   "posicoes": {
     "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": {
       "simbolo": "FLOAT",
@@ -8,11 +8,24 @@
       "qtd": 12496.30930884345,
       "custo": 40.45652517163794,
       "preco_entrada": 0.003189,
-      "preco_atual": 0.003665,
+      "preco_atual": 0.003612,
       "preco_max": 0.003813,
       "stop": 4.0,
       "liq_entrada": 322131.56,
       "entrada_ts": 1794631829.3817992,
+      "falhas": 0
+    },
+    "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump": {
+      "simbolo": "Macca",
+      "url": "https://dexscreener.com/solana/4fonnnmmkma66ppcia9557cg63s2bnn9uofcakxxbmvg",
+      "qtd": 15012.711580349536,
+      "custo": 41.27580941500595,
+      "preco_entrada": 0.002708,
+      "preco_atual": 0.002708,
+      "preco_max": 0.002708,
+      "stop": -12.0,
+      "liq_entrada": 198275.88,
+      "entrada_ts": 1794654629.2222984,
       "falhas": 0
     }
   },
@@ -793,7 +806,8 @@
     "5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8": 1794030627.443569,
     "8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump": 1794464724.668227,
     "5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump": 1794517248.5254567,
-    "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump": 1794571248.1822863
+    "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump": 1794571248.1822863,
+    "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump": 1794654629.2223
   },
   "ultimo_simbolo": {
     "dope": 1793787630.6478314,
@@ -826,7 +840,8 @@
     "stank": 1794030627.4435694,
     "nobushiba": 1794464724.668228,
     "max": 1794517248.5254571,
-    "paws": 1794571248.1822875
+    "paws": 1794571248.1822875,
+    "macca": 1794654629.2223012
   },
   "dia": "2026-11-14",
   "valor_inicio_dia": 797.5044197852268,
