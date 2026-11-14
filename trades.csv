@@ -61,3 +61,4 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-11-13T12:45:27,paws,Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump,40.19,33.9,-6.28,-15.64,0.74,stop loss,https://dexscreener.com/solana/2rmaftfzmjtlxdpgrvk417rlc9gbd3jgbaqtttmfg3af
 2026-11-14T01:15:34,NIO,7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump,39.87,40.22,0.35,0.87,0.58,stop protegido,https://dexscreener.com/solana/b4wmjc6pvjctu3qsvs3ett9mr4m5v5jbkrqctwantc71
 2026-11-14T05:45:27,WASTED,GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump,39.88,62.86,22.98,57.64,5.34,take profit,https://dexscreener.com/solana/tt7dks9yjjzj1fwmgopmkbmdrezzymamrhodcgdfwqn
+2026-11-14T12:35:21,FLOAT,Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr,40.46,38.82,-1.64,-4.05,7.75,stop protegido,https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a

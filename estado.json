@@ -1,27 +1,14 @@
 {
   "versao": 2,
-  "caixa": 739.1037096615706,
+  "caixa": 777.9230532089692,
   "posicoes": {
-    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": {
-      "simbolo": "FLOAT",
-      "url": "https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a",
-      "qtd": 12496.30930884345,
-      "custo": 40.45652517163794,
-      "preco_entrada": 0.003189,
-      "preco_atual": 0.003433,
-      "preco_max": 0.003813,
-      "stop": 4.0,
-      "liq_entrada": 322131.56,
-      "entrada_ts": 1794631829.3817992,
-      "falhas": 0
-    },
     "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump": {
       "simbolo": "Macca",
       "url": "https://dexscreener.com/solana/4fonnnmmkma66ppcia9557cg63s2bnn9uofcakxxbmvg",
       "qtd": 15012.711580349536,
       "custo": 41.27580941500595,
       "preco_entrada": 0.002708,
-      "preco_atual": 0.002556,
+      "preco_atual": 0.00256,
       "preco_max": 0.002715,
       "stop": -12.0,
       "liq_entrada": 198275.88,
@@ -773,6 +760,18 @@
       "horas": 5.34,
       "motivo": "take profit",
       "url": "https://dexscreener.com/solana/tt7dks9yjjzj1fwmgopmkbmdrezzymamrhodcgdfwqn"
+    },
+    {
+      "data_saida": "2026-11-14T12:35:21",
+      "simbolo": "FLOAT",
+      "token": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr",
+      "custo_usd": 40.46,
+      "recebido_usd": 38.82,
+      "pnl_usd": -1.64,
+      "pnl_pct": -4.05,
+      "horas": 7.75,
+      "motivo": "stop protegido",
+      "url": "https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a"
     }
   ],
   "ultimo_trade": {
@@ -845,8 +844,8 @@
   },
   "dia": "2026-11-14",
   "valor_inicio_dia": 797.5044197852268,
-  "pnl_dia": 23.331624462987854,
-  "perdas_seguidas": 0,
+  "pnl_dia": 21.694442838748508,
+  "perdas_seguidas": 1,
   "pausa_ate": 1794595527.2823458,
   "inicio": "2026-10-23T21:40:26"
 }
