@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 757.9766166492683,
+  "caixa": 717.5200914776303,
   "posicoes": {
     "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": {
       "simbolo": "WASTED",
@@ -8,11 +8,24 @@
       "qtd": 21684.56413034781,
       "custo": 39.87522098926134,
       "preco_entrada": 0.001811,
-      "preco_atual": 0.002298,
+      "preco_atual": 0.002359,
       "preco_max": 0.002472,
       "stop": 4.0,
       "liq_entrada": 126368.34,
       "entrada_ts": 1794615921.0699284,
+      "falhas": 0
+    },
+    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": {
+      "simbolo": "FLOAT",
+      "url": "https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a",
+      "qtd": 12496.30930884345,
+      "custo": 40.45652517163794,
+      "preco_entrada": 0.003189,
+      "preco_atual": 0.003189,
+      "preco_max": 0.003189,
+      "stop": -12.0,
+      "liq_entrada": 322131.56,
+      "entrada_ts": 1794631829.3817992,
       "falhas": 0
     }
   },
@@ -773,7 +786,7 @@
     "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump": 1793535327.5514255,
     "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1793734261.7152386,
     "wMHBD2B8KbDagvXUEapginhtJdrH4QSvSezBM8Tpump": 1793590239.4484153,
-    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": 1794122128.1014013,
+    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": 1794631829.3818007,
     "APLPiTjBWzwfZ5U1TBeqLF9XJ7dV7XKGe7j4BZhkDray": 1793594726.2770183,
     "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": 1794615921.0699294,
     "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK": 1793707253.7768326,
@@ -806,7 +819,7 @@
     "anakin": 1793535327.5514264,
     "choo": 1793734261.7152395,
     "ants": 1793590239.4484165,
-    "float": 1794122128.1014018,
+    "float": 1794631829.3818011,
     "peak": 1793594726.2770185,
     "wasted": 1794615921.0699303,
     "mamesuke": 1793707253.776833,
