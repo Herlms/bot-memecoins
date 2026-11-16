@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-16 09:05 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-16 09:10 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $810.80** (-18.92% vs $1000)
+**Valor da carteira: $810.98** (-18.90% vs $1000)
 
 Caixa: $766.58 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop protegido: 10, trailing stop: 10, stop loss: 35, estagnado: 8, tak
 
 ## Posições abertas
 
-- Rocco +11.3% (custo $40.35, stop +4%)
+- Rocco +11.7% (custo $40.35, stop +4%)
