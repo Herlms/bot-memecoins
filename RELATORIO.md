@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-16 14:00 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-16 14:05 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $813.78** (-18.62% vs $1000)
+**Valor da carteira: $815.35** (-18.46% vs $1000)
 
 Caixa: $770.67 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop protegido: 10, trailing stop: 11, stop loss: 35, estagnado: 8, tak
 
 ## Posições abertas
 
-- rockstar +7.9% (custo $40.56, stop -12%)
+- rockstar +11.9% (custo $40.56, stop -12%)
