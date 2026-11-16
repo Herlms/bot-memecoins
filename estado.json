@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 806.9270427085364,
-  "posicoes": {},
+  "caixa": 766.5806905731096,
+  "posicoes": {
+    "HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump": {
+      "simbolo": "Rocco",
+      "url": "https://dexscreener.com/solana/3jw1ykkqutngnudgbrwxpvzktmff4pwytotp3texhkbq",
+      "qtd": 35068.82833187451,
+      "custo": 40.34635213542683,
+      "preco_entrada": 0.001133,
+      "preco_atual": 0.001133,
+      "preco_max": 0.001133,
+      "stop": -12.0,
+      "liq_entrada": 112040.49,
+      "entrada_ts": 1794802528.251138,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -816,7 +830,8 @@
     "8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump": 1794464724.668227,
     "5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump": 1794517248.5254567,
     "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump": 1794571248.1822863,
-    "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump": 1794654629.2223
+    "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump": 1794654629.2223,
+    "HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump": 1794802528.2511396
   },
   "ultimo_simbolo": {
     "dope": 1793787630.6478314,
@@ -850,7 +865,8 @@
     "nobushiba": 1794464724.668228,
     "max": 1794517248.5254571,
     "paws": 1794571248.1822875,
-    "macca": 1794654629.2223012
+    "macca": 1794654629.2223012,
+    "rocco": 1794802528.2511404
   },
   "dia": "2026-11-16",
   "valor_inicio_dia": 806.9270427085364,
