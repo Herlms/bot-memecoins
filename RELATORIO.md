@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-16 11:05 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-16 11:10 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $812.98** (-18.70% vs $1000)
+**Valor da carteira: $811.23** (-18.88% vs $1000)
 
-Caixa: $766.58 · Posições abertas: 1
+Caixa: $811.23 · Posições abertas: 0
 
-Trades fechados: 65 · Ganhadores: 16 (25%)
+Trades fechados: 66 · Ganhadores: 17 (26%)
 
-P&L realizado: $-193.09 · Média por trade: -6.5%
+P&L realizado: $-188.79 · Média por trade: -6.3%
 
-Ganho médio: +14.1% · Perda média: -13.2% · Profit factor: 0.33 (acima de 1 = ganha dinheiro)
+Ganho médio: +13.9% · Perda média: -13.2% · Profit factor: 0.35 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 10, trailing stop: 10, stop loss: 35, estagnado: 8, take profit: 2
+Saídas: stop protegido: 10, trailing stop: 11, stop loss: 35, estagnado: 8, take profit: 2
 
 ## Últimos 10 trades
 
+- 2026-11-16T11:10:28 · Rocco · +10.7% · trailing stop
 - 2026-11-15T19:20:28 · WASTED · -15.2% · stop loss
 - 2026-11-14T15:15:27 · Macca · -14.8% · stop loss
 - 2026-11-14T12:35:21 · FLOAT · -4.0% · stop protegido
@@ -25,8 +26,4 @@ Saídas: stop protegido: 10, trailing stop: 10, stop loss: 35, estagnado: 8, tak
 - 2026-11-12T21:15:27 · Max · -17.4% · stop loss
 - 2026-11-12T09:55:22 · NOBUSHIBA · -1.8% · stop protegido
 - 2026-11-11T23:50:26 · DacityCoin · +13.9% · trailing stop
-- 2026-11-11T22:40:28 · WASTED · -15.4% · stop loss
 
-## Posições abertas
-
-- Rocco +16.8% (custo $40.35, stop +4%)

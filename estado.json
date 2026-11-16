@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 766.5806905731096,
-  "posicoes": {
-    "HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump": {
-      "simbolo": "Rocco",
-      "url": "https://dexscreener.com/solana/3jw1ykkqutngnudgbrwxpvzktmff4pwytotp3texhkbq",
-      "qtd": 35068.82833187451,
-      "custo": 40.34635213542683,
-      "preco_entrada": 0.001133,
-      "preco_atual": 0.001323,
-      "preco_max": 0.001502,
-      "stop": 4.0,
-      "liq_entrada": 112040.49,
-      "entrada_ts": 1794802528.251138,
-      "falhas": 0
-    }
-  },
+  "caixa": 811.2298306935147,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -796,6 +782,18 @@
       "horas": 3.75,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/tt7dks9yjjzj1fwmgopmkbmdrezzymamrhodcgdfwqn"
+    },
+    {
+      "data_saida": "2026-11-16T11:10:28",
+      "simbolo": "Rocco",
+      "token": "HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump",
+      "custo_usd": 40.35,
+      "recebido_usd": 44.65,
+      "pnl_usd": 4.3,
+      "pnl_pct": 10.66,
+      "horas": 6.92,
+      "motivo": "trailing stop",
+      "url": "https://dexscreener.com/solana/3jw1ykkqutngnudgbrwxpvzktmff4pwytotp3texhkbq"
     }
   ],
   "ultimo_trade": {
@@ -870,7 +868,7 @@
   },
   "dia": "2026-11-16",
   "valor_inicio_dia": 806.9270427085364,
-  "pnl_dia": 0.0,
+  "pnl_dia": 4.30278798497838,
   "perdas_seguidas": 0,
   "pausa_ate": 1794792028.2681746,
   "inicio": "2026-10-23T21:40:26"
