@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 770.668339158839,
-  "posicoes": {
-    "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": {
-      "simbolo": "rockstar",
-      "url": "https://dexscreener.com/solana/5pynpptnpdg5resu3vqejkqhepij1uwp5l7a2cchmxdy",
-      "qtd": 34111.26010478171,
-      "custo": 40.56149153467573,
-      "preco_entrada": 0.001171,
-      "preco_atual": 0.001421,
-      "preco_max": 0.001421,
-      "stop": 4.0,
-      "liq_entrada": 108333.71,
-      "entrada_ts": 1794835523.2951303,
-      "falhas": 0
-    }
-  },
+  "caixa": 812.116511243428,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -808,6 +794,18 @@
       "horas": 6.92,
       "motivo": "trailing stop",
       "url": "https://dexscreener.com/solana/3jw1ykkqutngnudgbrwxpvzktmff4pwytotp3texhkbq"
+    },
+    {
+      "data_saida": "2026-11-16T14:25:21",
+      "simbolo": "rockstar",
+      "token": "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump",
+      "custo_usd": 40.56,
+      "recebido_usd": 41.45,
+      "pnl_usd": 0.89,
+      "pnl_pct": 2.19,
+      "horas": 1.0,
+      "motivo": "trailing stop",
+      "url": "https://dexscreener.com/solana/5pynpptnpdg5resu3vqejkqhepij1uwp5l7a2cchmxdy"
     }
   ],
   "ultimo_trade": {
@@ -884,7 +882,7 @@
   },
   "dia": "2026-11-16",
   "valor_inicio_dia": 806.9270427085364,
-  "pnl_dia": 4.30278798497838,
+  "pnl_dia": 5.18946853489166,
   "perdas_seguidas": 0,
   "pausa_ate": 1794792028.2681746,
   "inicio": "2026-10-23T21:40:26"
