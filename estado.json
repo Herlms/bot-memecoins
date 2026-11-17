@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 804.9641309355209,
-  "posicoes": {},
+  "caixa": 764.7159243887448,
+  "posicoes": {
+    "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": {
+      "simbolo": "WASTED",
+      "url": "https://dexscreener.com/solana/tt7dks9yjjzj1fwmgopmkbmdrezzymamrhodcgdfwqn",
+      "qtd": 12762.788231527822,
+      "custo": 40.248206546776046,
+      "preco_entrada": 0.003106,
+      "preco_atual": 0.003106,
+      "preco_max": 0.003106,
+      "stop": -12.0,
+      "liq_entrada": 170950.07,
+      "entrada_ts": 1794958828.858197,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -845,7 +859,7 @@
     "wMHBD2B8KbDagvXUEapginhtJdrH4QSvSezBM8Tpump": 1793590239.4484153,
     "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": 1794631829.3818007,
     "APLPiTjBWzwfZ5U1TBeqLF9XJ7dV7XKGe7j4BZhkDray": 1793594726.2770183,
-    "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": 1794756922.51299,
+    "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": 1794958828.8581982,
     "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK": 1793707253.7768326,
     "7ymF66Z6VhgNiwadtVhjTtT6U7iQRpSxeiRrhfufhigh": 1793832326.2566926,
     "5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8": 1794030627.443569,
@@ -881,7 +895,7 @@
     "ants": 1793590239.4484165,
     "float": 1794631829.3818011,
     "peak": 1793594726.2770185,
-    "wasted": 1794756922.512991,
+    "wasted": 1794958828.8581991,
     "mamesuke": 1793707253.776833,
     "high": 1793832326.2566934,
     "stank": 1794030627.4435694,
