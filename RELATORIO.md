@@ -1,21 +1,24 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-18 12:10 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-18 12:15 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $793.70** (-20.63% vs $1000)
+**Valor da carteira: $792.86** (-20.71% vs $1000)
 
-Caixa: $758.82 · Posições abertas: 1
+Caixa: $792.86 · Posições abertas: 0
 
-Trades fechados: 69 · Ganhadores: 18 (26%)
+⚠️ Sem novas compras: pausa após perdas seguidas (6.0h restantes).
 
-P&L realizado: $-201.26 · Média por trade: -6.4%
+Trades fechados: 70 · Ganhadores: 18 (26%)
 
-Ganho médio: +13.2% · Perda média: -13.4% · Profit factor: 0.34 (acima de 1 = ganha dinheiro)
+P&L realizado: $-207.15 · Média por trade: -6.5%
 
-Saídas: stop protegido: 10, trailing stop: 12, stop loss: 37, estagnado: 8, take profit: 2
+Ganho médio: +13.2% · Perda média: -13.4% · Profit factor: 0.33 (acima de 1 = ganha dinheiro)
+
+Saídas: stop protegido: 10, trailing stop: 12, stop loss: 38, estagnado: 8, take profit: 2
 
 ## Últimos 10 trades
 
+- 2026-11-18T12:15:27 · Max · -14.8% · stop loss
 - 2026-11-18T03:55:22 · WASTED · -15.4% · stop loss
 - 2026-11-16T20:25:21 · Max · -17.6% · stop loss
 - 2026-11-16T14:25:21 · rockstar · +2.2% · trailing stop
@@ -25,8 +28,4 @@ Saídas: stop protegido: 10, trailing stop: 12, stop loss: 37, estagnado: 8, tak
 - 2026-11-14T12:35:21 · FLOAT · -4.0% · stop protegido
 - 2026-11-14T05:45:27 · WASTED · +57.6% · take profit
 - 2026-11-14T01:15:34 · NIO · +0.9% · stop protegido
-- 2026-11-13T12:45:27 · paws · -15.6% · stop loss
 
-## Posições abertas
-
-- Max -11.3% (custo $39.94, stop -12%)
