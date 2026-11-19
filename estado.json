@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 753.2206253134433,
-  "posicoes": {
-    "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump": {
-      "simbolo": "SHIT",
-      "url": "https://dexscreener.com/solana/d1lxpkfpbqr1ywvgwyqsed93czdz8ha7s9g7yb8lmffe",
-      "qtd": 15062.589224648511,
-      "custo": 39.6431908059707,
-      "preco_entrada": 0.002592,
-      "preco_atual": 0.002851,
-      "preco_max": 0.003106,
-      "stop": 4.0,
-      "liq_entrada": 125616.82,
-      "entrada_ts": 1795053651.9628167,
-      "falhas": 0
-    }
-  },
+  "caixa": 793.0167343655511,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -856,6 +842,18 @@
       "horas": 7.92,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/eoe22hdca9rhtbwkl6nnzmzxfuzf35xkxobcvfaf1vwq"
+    },
+    {
+      "data_saida": "2026-11-19T03:55:20",
+      "simbolo": "SHIT",
+      "token": "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump",
+      "custo_usd": 39.64,
+      "recebido_usd": 39.8,
+      "pnl_usd": 0.15,
+      "pnl_pct": 0.39,
+      "horas": 1.91,
+      "motivo": "stop protegido",
+      "url": "https://dexscreener.com/solana/d1lxpkfpbqr1ywvgwyqsed93czdz8ha7s9g7yb8lmffe"
     }
   ],
   "ultimo_trade": {
@@ -934,7 +932,7 @@
   },
   "dia": "2026-11-19",
   "valor_inicio_dia": 792.863816119414,
-  "pnl_dia": 0.0,
+  "pnl_dia": 0.15291824613710503,
   "perdas_seguidas": 0,
   "pausa_ate": 1795025727.4666245,
   "inicio": "2026-10-23T21:40:26"
