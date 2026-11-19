@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 784.6142742345579,
-  "posicoes": {},
+  "caixa": 745.3835605228301,
+  "posicoes": {
+    "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump": {
+      "simbolo": "Leonida",
+      "url": "https://dexscreener.com/solana/6ecx5lm5dinvma1xwmeumj6abzl3g1xx4t5rxqxelzdn",
+      "qtd": 21415.477490051107,
+      "custo": 39.230713711727894,
+      "preco_entrada": 0.001804,
+      "preco_atual": 0.001804,
+      "preco_max": 0.001804,
+      "stop": -12.0,
+      "liq_entrada": 103078.64,
+      "entrada_ts": 1795066243.0481226,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -904,7 +918,8 @@
     "HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump": 1794802528.2511396,
     "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": 1794835523.2951317,
     "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump": 1795053651.9628181,
-    "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": 1795062322.1871545
+    "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": 1795062322.1871545,
+    "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump": 1795066243.0481238
   },
   "ultimo_simbolo": {
     "dope": 1793787630.6478314,
@@ -942,7 +957,8 @@
     "rocco": 1794802528.2511404,
     "rockstar": 1794835523.295132,
     "shit": 1795053651.9628186,
-    "hoge": 1795062322.187155
+    "hoge": 1795062322.187155,
+    "leonida": 1795066243.0481248
   },
   "dia": "2026-11-19",
   "valor_inicio_dia": 792.863816119414,
