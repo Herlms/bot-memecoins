@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-19 04:45 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-19 04:50 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $791.38** (-20.86% vs $1000)
+**Valor da carteira: $790.70** (-20.93% vs $1000)
 
 Caixa: $753.37 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop protegido: 11, trailing stop: 12, stop loss: 38, estagnado: 8, tak
 
 ## Posições abertas
 
-- HOGE -2.7% (custo $39.65, stop -12%)
+- HOGE -4.4% (custo $39.65, stop -12%)
