@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 793.0167343655511,
-  "posicoes": {},
+  "caixa": 753.3658976472735,
+  "posicoes": {
+    "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": {
+      "simbolo": "HOGE",
+      "url": "https://dexscreener.com/solana/7cnc9ggegzeffk8flxiyuhdtmeefpqzond56u1mxhnor",
+      "qtd": 30628.154939890926,
+      "custo": 39.65083671827755,
+      "preco_entrada": 0.001275,
+      "preco_atual": 0.001275,
+      "preco_max": 0.001275,
+      "stop": -12.0,
+      "liq_entrada": 138546.82,
+      "entrada_ts": 1795062322.1871533,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -891,7 +905,8 @@
     "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump": 1794654629.2223,
     "HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump": 1794802528.2511396,
     "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": 1794835523.2951317,
-    "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump": 1795053651.9628181
+    "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump": 1795053651.9628181,
+    "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": 1795062322.1871545
   },
   "ultimo_simbolo": {
     "dope": 1793787630.6478314,
@@ -928,7 +943,8 @@
     "macca": 1794654629.2223012,
     "rocco": 1794802528.2511404,
     "rockstar": 1794835523.295132,
-    "shit": 1795053651.9628186
+    "shit": 1795053651.9628186,
+    "hoge": 1795062322.187155
   },
   "dia": "2026-11-19",
   "valor_inicio_dia": 792.863816119414,
