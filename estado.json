@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 745.3835605228301,
-  "posicoes": {
-    "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump": {
-      "simbolo": "Leonida",
-      "url": "https://dexscreener.com/solana/6ecx5lm5dinvma1xwmeumj6abzl3g1xx4t5rxqxelzdn",
-      "qtd": 21415.477490051107,
-      "custo": 39.230713711727894,
-      "preco_entrada": 0.001804,
-      "preco_atual": 0.002128,
-      "preco_max": 0.002128,
-      "stop": 4.0,
-      "liq_entrada": 103078.64,
-      "entrada_ts": 1795066243.0481226,
-      "falhas": 0
-    }
-  },
+  "caixa": 783.9100322614318,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -880,6 +866,18 @@
       "horas": 0.83,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/7cnc9ggegzeffk8flxiyuhdtmeefpqzond56u1mxhnor"
+    },
+    {
+      "data_saida": "2026-11-19T06:00:50",
+      "simbolo": "Leonida",
+      "token": "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump",
+      "custo_usd": 39.23,
+      "recebido_usd": 38.53,
+      "pnl_usd": -0.7,
+      "pnl_pct": -1.8,
+      "horas": 0.5,
+      "motivo": "stop protegido",
+      "url": "https://dexscreener.com/solana/6ecx5lm5dinvma1xwmeumj6abzl3g1xx4t5rxqxelzdn"
     }
   ],
   "ultimo_trade": {
@@ -962,8 +960,8 @@
   },
   "dia": "2026-11-19",
   "valor_inicio_dia": 792.863816119414,
-  "pnl_dia": -8.249541884856054,
-  "perdas_seguidas": 1,
+  "pnl_dia": -8.953783857982284,
+  "perdas_seguidas": 2,
   "pausa_ate": 1795025727.4666245,
   "inicio": "2026-10-23T21:40:26"
 }
