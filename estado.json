@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 792.863816119414,
-  "posicoes": {},
+  "caixa": 753.2206253134433,
+  "posicoes": {
+    "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump": {
+      "simbolo": "SHIT",
+      "url": "https://dexscreener.com/solana/d1lxpkfpbqr1ywvgwyqsed93czdz8ha7s9g7yb8lmffe",
+      "qtd": 15062.589224648511,
+      "custo": 39.6431908059707,
+      "preco_entrada": 0.002592,
+      "preco_atual": 0.002592,
+      "preco_max": 0.002592,
+      "stop": -12.0,
+      "liq_entrada": 125616.82,
+      "entrada_ts": 1795053651.9628167,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -878,7 +892,8 @@
     "Fp4JkqEcKYKBKhb9iMu9NSDeo71HWgq2q9QtXaaKpump": 1794571248.1822863,
     "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump": 1794654629.2223,
     "HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump": 1794802528.2511396,
-    "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": 1794835523.2951317
+    "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": 1794835523.2951317,
+    "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump": 1795053651.9628181
   },
   "ultimo_simbolo": {
     "dope": 1793787630.6478314,
@@ -914,7 +929,8 @@
     "paws": 1794571248.1822875,
     "macca": 1794654629.2223012,
     "rocco": 1794802528.2511404,
-    "rockstar": 1794835523.295132
+    "rockstar": 1794835523.295132,
+    "shit": 1795053651.9628186
   },
   "dia": "2026-11-19",
   "valor_inicio_dia": 792.863816119414,
