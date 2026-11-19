@@ -1,21 +1,24 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-19 21:00 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-19 21:05 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $778.52** (-22.15% vs $1000)
+**Valor da carteira: $775.96** (-22.40% vs $1000)
 
-Caixa: $705.55 · Posições abertas: 2
+Caixa: $738.57 · Posições abertas: 1
 
-Trades fechados: 73 · Ganhadores: 19 (26%)
+⚠️ Sem novas compras: pausa após perdas seguidas (6.0h restantes).
 
-P&L realizado: $-216.10 · Média por trade: -6.6%
+Trades fechados: 74 · Ganhadores: 19 (26%)
 
-Ganho médio: +12.6% · Perda média: -13.3% · Profit factor: 0.32 (acima de 1 = ganha dinheiro)
+P&L realizado: $-222.24 · Média por trade: -6.7%
 
-Saídas: stop protegido: 12, trailing stop: 12, stop loss: 39, estagnado: 8, take profit: 2
+Ganho médio: +12.6% · Perda média: -13.4% · Profit factor: 0.31 (acima de 1 = ganha dinheiro)
+
+Saídas: stop protegido: 12, trailing stop: 12, stop loss: 40, estagnado: 8, take profit: 2
 
 ## Últimos 10 trades
 
+- 2026-11-19T21:05:22 · WASTED · -15.7% · stop loss
 - 2026-11-19T06:00:50 · Leonida · -1.8% · stop protegido
 - 2026-11-19T05:15:27 · HOGE · -21.2% · stop loss
 - 2026-11-19T03:55:20 · SHIT · +0.4% · stop protegido
@@ -25,9 +28,7 @@ Saídas: stop protegido: 12, trailing stop: 12, stop loss: 39, estagnado: 8, tak
 - 2026-11-16T14:25:21 · rockstar · +2.2% · trailing stop
 - 2026-11-16T11:10:28 · Rocco · +10.7% · trailing stop
 - 2026-11-15T19:20:28 · WASTED · -15.2% · stop loss
-- 2026-11-14T15:15:27 · Macca · -14.8% · stop loss
 
 ## Posições abertas
 
-- mihao -0.0% (custo $39.20, stop -12%)
-- WASTED -10.9% (custo $39.16, stop -12%)
+- mihao -3.2% (custo $39.20, stop -12%)
