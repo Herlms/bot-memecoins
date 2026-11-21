@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-21 00:25 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-21 00:30 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $771.75** (-22.82% vs $1000)
+**Valor da carteira: $771.17** (-22.88% vs $1000)
 
-Caixa: $771.75 · Posições abertas: 0
+Caixa: $733.16 · Posições abertas: 1
 
 Trades fechados: 75 · Ganhadores: 19 (25%)
 
@@ -27,3 +27,6 @@ Saídas: stop protegido: 12, trailing stop: 12, stop loss: 41, estagnado: 8, tak
 - 2026-11-16T14:25:21 · rockstar · +2.2% · trailing stop
 - 2026-11-16T11:10:28 · Rocco · +10.7% · trailing stop
 
+## Posições abertas
+
+- FLOAT +0.0% (custo $38.59, stop -12%)
