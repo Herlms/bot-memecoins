@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 776.2264269354432,
-  "posicoes": {},
+  "caixa": 737.415105588671,
+  "posicoes": {
+    "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump": {
+      "simbolo": "mihao",
+      "url": "https://dexscreener.com/solana/ho1asg6wgh1ffxdehrk2f4ggt1hoxo9s5jclmdqeyebz",
+      "qtd": 5006.602426247999,
+      "custo": 38.81132134677216,
+      "preco_entrada": 0.007636,
+      "preco_atual": 0.007636,
+      "preco_max": 0.007636,
+      "stop": -12.0,
+      "liq_entrada": 326502.07,
+      "entrada_ts": 1795275323.1310563,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -966,7 +980,7 @@
     "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump": 1795053651.9628181,
     "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": 1795062322.1871545,
     "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump": 1795066243.0481238,
-    "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump": 1795117831.951813,
+    "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump": 1795275323.1310592,
     "65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring": 1795256430.3270214
   },
   "ultimo_simbolo": {
@@ -1007,7 +1021,7 @@
     "shit": 1795053651.9628186,
     "hoge": 1795062322.187155,
     "leonida": 1795066243.0481248,
-    "mihao": 1795117831.9518135,
+    "mihao": 1795275323.1310604,
     "rings": 1795256430.327022
   },
   "dia": "2026-11-21",
