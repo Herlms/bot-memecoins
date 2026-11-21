@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-21 13:50 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-21 13:55 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $780.84** (-21.92% vs $1000)
+**Valor da carteira: $776.23** (-22.38% vs $1000)
 
-Caixa: $734.72 · Posições abertas: 1
+Caixa: $776.23 · Posições abertas: 0
 
-Trades fechados: 76 · Ganhadores: 20 (26%)
+Trades fechados: 77 · Ganhadores: 21 (27%)
 
-P&L realizado: $-226.62 · Média por trade: -6.7%
+P&L realizado: $-223.78 · Média por trade: -6.5%
 
-Ganho médio: +12.1% · Perda média: -13.4% · Profit factor: 0.31 (acima de 1 = ganha dinheiro)
+Ganho médio: +11.9% · Perda média: -13.4% · Profit factor: 0.32 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 12, trailing stop: 13, stop loss: 41, estagnado: 8, take profit: 2
+Saídas: stop protegido: 12, trailing stop: 14, stop loss: 41, estagnado: 8, take profit: 2
 
 ## Últimos 10 trades
 
+- 2026-11-21T13:55:23 · Rings · +7.3% · trailing stop
 - 2026-11-21T03:55:22 · FLOAT · +4.2% · trailing stop
 - 2026-11-19T22:10:29 · mihao · -15.4% · stop loss
 - 2026-11-19T21:05:22 · WASTED · -15.7% · stop loss
@@ -25,8 +26,4 @@ Saídas: stop protegido: 12, trailing stop: 13, stop loss: 41, estagnado: 8, tak
 - 2026-11-18T12:15:27 · Max · -14.8% · stop loss
 - 2026-11-18T03:55:22 · WASTED · -15.4% · stop loss
 - 2026-11-16T20:25:21 · Max · -17.6% · stop loss
-- 2026-11-16T14:25:21 · rockstar · +2.2% · trailing stop
 
-## Posições abertas
-
-- Rings +21.1% (custo $38.67, stop +4%)

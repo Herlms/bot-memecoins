@@ -8509,3 +8509,5 @@
 [2026-11-21 13:40:31] Procura (SOL ok (1h +1.8%, 24h -0.3%)): 85 tokens, 0 passaram. Rejeições: liquidez baixa: 50, idade fora: 13, FDV fora: 13, sem preço: 4 | Carteira $780.91
 [2026-11-21 13:45:29] Procura (SOL ok (1h +1.7%, 24h -0.5%)): 85 tokens, 0 passaram. Rejeições: liquidez baixa: 51, FDV fora: 13, idade fora: 12, sem preço: 4 | Carteira $780.54
 [2026-11-21 13:50:31] Procura (SOL ok (1h +2.2%, 24h -0.6%)): 86 tokens, 0 passaram. Rejeições: liquidez baixa: 51, idade fora: 13, FDV fora: 13, sem preço: 4 | Carteira $780.84
+[2026-11-21 13:55:23] VENDA Rings | trailing stop | P&L $+2.84 (+7.3%)
+[2026-11-21 13:55:24] Procura (SOL ok (1h +2.1%, 24h -0.7%)): 86 tokens, 0 passaram. Rejeições: liquidez baixa: 50, idade fora: 14, FDV fora: 13, sem preço: 5 | Carteira $776.23
