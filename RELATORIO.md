@@ -1,21 +1,24 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-21 21:35 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-21 21:40 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $770.53** (-22.95% vs $1000)
+**Valor da carteira: $767.19** (-23.28% vs $1000)
 
-Caixa: $735.84 · Posições abertas: 1
+Caixa: $767.19 · Posições abertas: 0
 
-Trades fechados: 79 · Ganhadores: 21 (27%)
+⚠️ Sem novas compras: pausa após perdas seguidas (6.0h restantes).
 
-P&L realizado: $-225.44 · Média por trade: -6.4%
+Trades fechados: 80 · Ganhadores: 21 (26%)
 
-Ganho médio: +11.9% · Perda média: -13.0% · Profit factor: 0.32 (acima de 1 = ganha dinheiro)
+P&L realizado: $-232.82 · Média por trade: -6.5%
 
-Saídas: stop protegido: 14, trailing stop: 14, stop loss: 41, estagnado: 8, take profit: 2
+Ganho médio: +11.9% · Perda média: -13.1% · Profit factor: 0.31 (acima de 1 = ganha dinheiro)
+
+Saídas: stop protegido: 14, trailing stop: 14, stop loss: 42, estagnado: 8, take profit: 2
 
 ## Últimos 10 trades
 
+- 2026-11-21T21:40:31 · FIONA · -19.1% · stop loss
 - 2026-11-21T20:00:49 · SHIT · -3.4% · stop protegido
 - 2026-11-21T19:50:31 · mihao · -0.9% · stop protegido
 - 2026-11-21T13:55:23 · Rings · +7.3% · trailing stop
@@ -25,8 +28,4 @@ Saídas: stop protegido: 14, trailing stop: 14, stop loss: 41, estagnado: 8, tak
 - 2026-11-19T06:00:50 · Leonida · -1.8% · stop protegido
 - 2026-11-19T05:15:27 · HOGE · -21.2% · stop loss
 - 2026-11-19T03:55:20 · SHIT · +0.4% · stop protegido
-- 2026-11-18T12:15:27 · Max · -14.8% · stop loss
 
-## Posições abertas
-
-- FIONA -9.1% (custo $38.73, stop -12%)
