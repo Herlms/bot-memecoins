@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-21 18:40 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-21 18:45 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $779.81** (-22.02% vs $1000)
+**Valor da carteira: $779.73** (-22.03% vs $1000)
 
 Caixa: $698.43 · Posições abertas: 2
 
@@ -29,5 +29,5 @@ Saídas: stop protegido: 12, trailing stop: 14, stop loss: 41, estagnado: 8, tak
 
 ## Posições abertas
 
-- mihao +13.9% (custo $38.81, stop +4%)
-- SHIT -1.4% (custo $38.98, stop -12%)
+- mihao +10.0% (custo $38.81, stop +4%)
+- SHIT +2.2% (custo $38.98, stop -12%)
