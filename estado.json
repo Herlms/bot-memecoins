@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 737.415105588671,
+  "caixa": 698.4340673865739,
   "posicoes": {
     "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump": {
       "simbolo": "mihao",
@@ -8,11 +8,24 @@
       "qtd": 5006.602426247999,
       "custo": 38.81132134677216,
       "preco_entrada": 0.007636,
-      "preco_atual": 0.008049,
-      "preco_max": 0.008049,
+      "preco_atual": 0.00843,
+      "preco_max": 0.00843,
       "stop": -12.0,
       "liq_entrada": 326502.07,
       "entrada_ts": 1795275323.1310563,
+      "falhas": 0
+    },
+    "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump": {
+      "simbolo": "SHIT",
+      "url": "https://dexscreener.com/solana/d1lxpkfpbqr1ywvgwyqsed93czdz8ha7s9g7yb8lmffe",
+      "qtd": 23181.818711631407,
+      "custo": 38.98103820209708,
+      "preco_entrada": 0.001656,
+      "preco_atual": 0.001656,
+      "preco_max": 0.001656,
+      "stop": -12.0,
+      "liq_entrada": 113795.57,
+      "entrada_ts": 1795286122.7514644,
       "falhas": 0
     }
   },
@@ -977,7 +990,7 @@
     "AKotzk1dhcNangAJBtvNKtT9bhbSVZc2mMhRFgkFpump": 1794654629.2223,
     "HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump": 1794802528.2511396,
     "9HFUEab7sompLDPTAaTGkryMNGbtBaFMhHMVpJEBpump": 1794835523.2951317,
-    "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump": 1795053651.9628181,
+    "Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump": 1795286122.751466,
     "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": 1795062322.1871545,
     "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump": 1795066243.0481238,
     "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump": 1795275323.1310592,
@@ -1018,7 +1031,7 @@
     "macca": 1794654629.2223012,
     "rocco": 1794802528.2511404,
     "rockstar": 1794835523.295132,
-    "shit": 1795053651.9628186,
+    "shit": 1795286122.7514665,
     "hoge": 1795062322.187155,
     "leonida": 1795066243.0481248,
     "mihao": 1795275323.1310604,
