@@ -77,3 +77,4 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-11-21T03:55:22,FLOAT,Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr,38.59,40.22,1.64,4.24,3.41,trailing stop,https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a
 2026-11-21T13:55:23,Rings,65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring,38.67,41.51,2.84,7.34,3.58,trailing stop,https://dexscreener.com/solana/8fsuyvnty4r5fzuksjzkexlq2tx96k3updyrvw5xwj9t
 2026-11-21T19:50:31,mihao,4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump,38.81,38.47,-0.34,-0.88,4.25,stop protegido,https://dexscreener.com/solana/ho1asg6wgh1ffxdehrk2f4ggt1hoxo9s5jclmdqeyebz
+2026-11-21T20:00:49,SHIT,Fn95NtGXWPaJXc4N5y9rVkUq1NwZbjBNJzPVvNRLpump,38.98,37.67,-1.32,-3.38,1.42,stop protegido,https://dexscreener.com/solana/d1lxpkfpbqr1ywvgwyqsed93czdz8ha7s9g7yb8lmffe
