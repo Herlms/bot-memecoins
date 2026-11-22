@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 728.0139370457646,
-  "posicoes": {
-    "65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring": {
-      "simbolo": "Rings",
-      "url": "https://dexscreener.com/solana/8fsuyvnty4r5fzuksjzkexlq2tx96k3updyrvw5xwj9t",
-      "qtd": 11231.65527886262,
-      "custo": 38.316523002408665,
-      "preco_entrada": 0.00336,
-      "preco_atual": 0.003119,
-      "preco_max": 0.00336,
-      "stop": -12.0,
-      "liq_entrada": 157259.12,
-      "entrada_ts": 1795365931.199304,
-      "falhas": 0
-    }
-  },
+  "caixa": 760.4786411304237,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -988,6 +974,18 @@
       "horas": 1.33,
       "motivo": "stop protegido",
       "url": "https://dexscreener.com/solana/dextcer4k9dwbxtmu8znvvwgevvmvhmb183pf2xxzwvh"
+    },
+    {
+      "data_saida": "2026-11-22T19:40:34",
+      "simbolo": "Rings",
+      "token": "65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring",
+      "custo_usd": 38.32,
+      "recebido_usd": 32.46,
+      "pnl_usd": -5.85,
+      "pnl_pct": -15.27,
+      "horas": 2.92,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/8fsuyvnty4r5fzuksjzkexlq2tx96k3updyrvw5xwj9t"
     }
   ],
   "ultimo_trade": {
@@ -1078,8 +1076,8 @@
   },
   "dia": "2026-11-22",
   "valor_inicio_dia": 767.1883835675618,
-  "pnl_dia": -0.8579235193886561,
-  "perdas_seguidas": 1,
+  "pnl_dia": -6.709742437138125,
+  "perdas_seguidas": 2,
   "pausa_ate": 1795318831.4731593,
   "inicio": "2026-10-23T21:40:26"
 }
