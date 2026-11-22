@@ -8851,3 +8851,6 @@
 [2026-11-22 16:45:31] Procura (SOL ok (1h +0.5%, 24h +0.2%)): 84 tokens, 1 passaram. Rejeições: liquidez baixa: 53, FDV fora: 11, idade fora: 8, volume baixo: 5 | Carteira $765.75
 [2026-11-22 16:50:30] Procura (SOL ok (1h +0.3%, 24h -0.1%)): 83 tokens, 0 passaram. Rejeições: liquidez baixa: 53, FDV fora: 11, idade fora: 8, volume baixo: 5 | Carteira $765.71
 [2026-11-22 16:55:22] Procura (SOL ok (1h +0.3%, 24h +0.0%)): 83 tokens, 0 passaram. Rejeições: liquidez baixa: 54, FDV fora: 10, idade fora: 8, volume baixo: 5 | Carteira $765.04
+[2026-11-22 17:00:57] Limite de pedidos atingido, a esperar 20s...
+[2026-11-22 17:01:17] Limite de pedidos atingido, a esperar 20s...
+[2026-11-22 17:01:37] Procura (SOL ok (1h +0.5%, 24h -0.1%)): 81 tokens, 0 passaram. Rejeições: liquidez baixa: 53, FDV fora: 9, idade fora: 7, volume baixo: 6 | Carteira $763.25
