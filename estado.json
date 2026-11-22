@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 766.3304600481732,
-  "posicoes": {},
+  "caixa": 728.0139370457646,
+  "posicoes": {
+    "65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring": {
+      "simbolo": "Rings",
+      "url": "https://dexscreener.com/solana/8fsuyvnty4r5fzuksjzkexlq2tx96k3updyrvw5xwj9t",
+      "qtd": 11231.65527886262,
+      "custo": 38.316523002408665,
+      "preco_entrada": 0.00336,
+      "preco_atual": 0.00336,
+      "preco_max": 0.00336,
+      "stop": -12.0,
+      "liq_entrada": 157259.12,
+      "entrada_ts": 1795365931.199304,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -1015,7 +1029,7 @@
     "FVzqGqRmr4UH1Fif6dewmwbJ1p4YUZCu8dcw4Efopump": 1795062322.1871545,
     "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump": 1795066243.0481238,
     "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump": 1795275323.1310592,
-    "65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring": 1795256430.3270214,
+    "65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring": 1795365931.1993058,
     "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump": 1795292132.2040694,
     "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump": 1795359328.7154262
   },
@@ -1058,7 +1072,7 @@
     "hoge": 1795062322.187155,
     "leonida": 1795066243.0481248,
     "mihao": 1795275323.1310604,
-    "rings": 1795256430.327022,
+    "rings": 1795365931.199307,
     "fiona": 1795292132.2040699,
     "dessa": 1795359328.7154272
   },

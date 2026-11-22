@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-22 16:40 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-22 16:45 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $766.33** (-23.37% vs $1000)
+**Valor da carteira: $765.75** (-23.42% vs $1000)
 
-Caixa: $766.33 · Posições abertas: 0
+Caixa: $728.01 · Posições abertas: 1
 
 Trades fechados: 81 · Ganhadores: 21 (26%)
 
@@ -27,3 +27,6 @@ Saídas: stop protegido: 15, trailing stop: 14, stop loss: 42, estagnado: 8, tak
 - 2026-11-19T06:00:50 · Leonida · -1.8% · stop protegido
 - 2026-11-19T05:15:27 · HOGE · -21.2% · stop loss
 
+## Posições abertas
+
+- Rings +0.0% (custo $38.32, stop -12%)
