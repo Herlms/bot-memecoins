@@ -8,9 +8,9 @@
       "qtd": 11952.18183060948,
       "custo": 38.35941917837809,
       "preco_entrada": 0.003161,
-      "preco_atual": 0.003281,
-      "preco_max": 0.003281,
-      "stop": -12.0,
+      "preco_atual": 0.00368,
+      "preco_max": 0.00368,
+      "stop": 4.0,
       "liq_entrada": 161623.27,
       "entrada_ts": 1795359328.7154248,
       "falhas": 0
