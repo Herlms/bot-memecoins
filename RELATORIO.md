@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-23 17:20 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-23 17:25 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $747.47** (-25.25% vs $1000)
+**Valor da carteira: $746.90** (-25.31% vs $1000)
 
-Caixa: $747.47 · Posições abertas: 0
+Caixa: $710.09 · Posições abertas: 1
 
 Trades fechados: 84 · Ganhadores: 21 (25%)
 
@@ -27,3 +27,6 @@ Saídas: stop protegido: 15, trailing stop: 14, stop loss: 45, estagnado: 8, tak
 - 2026-11-21T03:55:22 · FLOAT · +4.2% · trailing stop
 - 2026-11-19T22:10:29 · mihao · -15.4% · stop loss
 
+## Posições abertas
+
+- UCASH +0.0% (custo $37.37, stop -12%)

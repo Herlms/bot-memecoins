@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 747.4653853858337,
-  "posicoes": {},
+  "caixa": 710.092116116542,
+  "posicoes": {
+    "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump": {
+      "simbolo": "UCASH",
+      "url": "https://dexscreener.com/solana/4h7r5jzaq6pgnjfud12aeuqjrqygwz2yhpsra6sh1rxt",
+      "qtd": 18113.566241113916,
+      "custo": 37.37326926929168,
+      "preco_entrada": 0.002032,
+      "preco_atual": 0.002032,
+      "preco_max": 0.002032,
+      "stop": -12.0,
+      "liq_entrada": 118906.58,
+      "entrada_ts": 1795454724.0459285,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -1054,7 +1068,8 @@
     "65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring": 1795365931.1993058,
     "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump": 1795292132.2040694,
     "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump": 1795359328.7154262,
-    "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": 1795425924.2256627
+    "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": 1795425924.2256627,
+    "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump": 1795454724.0459297
   },
   "ultimo_simbolo": {
     "dope": 1793787630.6478314,
@@ -1098,7 +1113,8 @@
     "rings": 1795365931.199307,
     "fiona": 1795292132.2040699,
     "dessa": 1795359328.7154272,
-    "nohr": 1795425924.225663
+    "nohr": 1795425924.225663,
+    "ucash": 1795454724.045931
   },
   "dia": "2026-11-23",
   "valor_inicio_dia": 756.3545734924586,
