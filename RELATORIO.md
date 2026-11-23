@@ -1,21 +1,24 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-23 02:55 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-23 03:00 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $755.55** (-24.45% vs $1000)
+**Valor da carteira: $754.81** (-24.52% vs $1000)
 
-Caixa: $722.45 · Posições abertas: 1
+Caixa: $754.81 · Posições abertas: 0
 
-Trades fechados: 82 · Ganhadores: 21 (26%)
+⚠️ Sem novas compras: pausa após perdas seguidas (6.0h restantes).
 
-P&L realizado: $-239.53 · Média por trade: -6.6%
+Trades fechados: 83 · Ganhadores: 21 (25%)
 
-Ganho médio: +11.9% · Perda média: -13.0% · Profit factor: 0.31 (acima de 1 = ganha dinheiro)
+P&L realizado: $-245.20 · Média por trade: -6.7%
 
-Saídas: stop protegido: 15, trailing stop: 14, stop loss: 43, estagnado: 8, take profit: 2
+Ganho médio: +11.9% · Perda média: -13.0% · Profit factor: 0.30 (acima de 1 = ganha dinheiro)
+
+Saídas: stop protegido: 15, trailing stop: 14, stop loss: 44, estagnado: 8, take profit: 2
 
 ## Últimos 10 trades
 
+- 2026-11-23T03:00:54 · FLOAT · -14.9% · stop loss
 - 2026-11-22T19:40:34 · Rings · -15.3% · stop loss
 - 2026-11-22T16:15:30 · DESSA · -2.2% · stop protegido
 - 2026-11-21T21:40:31 · FIONA · -19.1% · stop loss
@@ -25,8 +28,4 @@ Saídas: stop protegido: 15, trailing stop: 14, stop loss: 43, estagnado: 8, tak
 - 2026-11-21T03:55:22 · FLOAT · +4.2% · trailing stop
 - 2026-11-19T22:10:29 · mihao · -15.4% · stop loss
 - 2026-11-19T21:05:22 · WASTED · -15.7% · stop loss
-- 2026-11-19T06:00:50 · Leonida · -1.8% · stop protegido
 
-## Posições abertas
-
-- FLOAT -11.6% (custo $38.02, stop -12%)
