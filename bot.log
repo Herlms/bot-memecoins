@@ -9229,3 +9229,6 @@
 [2026-11-23 22:31:06] Limite de pedidos atingido, a esperar 20s...
 [2026-11-23 22:31:27] Procura (SOL ok (1h -0.5%, 24h +3.1%)): 94 tokens, 0 passaram. Rejeições: liquidez baixa: 60, FDV fora: 12, idade fora: 11, sem tendência: 6 | Carteira $736.46
 [2026-11-23 22:35:23] Procura (SOL ok (1h -0.7%, 24h +2.9%)): 94 tokens, 0 passaram. Rejeições: liquidez baixa: 61, FDV fora: 11, idade fora: 11, sem tendência: 6 | Carteira $735.39
+[2026-11-23 22:40:29] 3 perdas seguidas — pausa de 6h.
+[2026-11-23 22:40:29] VENDA FIONA | stop loss | P&L $-5.54 (-15.0%)
+[2026-11-23 22:40:29] Sem novas compras: pausa após perdas seguidas (6.0h restantes).
