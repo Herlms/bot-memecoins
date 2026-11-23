@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 754.8078139314015,
-  "posicoes": {},
+  "caixa": 717.0674232348314,
+  "posicoes": {
+    "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": {
+      "simbolo": "NOHR",
+      "url": "https://dexscreener.com/solana/fbqxu5ezpbbv4vktfd83qperygcotcvqzrtabsxhqs2m",
+      "qtd": 20376.122317870995,
+      "custo": 37.740390696570074,
+      "preco_entrada": 0.001824,
+      "preco_atual": 0.001824,
+      "preco_max": 0.001824,
+      "stop": -12.0,
+      "liq_entrada": 100325.06,
+      "entrada_ts": 1795425924.225661,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -1041,7 +1055,8 @@
     "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump": 1795275323.1310592,
     "65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring": 1795365931.1993058,
     "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump": 1795292132.2040694,
-    "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump": 1795359328.7154262
+    "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump": 1795359328.7154262,
+    "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": 1795425924.2256627
   },
   "ultimo_simbolo": {
     "dope": 1793787630.6478314,
@@ -1084,7 +1099,8 @@
     "mihao": 1795275323.1310604,
     "rings": 1795365931.199307,
     "fiona": 1795292132.2040699,
-    "dessa": 1795359328.7154272
+    "dessa": 1795359328.7154272,
+    "nohr": 1795425924.225663
   },
   "dia": "2026-11-23",
   "valor_inicio_dia": 756.3545734924586,

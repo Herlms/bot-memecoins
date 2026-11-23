@@ -1,10 +1,10 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-23 09:20 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-23 09:25 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $754.81** (-24.52% vs $1000)
+**Valor da carteira: $754.23** (-24.58% vs $1000)
 
-Caixa: $754.81 · Posições abertas: 0
+Caixa: $717.07 · Posições abertas: 1
 
 Trades fechados: 83 · Ganhadores: 21 (25%)
 
@@ -27,3 +27,6 @@ Saídas: stop protegido: 15, trailing stop: 14, stop loss: 44, estagnado: 8, tak
 - 2026-11-19T22:10:29 · mihao · -15.4% · stop loss
 - 2026-11-19T21:05:22 · WASTED · -15.7% · stop loss
 
+## Posições abertas
+
+- NOHR +0.0% (custo $37.74, stop -12%)
