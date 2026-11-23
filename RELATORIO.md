@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-23 12:00 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-23 12:05 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $750.44** (-24.96% vs $1000)
+**Valor da carteira: $747.47** (-25.25% vs $1000)
 
-Caixa: $717.07 · Posições abertas: 1
+Caixa: $747.47 · Posições abertas: 0
 
-Trades fechados: 83 · Ganhadores: 21 (25%)
+Trades fechados: 84 · Ganhadores: 21 (25%)
 
-P&L realizado: $-245.20 · Média por trade: -6.7%
+P&L realizado: $-252.54 · Média por trade: -6.9%
 
-Ganho médio: +11.9% · Perda média: -13.0% · Profit factor: 0.30 (acima de 1 = ganha dinheiro)
+Ganho médio: +11.9% · Perda média: -13.1% · Profit factor: 0.30 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 15, trailing stop: 14, stop loss: 44, estagnado: 8, take profit: 2
+Saídas: stop protegido: 15, trailing stop: 14, stop loss: 45, estagnado: 8, take profit: 2
 
 ## Últimos 10 trades
 
+- 2026-11-23T12:05:24 · NOHR · -19.5% · stop loss
 - 2026-11-23T03:00:54 · FLOAT · -14.9% · stop loss
 - 2026-11-22T19:40:34 · Rings · -15.3% · stop loss
 - 2026-11-22T16:15:30 · DESSA · -2.2% · stop protegido
@@ -25,8 +26,4 @@ Saídas: stop protegido: 15, trailing stop: 14, stop loss: 44, estagnado: 8, tak
 - 2026-11-21T13:55:23 · Rings · +7.3% · trailing stop
 - 2026-11-21T03:55:22 · FLOAT · +4.2% · trailing stop
 - 2026-11-19T22:10:29 · mihao · -15.4% · stop loss
-- 2026-11-19T21:05:22 · WASTED · -15.7% · stop loss
 
-## Posições abertas
-
-- NOHR -10.2% (custo $37.74, stop -12%)

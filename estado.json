@@ -1,21 +1,7 @@
 {
   "versao": 2,
-  "caixa": 717.0674232348314,
-  "posicoes": {
-    "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": {
-      "simbolo": "NOHR",
-      "url": "https://dexscreener.com/solana/fbqxu5ezpbbv4vktfd83qperygcotcvqzrtabsxhqs2m",
-      "qtd": 20376.122317870995,
-      "custo": 37.740390696570074,
-      "preco_entrada": 0.001824,
-      "preco_atual": 0.001638,
-      "preco_max": 0.001994,
-      "stop": -12.0,
-      "liq_entrada": 100325.06,
-      "entrada_ts": 1795425924.225661,
-      "falhas": 0
-    }
-  },
+  "caixa": 747.4653853858337,
+  "posicoes": {},
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -1012,6 +998,18 @@
       "horas": 5.34,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a"
+    },
+    {
+      "data_saida": "2026-11-23T12:05:24",
+      "simbolo": "NOHR",
+      "token": "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump",
+      "custo_usd": 37.74,
+      "recebido_usd": 30.4,
+      "pnl_usd": -7.34,
+      "pnl_pct": -19.46,
+      "horas": 2.67,
+      "motivo": "stop loss",
+      "url": "https://dexscreener.com/solana/fbqxu5ezpbbv4vktfd83qperygcotcvqzrtabsxhqs2m"
     }
   ],
   "ultimo_trade": {
@@ -1104,8 +1102,8 @@
   },
   "dia": "2026-11-23",
   "valor_inicio_dia": 756.3545734924586,
-  "pnl_dia": -5.670827199022284,
-  "perdas_seguidas": 0,
+  "pnl_dia": -13.013255744590122,
+  "perdas_seguidas": 1,
   "pausa_ate": 1795424454.0104015,
   "inicio": "2026-10-23T21:40:26"
 }

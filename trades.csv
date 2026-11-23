@@ -82,3 +82,4 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-11-22T16:15:30,DESSA,npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump,38.36,37.5,-0.86,-2.24,1.33,stop protegido,https://dexscreener.com/solana/dextcer4k9dwbxtmu8znvvwgevvmvhmb183pf2xxzwvh
 2026-11-22T19:40:34,Rings,65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring,38.32,32.46,-5.85,-15.27,2.92,stop loss,https://dexscreener.com/solana/8fsuyvnty4r5fzuksjzkexlq2tx96k3updyrvw5xwj9t
 2026-11-23T03:00:54,FLOAT,Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr,38.02,32.35,-5.67,-14.91,5.34,stop loss,https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a
+2026-11-23T12:05:24,NOHR,Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump,37.74,30.4,-7.34,-19.46,2.67,stop loss,https://dexscreener.com/solana/fbqxu5ezpbbv4vktfd83qperygcotcvqzrtabsxhqs2m
