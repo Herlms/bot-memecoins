@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-23 22:15 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-23 22:20 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $734.95** (-26.50% vs $1000)
+**Valor da carteira: $735.19** (-26.48% vs $1000)
 
 Caixa: $702.40 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop protegido: 15, trailing stop: 14, stop loss: 46, estagnado: 8, tak
 
 ## Posições abertas
 
-- FIONA -10.6% (custo $36.97, stop -12%)
+- FIONA -9.9% (custo $36.97, stop -12%)
