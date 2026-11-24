@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-24 12:30 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-24 12:35 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $731.91** (-26.81% vs $1000)
+**Valor da carteira: $731.69** (-26.83% vs $1000)
 
 Caixa: $623.95 · Posições abertas: 3
 
@@ -29,6 +29,6 @@ Saídas: stop protegido: 15, trailing stop: 14, stop loss: 47, estagnado: 8, tak
 
 ## Posições abertas
 
-- JOB -2.9% (custo $36.69, stop -12%)
-- NOHR +5.8% (custo $36.59, stop -12%)
+- JOB -4.4% (custo $36.69, stop -12%)
+- NOHR +6.8% (custo $36.59, stop -12%)
 - FLOAT -3.7% (custo $36.59, stop -12%)
