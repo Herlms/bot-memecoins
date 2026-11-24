@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 660.54787659667,
+  "caixa": 623.9546090796332,
   "posicoes": {
     "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": {
       "simbolo": "JOB",
@@ -8,7 +8,7 @@
       "qtd": 19150.67326236534,
       "custo": 36.69130969118696,
       "preco_entrada": 0.001887,
-      "preco_atual": 0.001809,
+      "preco_atual": 0.001814,
       "preco_max": 0.001891,
       "stop": -12.0,
       "liq_entrada": 144759.73,
@@ -21,11 +21,24 @@
       "qtd": 10257.4740454669,
       "custo": 36.58700753588232,
       "preco_entrada": 0.003513,
-      "preco_atual": 0.003581,
+      "preco_atual": 0.003566,
       "preco_max": 0.003589,
       "stop": -12.0,
       "liq_entrada": 142975.66,
       "entrada_ts": 1795512922.662806,
+      "falhas": 0
+    },
+    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": {
+      "simbolo": "FLOAT",
+      "url": "https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a",
+      "qtd": 9335.95140053664,
+      "custo": 36.593267517036786,
+      "preco_entrada": 0.003861,
+      "preco_atual": 0.003861,
+      "preco_max": 0.003861,
+      "stop": -12.0,
+      "liq_entrada": 353466.6,
+      "entrada_ts": 1795517135.345349,
       "falhas": 0
     }
   },
@@ -1086,7 +1099,7 @@
     "ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump": 1793535327.5514255,
     "EJAxERvKU4kEVXn3NarjvRtgaMaJyP9ZuMeKA7JJpump": 1793734261.7152386,
     "wMHBD2B8KbDagvXUEapginhtJdrH4QSvSezBM8Tpump": 1793590239.4484153,
-    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": 1795383632.140267,
+    "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr": 1795517135.3453505,
     "APLPiTjBWzwfZ5U1TBeqLF9XJ7dV7XKGe7j4BZhkDray": 1793594726.2770183,
     "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump": 1795120832.0728364,
     "SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK": 1793707253.7768326,
@@ -1131,7 +1144,7 @@
     "anakin": 1793535327.5514264,
     "choo": 1793734261.7152395,
     "ants": 1793590239.4484165,
-    "float": 1795383632.1402678,
+    "float": 1795517135.3453515,
     "peak": 1793594726.2770185,
     "wasted": 1795120832.072837,
     "mamesuke": 1793707253.776833,
