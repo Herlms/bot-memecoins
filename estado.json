@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 733.8261938237392,
-  "posicoes": {},
+  "caixa": 697.1348841325523,
+  "posicoes": {
+    "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": {
+      "simbolo": "JOB",
+      "url": "https://dexscreener.com/solana/hauvbmnthcfmg9srxmvz1gaxnpu955hkpdsasc2cx4c8",
+      "qtd": 19150.67326236534,
+      "custo": 36.69130969118696,
+      "preco_entrada": 0.001887,
+      "preco_atual": 0.001887,
+      "preco_max": 0.001887,
+      "stop": -12.0,
+      "liq_entrada": 144759.73,
+      "entrada_ts": 1795504830.135501,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -1051,7 +1065,7 @@
     "EwX2T1p2PmgTsSq2Bi6XtQYxPC5krR4P2fxPfN4Qpump": 1793059250.9377482,
     "51SfaAyrYaR8FpibXT4TXtxEpnZSNoDwYVRojtKupump": 1793155525.5577786,
     "8U6Rw9WVtPb9ShnUo1HeSKBLrGxWLSczCd2RSdYFpump": 1793211629.0019312,
-    "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": 1793853320.8635101,
+    "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": 1795504830.1355197,
     "2gLhk8p2KvUFeUXur2hiF4hxjdRM1vBcbgo9Q7DMZfiw": 1793263527.1515017,
     "HAsTKXYvv65zM7J6Cu5o5PcZsiKMQYo5oz4WPjgqwP6k": 1794400242.487571,
     "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump": 1794616828.9597313,
@@ -1096,7 +1110,7 @@
     "███": 1793059250.9377487,
     "nothing": 1793155525.5577796,
     "███wif": 1793211629.0019317,
-    "job": 1793853320.8635108,
+    "job": 1795504830.1355207,
     "inverse": 1793263527.1515021,
     "jeff": 1794400242.487572,
     "nio": 1794616828.9597323,
