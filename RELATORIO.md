@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-24 15:45 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-24 15:50 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $725.46** (-27.45% vs $1000)
+**Valor da carteira: $723.97** (-27.60% vs $1000)
 
-Caixa: $658.07 · Posições abertas: 2
+Caixa: $688.77 · Posições abertas: 1
 
-Trades fechados: 87 · Ganhadores: 21 (24%)
+Trades fechados: 88 · Ganhadores: 21 (24%)
 
-P&L realizado: $-268.75 · Média por trade: -7.1%
+P&L realizado: $-274.65 · Média por trade: -7.2%
 
 Ganho médio: +11.9% · Perda média: -13.2% · Profit factor: 0.28 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 15, trailing stop: 14, stop loss: 47, estagnado: 9, take profit: 2
+Saídas: stop protegido: 15, trailing stop: 14, stop loss: 48, estagnado: 9, take profit: 2
 
 ## Últimos 10 trades
 
+- 2026-11-24T15:50:33 · FLOAT · -16.1% · stop loss
 - 2026-11-24T15:20:35 · JOB · -7.0% · estagnado
 - 2026-11-23T22:40:29 · FIONA · -15.0% · stop loss
 - 2026-11-23T17:35:28 · UCASH · -21.7% · stop loss
@@ -25,9 +26,7 @@ Saídas: stop protegido: 15, trailing stop: 14, stop loss: 47, estagnado: 9, tak
 - 2026-11-22T16:15:30 · DESSA · -2.2% · stop protegido
 - 2026-11-21T21:40:31 · FIONA · -19.1% · stop loss
 - 2026-11-21T20:00:49 · SHIT · -3.4% · stop protegido
-- 2026-11-21T19:50:31 · mihao · -0.9% · stop protegido
 
 ## Posições abertas
 
-- NOHR -1.3% (custo $36.59, stop -12%)
-- FLOAT -11.7% (custo $36.59, stop -12%)
+- NOHR -2.3% (custo $36.59, stop -12%)
