@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-24 15:15 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-24 15:20 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $724.91** (-27.51% vs $1000)
+**Valor da carteira: $724.29** (-27.57% vs $1000)
 
-Caixa: $623.95 · Posições abertas: 3
+Caixa: $658.07 · Posições abertas: 2
 
-Trades fechados: 86 · Ganhadores: 21 (24%)
+Trades fechados: 87 · Ganhadores: 21 (24%)
 
-P&L realizado: $-266.18 · Média por trade: -7.1%
+P&L realizado: $-268.75 · Média por trade: -7.1%
 
-Ganho médio: +11.9% · Perda média: -13.3% · Profit factor: 0.29 (acima de 1 = ganha dinheiro)
+Ganho médio: +11.9% · Perda média: -13.2% · Profit factor: 0.28 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 15, trailing stop: 14, stop loss: 47, estagnado: 8, take profit: 2
+Saídas: stop protegido: 15, trailing stop: 14, stop loss: 47, estagnado: 9, take profit: 2
 
 ## Últimos 10 trades
 
+- 2026-11-24T15:20:35 · JOB · -7.0% · estagnado
 - 2026-11-23T22:40:29 · FIONA · -15.0% · stop loss
 - 2026-11-23T17:35:28 · UCASH · -21.7% · stop loss
 - 2026-11-23T12:05:24 · NOHR · -19.5% · stop loss
@@ -25,10 +26,8 @@ Saídas: stop protegido: 15, trailing stop: 14, stop loss: 47, estagnado: 8, tak
 - 2026-11-21T21:40:31 · FIONA · -19.1% · stop loss
 - 2026-11-21T20:00:49 · SHIT · -3.4% · stop protegido
 - 2026-11-21T19:50:31 · mihao · -0.9% · stop protegido
-- 2026-11-21T13:55:23 · Rings · +7.3% · trailing stop
 
 ## Posições abertas
 
-- JOB -4.1% (custo $36.69, stop -12%)
-- NOHR -6.1% (custo $36.59, stop -12%)
-- FLOAT -9.9% (custo $36.59, stop -12%)
+- NOHR -5.7% (custo $36.59, stop -12%)
+- FLOAT -10.6% (custo $36.59, stop -12%)

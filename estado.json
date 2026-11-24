@@ -1,27 +1,14 @@
 {
   "versao": 2,
-  "caixa": 623.9546090796332,
+  "caixa": 658.0717244600444,
   "posicoes": {
-    "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": {
-      "simbolo": "JOB",
-      "url": "https://dexscreener.com/solana/hauvbmnthcfmg9srxmvz1gaxnpu955hkpdsasc2cx4c8",
-      "qtd": 19150.67326236534,
-      "custo": 36.69130969118696,
-      "preco_entrada": 0.001887,
-      "preco_atual": 0.001809,
-      "preco_max": 0.001891,
-      "stop": -12.0,
-      "liq_entrada": 144759.73,
-      "entrada_ts": 1795504830.135501,
-      "falhas": 0
-    },
     "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": {
       "simbolo": "NOHR",
       "url": "https://dexscreener.com/solana/fbqxu5ezpbbv4vktfd83qperygcotcvqzrtabsxhqs2m",
       "qtd": 10257.4740454669,
       "custo": 36.58700753588232,
       "preco_entrada": 0.003513,
-      "preco_atual": 0.0033,
+      "preco_atual": 0.003313,
       "preco_max": 0.003778,
       "stop": -12.0,
       "liq_entrada": 142975.66,
@@ -34,7 +21,7 @@
       "qtd": 9335.95140053664,
       "custo": 36.593267517036786,
       "preco_entrada": 0.003861,
-      "preco_atual": 0.003477,
+      "preco_atual": 0.003453,
       "preco_max": 0.003975,
       "stop": -12.0,
       "liq_entrada": 353466.6,
@@ -1074,6 +1061,18 @@
       "horas": 1.08,
       "motivo": "stop loss",
       "url": "https://dexscreener.com/solana/djbltx1hrgzzrjgj7cwtx6sn3d7tbliytkgwombuwtvb"
+    },
+    {
+      "data_saida": "2026-11-24T15:20:35",
+      "simbolo": "JOB",
+      "token": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+      "custo_usd": 36.69,
+      "recebido_usd": 34.12,
+      "pnl_usd": -2.57,
+      "pnl_pct": -7.02,
+      "horas": 8.0,
+      "motivo": "estagnado",
+      "url": "https://dexscreener.com/solana/hauvbmnthcfmg9srxmvz1gaxnpu955hkpdsasc2cx4c8"
     }
   ],
   "ultimo_trade": {
@@ -1168,8 +1167,8 @@
   },
   "dia": "2026-11-24",
   "valor_inicio_dia": 733.8261938237392,
-  "pnl_dia": 0.0,
-  "perdas_seguidas": 0,
+  "pnl_dia": -2.574194310775809,
+  "perdas_seguidas": 1,
   "pausa_ate": 1795495229.4580257,
   "inicio": "2026-10-23T21:40:26"
 }
