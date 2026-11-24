@@ -1,6 +1,6 @@
 {
   "versao": 2,
-  "caixa": 697.1348841325523,
+  "caixa": 660.54787659667,
   "posicoes": {
     "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump": {
       "simbolo": "JOB",
@@ -8,11 +8,24 @@
       "qtd": 19150.67326236534,
       "custo": 36.69130969118696,
       "preco_entrada": 0.001887,
-      "preco_atual": 0.001806,
+      "preco_atual": 0.001807,
       "preco_max": 0.001891,
       "stop": -12.0,
       "liq_entrada": 144759.73,
       "entrada_ts": 1795504830.135501,
+      "falhas": 0
+    },
+    "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": {
+      "simbolo": "NOHR",
+      "url": "https://dexscreener.com/solana/fbqxu5ezpbbv4vktfd83qperygcotcvqzrtabsxhqs2m",
+      "qtd": 10257.4740454669,
+      "custo": 36.58700753588232,
+      "preco_entrada": 0.003513,
+      "preco_atual": 0.003513,
+      "preco_max": 0.003513,
+      "stop": -12.0,
+      "liq_entrada": 142975.66,
+      "entrada_ts": 1795512922.662806,
       "falhas": 0
     }
   },
@@ -1092,7 +1105,7 @@
     "65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring": 1795365931.1993058,
     "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump": 1795469723.8029463,
     "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump": 1795359328.7154262,
-    "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": 1795425924.2256627,
+    "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": 1795512922.6628075,
     "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump": 1795454724.0459297
   },
   "ultimo_simbolo": {
@@ -1137,7 +1150,7 @@
     "rings": 1795365931.199307,
     "fiona": 1795469723.8029475,
     "dessa": 1795359328.7154272,
-    "nohr": 1795425924.225663,
+    "nohr": 1795512922.6628087,
     "ucash": 1795454724.045931
   },
   "dia": "2026-11-24",
