@@ -1,8 +1,8 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-25 03:05 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-25 03:10 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $736.48** (-26.35% vs $1000)
+**Valor da carteira: $736.81** (-26.32% vs $1000)
 
 Caixa: $688.74 · Posições abertas: 1
 
@@ -29,4 +29,4 @@ Saídas: stop protegido: 15, trailing stop: 14, stop loss: 48, estagnado: 10, ta
 
 ## Posições abertas
 
-- JIMMY +33.7% (custo $36.25, stop +4%)
+- JIMMY +34.7% (custo $36.25, stop +4%)
