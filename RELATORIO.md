@@ -1,21 +1,22 @@
 # Relatório da simulação — v2
 
-Atualizado: 2026-11-25 03:25 (UTC) · Início: 2026-10-23T21:40:26
+Atualizado: 2026-11-25 03:30 (UTC) · Início: 2026-10-23T21:40:26
 
-**Valor da carteira: $736.14** (-26.39% vs $1000)
+**Valor da carteira: $732.09** (-26.79% vs $1000)
 
-Caixa: $688.74 · Posições abertas: 1
+Caixa: $732.09 · Posições abertas: 0
 
-Trades fechados: 89 · Ganhadores: 21 (24%)
+Trades fechados: 90 · Ganhadores: 22 (24%)
 
-P&L realizado: $-275.01 · Média por trade: -7.2%
+P&L realizado: $-267.91 · Média por trade: -6.9%
 
-Ganho médio: +11.9% · Perda média: -13.0% · Profit factor: 0.28 (acima de 1 = ganha dinheiro)
+Ganho médio: +12.3% · Perda média: -13.0% · Profit factor: 0.30 (acima de 1 = ganha dinheiro)
 
-Saídas: stop protegido: 15, trailing stop: 14, stop loss: 48, estagnado: 10, take profit: 2
+Saídas: stop protegido: 15, trailing stop: 15, stop loss: 48, estagnado: 10, take profit: 2
 
 ## Últimos 10 trades
 
+- 2026-11-25T03:30:40 · JIMMY · +19.6% · trailing stop
 - 2026-11-24T17:35:25 · NOHR · -1.0% · estagnado
 - 2026-11-24T15:50:33 · FLOAT · -16.1% · stop loss
 - 2026-11-24T15:20:35 · JOB · -7.0% · estagnado
@@ -25,8 +26,4 @@ Saídas: stop protegido: 15, trailing stop: 14, stop loss: 48, estagnado: 10, ta
 - 2026-11-23T03:00:54 · FLOAT · -14.9% · stop loss
 - 2026-11-22T19:40:34 · Rings · -15.3% · stop loss
 - 2026-11-22T16:15:30 · DESSA · -2.2% · stop protegido
-- 2026-11-21T21:40:31 · FIONA · -19.1% · stop loss
 
-## Posições abertas
-
-- JIMMY +32.8% (custo $36.25, stop +4%)

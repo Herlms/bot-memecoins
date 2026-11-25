@@ -88,3 +88,4 @@ data_saida,simbolo,token,custo_usd,recebido_usd,pnl_usd,pnl_pct,horas,motivo,url
 2026-11-24T15:20:35,JOB,9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump,36.69,34.12,-2.57,-7.02,8.0,estagnado,https://dexscreener.com/solana/hauvbmnthcfmg9srxmvz1gaxnpu955hkpdsasc2cx4c8
 2026-11-24T15:50:33,FLOAT,Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr,36.59,30.69,-5.9,-16.12,5.08,stop loss,https://dexscreener.com/solana/fjk9sajdc2q4herppu3ylzkmf2zbyzkpihqlv9e2bn5a
 2026-11-24T17:35:25,NOHR,Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump,36.59,36.22,-0.36,-0.99,8.0,estagnado,https://dexscreener.com/solana/fbqxu5ezpbbv4vktfd83qperygcotcvqzrtabsxhqs2m
+2026-11-25T03:30:40,JIMMY,38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump,36.25,43.34,7.1,19.57,1.84,trailing stop,https://dexscreener.com/solana/fnhwfv49ywctgcdtyf34avn8bixxcgxukqlctkrkp1gq
