@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 724.9902691629543,
-  "posicoes": {},
+  "caixa": 688.7407557048066,
+  "posicoes": {
+    "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump": {
+      "simbolo": "JIMMY",
+      "url": "https://dexscreener.com/solana/fnhwfv49ywctgcdtyf34avn8bixxcgxukqlctkrkp1gq",
+      "qtd": 24120.530440723538,
+      "custo": 36.24951345814771,
+      "preco_entrada": 0.00148,
+      "preco_atual": 0.00148,
+      "preco_max": 0.00148,
+      "stop": -12.0,
+      "liq_entrada": 100337.31,
+      "entrada_ts": 1795570828.8259676,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -1115,7 +1129,8 @@
     "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump": 1795469723.8029463,
     "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump": 1795359328.7154262,
     "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": 1795512922.6628075,
-    "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump": 1795454724.0459297
+    "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump": 1795454724.0459297,
+    "38M2z4UCfZEkUHFzD48vhKQhFhNyRGto8pZbLjNipump": 1795570828.8259692
   },
   "ultimo_simbolo": {
     "dope": 1793787630.6478314,
@@ -1160,7 +1175,8 @@
     "fiona": 1795469723.8029475,
     "dessa": 1795359328.7154272,
     "nohr": 1795512922.6628087,
-    "ucash": 1795454724.045931
+    "ucash": 1795454724.045931,
+    "jimmy": 1795570828.8259702
   },
   "dia": "2026-11-25",
   "valor_inicio_dia": 724.9902691629543,
