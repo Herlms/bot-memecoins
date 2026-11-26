@@ -9907,3 +9907,7 @@
 [2026-11-26 05:55:22] Procura (SOL ok (1h -0.2%, 24h +3.2%)): 99 tokens, 0 passaram. Rejeições: liquidez baixa: 73, idade fora: 10, FDV fora: 8, liquidez fina p/ o FDV: 2 | Carteira $732.09
 [2026-11-26 06:00:51] Procura (SOL ok (1h -0.3%, 24h +3.4%)): 99 tokens, 0 passaram. Rejeições: liquidez baixa: 71, idade fora: 10, FDV fora: 8, volume baixo: 4 | Carteira $732.09
 [2026-11-26 06:05:27] Procura (SOL ok (1h -0.6%, 24h +3.0%)): 100 tokens, 0 passaram. Rejeições: liquidez baixa: 70, FDV fora: 10, idade fora: 10, volume baixo: 4 | Carteira $732.09
+[2026-11-26 06:10:43] Erro de rede: The read operation timed out
+[2026-11-26 06:11:01] Erro de rede: The read operation timed out
+[2026-11-26 06:11:19] Erro de rede: The read operation timed out
+[2026-11-26 06:11:36] Procura (SOL ok (1h -0.4%, 24h +3.1%)): 100 tokens, 0 passaram. Rejeições: liquidez baixa: 70, FDV fora: 10, idade fora: 10, volume baixo: 4 | Carteira $732.09
