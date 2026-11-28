@@ -1,7 +1,21 @@
 {
   "versao": 2,
-  "caixa": 732.3571824930862,
-  "posicoes": {},
+  "caixa": 695.7393233684319,
+  "posicoes": {
+    "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump": {
+      "simbolo": "FIONA",
+      "url": "https://dexscreener.com/solana/djbltx1hrgzzrjgj7cwtx6sn3d7tbliytkgwombuwtvb",
+      "qtd": 25415.283792163515,
+      "custo": 36.6178591246543,
+      "preco_entrada": 0.001419,
+      "preco_atual": 0.001419,
+      "preco_max": 0.001419,
+      "stop": -12.0,
+      "liq_entrada": 134217.23,
+      "entrada_ts": 1795855829.8281553,
+      "falhas": 0
+    }
+  },
   "fechados": [
     {
       "data_saida": "2026-10-24T05:40:27",
@@ -1136,7 +1150,7 @@
     "9rbKkz2BDQBVgZmrHY6d7PTq2ge91gkpEyE4y9PPpump": 1795066243.0481238,
     "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump": 1795275323.1310592,
     "65iH8k736QNhuUHm1tt8X7yJXpJ517HPPq8BrVdwring": 1795365931.1993058,
-    "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump": 1795469723.8029463,
+    "B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump": 1795855829.828157,
     "npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump": 1795359328.7154262,
     "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": 1795512922.6628075,
     "7cFiqdT46zs7ooHWLFiLSaSQKLMibtokh9dBinsspump": 1795454724.0459297,
@@ -1182,7 +1196,7 @@
     "leonida": 1795066243.0481248,
     "mihao": 1795275323.1310604,
     "rings": 1795365931.199307,
-    "fiona": 1795469723.8029475,
+    "fiona": 1795855829.828158,
     "dessa": 1795359328.7154272,
     "nohr": 1795512922.6628087,
     "ucash": 1795454724.045931,
